@@ -1,36 +1,38 @@
 ,phrase,label,sentiment,subjectivity,language,count
-AP,AP,ORG,0.0,0.0,en,5
-US East Coast states prepare for flooding and wind,US East Coast states prepare for flooding and wind,ORG,0.0,0.0,en,1
-Tenn,Tenn,ORG,0.0,0.0,en,1
-producing a storm surge that flooded,producing a storm surge that flooded,ORG,0.0,0.0,en,1
-Trump Cuts and Climate Change,Trump Cuts and Climate Change,ORG,0.0,0.0,en,1
-rescue offi,rescue offi,ORG,0.0,0.0,en,1
-Mexico,Mexico,ORG,0.0,0.0,en,1
-sweeping away roads and bridges and triggering landslides,sweeping away roads and bridges and triggering landslides,ORG,0.0,0.0,en,1
+Shell,Shell,ORG,0.0,0.6923076923076923,en,13
+AP,AP,ORG,-0.046780303030303026,0.545,en,10
+Trump,Trump,ORG,-0.22395833333333337,0.41770833333333335,en,4
+the National Hurricane Center,the National Hurricane Center,ORG,-0.039999999999999994,0.23125,en,4
+The National Hurricane Center,The National Hurricane Center,ORG,-0.0027777777777777866,0.3138888888888889,en,3
+Peninsula Hospital,Peninsula Hospital,ORG,0.0,0.05,en,2
+Formentera,Formentera,ORG,0.08333333333333333,0.0,en,2
+La Niña,La Niña,ORG,0.0,0.0,en,2
+Humberto,Humberto,ORG,-0.05,0.05,en,2
+Un,Un,ORG,0.03125,0.0,en,1
+Truthout,Truthout,ORG,0.05,0.0,en,1
+the Climate Prediction Center,the Climate Prediction Center,ORG,-0.1,0.0,en,1
 CNPC,CNPC,ORG,0.0,0.0,en,1
 The National Civil Protection Coordination,The National Civil Protection Coordination,ORG,0.0,0.0,en,1
-Mexico flooding death toll rises to 64,Mexico flooding death toll rises to 64,ORG,1.0,0.0,en,1
-from flooding and landslides across the country,from flooding and landslides across the country,ORG,1.0,0.0,en,1
-affected areas,affected areas,ORG,0.0,0.0,en,1
-Rescue operations are underway,Rescue operations are underway,ORG,0.0,0.0,en,1
-Flooding and landslides,Flooding and landslides,ORG,0.0,0.0,en,1
-Torrential flooding has continued to sweep parts of central and southeastern Mexico,Torrential flooding has continued to sweep parts of central and southeastern Mexico,ORG,1.0,0.0,en,1
+Alaska State Troopers,Alaska State Troopers,ORG,-0.25,0.0,en,1
+Now Going for Pennies,Now Going for Pennies,ORG,0.25,0.0,en,1
+The EcoFlow Power Station Sells,The EcoFlow Power Station Sells,ORG,0.25,0.0,en,1
+The EcoFlow Power Station Sells Out,The EcoFlow Power Station Sells Out,ORG,0.0,0.0,en,1
 "KFF Health News
-LOUISVILLE","KFF Health News
-LOUISVILLE",ORG,0.0,0.0,en,1
-South Carolina moves rescue teams,South Carolina moves rescue teams,ORG,0.0,0.0,en,1
-as the country's…,as the country's…,ORG,1.0,0.0,en,1
-on Tuesday,on Tuesday,ORG,1.0,0.0,en,1
-The popular Mediterranean destinations,The popular Mediterranean destinations,ORG,1.0,0.0,en,1
-UK time,UK time,ORG,0.0,0.0,en,1
-Simon King Lead Weather,Simon King Lead Weather,ORG,0.0,0.0,en,1
-hurricanes or just bad storms,hurricanes or just bad storms,ORG,0.0,0.0,en,1
-flash floods,flash floods,ORG,0.0,0.0,en,1
-or try using a diffe…,or try using a diffe…,ORG,0.0,0.0,en,1
-or browser settings,or browser settings,ORG,0.0,0.0,en,1
-network issues,network issues,ORG,0.0,0.0,en,1
-and AI-powered threat analysis A required part of this site couldnt load,and AI-powered threat analysis A required part of this site couldnt load,ORG,1.0,0.0,en,1
-NWS alerts,NWS alerts,ORG,1.0,0.0,en,1
-which has already caused flooding in the Bahamas,which has already caused flooding in the Bahamas,ORG,0.0,0.0,en,1
-the East Coast of the U.S.,the East Coast of the U.S.,ORG,0.0,0.0,en,1
-Philippine victims of a 2021,Philippine victims of a 2021,ORG,0.0,0.0,en,1
+","KFF Health News
+",ORG,0.0,0.0,en,1
+the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.125,0.0,en,1
++1864,+1864,ORG,0.0,0.0,en,1
+Tylenol,Tylenol,ORG,0.3333333333333333,0.0,en,1
+This La Niña,This La Niña,ORG,-0.1,0.0,en,1
+UN,UN,ORG,-0.2,0.0,en,1
+Fernand,Fernand,ORG,0.0,0.0,en,1
+Reader's Digest,Reader's Digest,ORG,0.25,0.0,en,1
+iPhone,iPhone,ORG,0.30952380952380953,0.0,en,1
+Categ,Categ,ORG,0.0,0.0,en,1
+SSHWS,SSHWS,ORG,0.2,0.0,en,1
+Giz,Giz,ORG,0.2,0.0,en,1
+Imelda,Imelda,ORG,-0.0875,0.0,en,1
+FREIDA,FREIDA,ORG,0.025,0.0,en,1
+Sun News,Sun News,ORG,0.0,0.0,en,1
+Hurricane Laura,Hurricane Laura,ORG,-0.26666666666666666,0.0,en,1
+the National Hu,the National Hu,ORG,0.0,0.0,en,1

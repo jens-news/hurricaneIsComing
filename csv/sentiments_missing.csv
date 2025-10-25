@@ -1,9 +1,128 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Hong Kong as Death Toll Reaches 17,,,,,,
-Hong Kong on Wednesday,,,,,,
-Sept.,,,,,,
-North Carolina declare… As Tropical Storm Imelda gets stronger,,,,,,
-Thousands evacuate,,,,,,
-poverty,,,,,,
-Alaska After Typhoon Disaster,,,,,,
-BANGKOK,,,,,,
+Philippine,Philippine,NORP,,,en,14
+2021,2021,CARDINAL,,,en,12
+Hurricane Humberto,Hurricane Humberto,EVENT,,,en,8
+season,season,DATE,,,en,7
+Tuesday,Tuesday,DATE,,,en,7
+two,two,CARDINAL,,,en,6
+Android,Android,PRODUCT,,,en,6
+Sunday,Sunday,DATE,,,en,4
+44,44,CARDINAL,,,en,4
+Tropical Storm Imelda,Tropical Storm Imelda,WORK_OF_ART,-0.24166666666666667,1.5333333333333332,en,4
+Monday,Monday,DATE,,,en,3
+the weekend,the weekend,DATE,,,en,3
+early next week,early next week,DATE,,,en,3
+dozens,dozens,CARDINAL,,,en,3
+this year,this year,DATE,,,en,3
+one,one,CARDINAL,,,en,3
+millions,millions,CARDINAL,,,en,3
+Thursday,Thursday,DATE,,,en,3
+1,1,CARDINAL,,,en,2
+Two,Two,CARDINAL,,,en,2
+Fujiwhara,Fujiwhara,NORP,,,en,2
+Super Typhoon Ragasa,Super Typhoon Ragasa,FAC,,,en,2
+Dozens,Dozens,CARDINAL,,,en,2
+Hurricane Priscilla,Hurricane Priscilla,EVENT,,,en,2
+the Saffir-Simpson Hurricane Wind Scale,the Saffir-Simpson Hurricane Wind Scale,FAC,,,en,2
+Every Hurricane Season,Every Hurricane Season,EVENT,,,en,2
+days,days,DATE,,,en,2
+three,three,CARDINAL,,,en,2
+64,64,CARDINAL,,,en,2
+One,One,CARDINAL,,,en,2
+Thousands,Thousands,CARDINAL,,,en,2
+Hurricane season,Hurricane season,DATE,,,en,2
+10 years ago,10 years ago,DATE,,,en,2
+this weekend,this weekend,DATE,,,en,2
+decades,decades,DATE,,,en,2
+Chinese,Chinese,NORP,,,en,2
+Hurricane Helene,Hurricane Helene,EVENT,,,en,2
+second,second,ORDINAL,,,en,2
+later in the day,later in the day,TIME,,,en,2
+hurricane season,hurricane season,DATE,,,en,2
+the hurricane season,the hurricane season,DATE,,,en,2
+more than 50 years,more than 50 years,DATE,,,en,1
+"some 100,000","some 100,000",CARDINAL,,,en,1
+the late night hours,the late night hours,TIME,,,en,1
+More than a thousand,More than a thousand,CARDINAL,,,en,1
+hundreds of miles,hundreds of miles,QUANTITY,,,en,1
+the Yukon-Kuskokwim Delta,the Yukon-Kuskokwim Delta,FAC,,,en,1
+daily,daily,DATE,,,en,1
+Fifteen minutes,Fifteen minutes,TIME,,,en,1
+60,60,CARDINAL,,,en,1
+Wednesday,Wednesday,DATE,,,en,1
+17,17,DATE,,,en,1
+2,2,CARDINAL,,,en,1
+several days last week,several days last week,DATE,,,en,1
+Mexican,Mexican,NORP,,,en,1
+last week’s,last week’s,DATE,,,en,1
+last week,last week,DATE,,,en,1
+five,five,CARDINAL,,,en,1
+At least 64,At least 64,CARDINAL,,,en,1
+Oct. 11,Oct. 11,DATE,,,en,1
+some 20,some 20,CARDINAL,,,en,1
+years,years,DATE,,,en,1
+More than 30,More than 30,CARDINAL,,,en,1
+Tylenol,Tylenol,PRODUCT,,,en,1
+Today,Today,DATE,,,en,1
++3672,+3672,NORP,,,en,1
+10,10,CARDINAL,,,en,1
+the late weekend,the late weekend,DATE,,,en,1
+Friday,Friday,DATE,,,en,1
+As Tropical Storm Melissa,As Tropical Storm Melissa,WORK_OF_ART,,,en,1
+Tropical Storm Melissa,Tropical Storm Melissa,WORK_OF_ART,0.16666666666666663,0.41666666666666663,en,1
+Barebones,Barebones,WORK_OF_ART,,,en,1
+a century,a century,DATE,,,en,1
+Barebones Hurricane Lantern,Barebones Hurricane Lantern,EVENT,,,en,1
+3,3,CARDINAL,,,en,1
++1874 chars,+1874 chars,WORK_OF_ART,,,en,1
+Consent Framework,Consent Framework,WORK_OF_ART,,,en,1
+237,237,CARDINAL,,,en,1
+"Oct. 12, 2025","Oct. 12, 2025",DATE,,,en,1
+The Conversation,The Conversation,WORK_OF_ART,,,en,1
++12783,+12783,NORP,,,en,1
+Tropical Storm Fengshen,Tropical Storm Fengshen,WORK_OF_ART,,,en,1
+"Wednesday, Sept. 24","Wednesday, Sept. 24",DATE,,,en,1
+at least 18,at least 18,CARDINAL,,,en,1
+hundreds,hundreds,CARDINAL,,,en,1
+A year,A year,DATE,,,en,1
+168.3mm,168.3mm,QUANTITY,,,en,1
+Ibiza airport,Ibiza airport,FAC,,,en,1
+the last 24 hours,the last 24 hours,TIME,,,en,1
+239mm,239mm,QUANTITY,,,en,1
+09/29/2025 5:11:54 PM PDT,09/29/2025 5:11:54 PM PDT,TIME,,,en,1
+28 August,28 August,DATE,,,en,1
+this season,this season,DATE,,,en,1
+a year,a year,DATE,,,en,1
+These Are the Emergency Alerts You Need to Enable on Your Phone,These Are the Emergency Alerts You Need to Enable on Your Phone,LAW,,,en,1
+Spanish,Spanish,NORP,,,en,1
++12 chars,+12 chars,WORK_OF_ART,,,en,1
+earlier this weekend,earlier this weekend,DATE,,,en,1
+these last few days,these last few days,DATE,,,en,1
++4426 chars,+4426 chars,WORK_OF_ART,,,en,1
+this week,this week,DATE,,,en,1
+morning,morning,TIME,,,en,1
+4,4,CARDINAL,,,en,1
+first,first,ORDINAL,,,en,1
+105.4mm,105.4mm,QUANTITY,,,en,1
+69,69,CARDINAL,,,en,1
+a dangerous week ahead,a dangerous week ahead,DATE,,,en,1
+Earlier this week,Earlier this week,DATE,,,en,1
+summer,summer,DATE,,,en,1
+Hurricane Gabrielle,Hurricane Gabrielle,EVENT,,,en,1
+2025,2025,CARDINAL,,,en,1
+20 Years After,20 Years After,DATE,,,en,1
+late August 2020,late August 2020,DATE,,,en,1
+less than a week,less than a week,DATE,,,en,1
+at least 44,at least 44,CARDINAL,,,en,1
+"more than 16,000","more than 16,000",CARDINAL,,,en,1
+"Nearly 30,000","Nearly 30,000",CARDINAL,,,en,1
+barely more than a week,barely more than a week,DATE,,,en,1
+At least 170,At least 170,CARDINAL,,,en,1
+September 2025,September 2025,DATE,,,en,1
+Thursday Oct. 9,Thursday Oct. 9,DATE,,,en,1
+the U.S.,the U.S.,FAC,,,en,1
+winter,winter,DATE,,,en,1
+6.9,6.9,CARDINAL,,,en,1
+coming days,coming days,DATE,,,en,1
+At least 69,At least 69,CARDINAL,,,en,1
+Oct. 23,Oct. 23,DATE,,,en,1
