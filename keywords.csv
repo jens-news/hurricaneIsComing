@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane alert',en,Mitigation,#a89216,#638ed4,3,0.2078863049023484
 'hurricane evacuation',en,Mitigation,#a89216,#9e3215,3,0.1953931463816612
 'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.1808588954575168
-'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.17706079018969398
-'tropical cyclone',en,Hazard,#4287f5,#77731f,2,0.1707011913049616
+'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.1770607901896939
+'tropical cyclone',en,Hazard,#4287f5,#77731f,2,0.17609075689493164
 'hurricane climate change',en,Causes,#679e2c,#61d01c,3,0.1635661508887889
 'hurricane climate change',en,Causes,#3288e5,#638ed4,3,0.1635661508887889
 'tropical depression',en,Hazard,#4287f5,#315fa8,3,0.1621224107838462
