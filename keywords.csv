@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane climate change',en,Causes,#679e2c,#61d01c,3,0.1635661508887889
 'hurricane climate change',en,Causes,#3288e5,#638ed4,3,0.1635661508887889
 'tropical depression',en,Hazard,#4287f5,#315fa8,3,0.1621224107838462
+'hurricane warning',en,Mitigation,#a89216,#87830f,2,0.16014402202491274
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.1595944288565655
 'typhoon climate change',en,Causes,#9e3215,#f64118,2,0.1542450642930299
-'hurricane warning',en,Mitigation,#a89216,#87830f,1,0.1430732403329144
-'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,3,0.12504784985858575
+'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,3,0.1250478498585857
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,2,0.0972206735947069
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0965776731053645
 'hurricane',en,Hazard,#4287f5,#022f78,3,0.0595625712000606
