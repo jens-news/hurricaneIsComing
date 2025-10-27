@@ -1,18 +1,30 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Typhoon Ragasa,Typhoon Ragasa,PERSON,0.013888888888888878,0.18444444444444444,en,5
+Storm Amy,Storm Amy,PERSON,0.025000000000000005,0.31666666666666665,en,3
+Typhoon Matmo,Typhoon Matmo,PERSON,-0.10833333333333334,0.19166666666666665,en,2
+Ashlee Guidry,Ashlee Guidry,PERSON,-0.26666666666666666,0.4333333333333333,en,2
+Matt Van Swol,Matt Van Swol,PERSON,0.0,0.2361111111111111,en,2
 Claudia Sheinbaum,Claudia Sheinbaum,PERSON,0.275,0.3625,en,2
-RFK Jr,RFK Jr,PERSON,0.3333333333333333,0.5,en,1
-Brett Kelman,Brett Kelman,PERSON,0.0,0.0,en,1
+AccuWeather meteo,AccuWeather meteo,PERSON,-0.03125,0.75,en,1
 Rick Thoman,Rick Thoman,PERSON,0.03125,0.625,en,1
 Lilia Ramírez,Lilia Ramírez,PERSON,-0.1875,0.5,en,1
+Gulf Coas,Gulf Coas,PERSON,0.0,0.0,en,1
 Laura Velazquez Alzua,Laura Velazquez Alzua,PERSON,0.0,0.0,en,1
+FORT COLLINS,FORT COLLINS,PERSON,0.5,0.5,en,1
 Hannah Norman Lydia Zuraw,Hannah Norman Lydia Zuraw,PERSON,0.0,0.0,en,1
 Daniel Chang,Daniel Chang,PERSON,0.0,0.0,en,1
-Jonathan HeadSouth East Asia,Jonathan HeadSouth East Asia,PERSON,-0.1,0.45,en,1
+Brett Kelman,Brett Kelman,PERSON,0.0,0.0,en,1
+Halle Parker,Halle Parker,PERSON,-0.26666666666666666,0.4333333333333333,en,1
+RFK Jr,RFK Jr,PERSON,0.3333333333333333,0.5,en,1
+Met Éireann,Met Éireann,PERSON,-0.175,0.6166666666666667,en,1
 Jimmy Kimmel,Jimmy Kimmel,PERSON,0.0,0.0,en,1
+Jonathan HeadSouth East Asia,Jonathan HeadSouth East Asia,PERSON,-0.1,0.45,en,1
+Matt Van Swol,Matt Van Swol,PERSON,0.0,0.18888888888888888,en,1
 Amelia Taylor,Amelia Taylor,PERSON,0.0,0.25,en,1
 Sarah-Keith Lucas,Sarah-Keith Lucas,PERSON,0.0,0.0,en,1
+Alexandre Aja,Alexandre Aja,PERSON,0.5,0.7,en,1
+Kaya Scodelario,Kaya Scodelario,PERSON,0.5,0.7,en,1
+Storm Imelda,Storm Imelda,PERSON,0.0,0.2333333333333333,en,1
 FRISARO MIAMI,FRISARO MIAMI,PERSON,0.025,0.075,en,1
-Ashlee Guidry,Ashlee Guidry,PERSON,-0.26666666666666666,0.4333333333333333,en,1
 Typhoon Ragasa Eclipses Mangkhut,Typhoon Ragasa Eclipses Mangkhut,PERSON,0.1,0.4,en,1
-AccuWeather meteo,AccuWeather meteo,PERSON,-0.03125,0.75,en,1
+Tropical Storm Melissa,Tropical Storm Melissa,PERSON,-0.05714285714285715,0.41428571428571426,en,1

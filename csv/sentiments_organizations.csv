@@ -1,38 +1,57 @@
 ,phrase,label,sentiment,subjectivity,language,count
+AP,AP,ORG,-0.020978277674706246,0.5212585034013605,en,14
 Shell,Shell,ORG,0.0,0.6923076923076923,en,13
-AP,AP,ORG,-0.046780303030303026,0.545,en,10
+the National Hurricane Center,the National Hurricane Center,ORG,-0.04897727272727273,0.2752840909090909,en,8
+Status Yellow,Status Yellow,ORG,0.055999999999999994,0.16533333333333336,en,5
 Trump,Trump,ORG,-0.22395833333333337,0.41770833333333335,en,4
-the National Hurricane Center,the National Hurricane Center,ORG,-0.039999999999999994,0.23125,en,4
+National Hurricane Center,National Hurricane Center,ORG,-0.06893939393939394,0.12575757575757576,en,3
+Imelda,Imelda,ORG,-0.029166666666666664,0.10444444444444445,en,3
 The National Hurricane Center,The National Hurricane Center,ORG,-0.0027777777777777866,0.3138888888888889,en,3
 Peninsula Hospital,Peninsula Hospital,ORG,0.0,0.05,en,2
+Hurricane Imelda,Hurricane Imelda,ORG,-0.052727272727272734,0.17545454545454547,en,2
 Formentera,Formentera,ORG,0.08333333333333333,0.0,en,2
 La Niña,La Niña,ORG,0.0,0.0,en,2
+FREIDA,FREIDA,ORG,0.0125,0.11666666666666665,en,2
+Hurricane Laura,Hurricane Laura,ORG,-0.26666666666666666,0.21666666666666665,en,2
 Humberto,Humberto,ORG,-0.05,0.05,en,2
+Paramount Pictures,Paramount Pictures,ORG,0.5,0.35,en,2
 Un,Un,ORG,0.03125,0.0,en,1
-Truthout,Truthout,ORG,0.05,0.0,en,1
+This La Niña,This La Niña,ORG,-0.1,0.0,en,1
 the Climate Prediction Center,the Climate Prediction Center,ORG,-0.1,0.0,en,1
-CNPC,CNPC,ORG,0.0,0.0,en,1
-The National Civil Protection Coordination,The National Civil Protection Coordination,ORG,0.0,0.0,en,1
-Alaska State Troopers,Alaska State Troopers,ORG,-0.25,0.0,en,1
-Now Going for Pennies,Now Going for Pennies,ORG,0.25,0.0,en,1
-The EcoFlow Power Station Sells,The EcoFlow Power Station Sells,ORG,0.25,0.0,en,1
-The EcoFlow Power Station Sells Out,The EcoFlow Power Station Sells Out,ORG,0.0,0.0,en,1
 "KFF Health News
 ","KFF Health News
 ",ORG,0.0,0.0,en,1
+The EcoFlow Power Station Sells Out,The EcoFlow Power Station Sells Out,ORG,0.0,0.0,en,1
+The EcoFlow Power Station Sells,The EcoFlow Power Station Sells,ORG,0.25,0.0,en,1
+Now Going for Pennies,Now Going for Pennies,ORG,0.25,0.0,en,1
 the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.125,0.0,en,1
+Alaska State Troopers,Alaska State Troopers,ORG,-0.25,0.0,en,1
+The National Civil Protection Coordination,The National Civil Protection Coordination,ORG,0.0,0.0,en,1
+CNPC,CNPC,ORG,0.0,0.0,en,1
+Coast Guard,Coast Guard,ORG,0.0,0.0,en,1
+U.S. Coast Guard,U.S. Coast Guard,ORG,0.15,0.0,en,1
+AccuWeather,AccuWeather,ORG,0.0,0.0,en,1
 +1864,+1864,ORG,0.0,0.0,en,1
+Truthout,Truthout,ORG,0.05,0.0,en,1
+The National Hur…,The National Hur…,ORG,0.0,0.0,en,1
 Tylenol,Tylenol,ORG,0.3333333333333333,0.0,en,1
-This La Niña,This La Niña,ORG,-0.1,0.0,en,1
-UN,UN,ORG,-0.2,0.0,en,1
-Fernand,Fernand,ORG,0.0,0.0,en,1
-Reader's Digest,Reader's Digest,ORG,0.25,0.0,en,1
-iPhone,iPhone,ORG,0.30952380952380953,0.0,en,1
-Categ,Categ,ORG,0.0,0.0,en,1
-SSHWS,SSHWS,ORG,0.2,0.0,en,1
-Giz,Giz,ORG,0.2,0.0,en,1
-Imelda,Imelda,ORG,-0.0875,0.0,en,1
-FREIDA,FREIDA,ORG,0.025,0.0,en,1
+the Eastern Pacific,the Eastern Pacific,ORG,-0.13333333333333333,0.0,en,1
+Verite News,Verite News,ORG,-0.26666666666666666,0.0,en,1
 Sun News,Sun News,ORG,0.0,0.0,en,1
-Hurricane Laura,Hurricane Laura,ORG,-0.26666666666666666,0.0,en,1
+ne,ne,ORG,0.0,0.0,en,1
+Param,Param,ORG,0.5,0.0,en,1
+Storm Imelda,Storm Imelda,ORG,-0.06666666666666667,0.0,en,1
+Giz,Giz,ORG,0.2,0.0,en,1
+SSHWS,SSHWS,ORG,0.2,0.0,en,1
+Categ,Categ,ORG,0.0,0.0,en,1
+iPhone,iPhone,ORG,0.30952380952380953,0.0,en,1
+Reader's Digest,Reader's Digest,ORG,0.25,0.0,en,1
+Fernand,Fernand,ORG,0.0,0.0,en,1
 the National Hu,the National Hu,ORG,0.0,0.0,en,1
+Hurricanes Imelda,Hurricanes Imelda,ORG,-0.3,0.0,en,1
+UN,UN,ORG,-0.2,0.0,en,1
+Track,Track,ORG,0.0,0.0,en,1
+Matmo,Matmo,ORG,-0.13333333333333333,0.0,en,1
+Typhoon Matmo,Typhoon Matmo,ORG,-0.13333333333333333,0.0,en,1
+Laura,Laura,ORG,-0.26666666666666666,0.0,en,1
+rapi,rapi,ORG,-0.13333333333333333,0.0,en,1
