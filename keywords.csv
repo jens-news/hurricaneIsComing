@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,3,0.1250478498585857
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,2,0.0972206735947069
 'hurricane',en,Hazard,#4287f5,#022f78,3,0.0595625712000606
-'typhoon',en,Hazard,#4287f5,#4287f5,2,0.0175170059612181
+'typhoon',en,Hazard,#4287f5,#4287f5,3,0.041171667289257606
 'flooding',en,Impacts,#c4b03b,#b55035,1,0.015266332818757
