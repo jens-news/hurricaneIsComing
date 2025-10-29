@@ -16,4 +16,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,2,0.0848877975555008
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.0606347936244403
 'hurricane',en,Hazard,#4287f5,#022f78,3,0.0595625712000606
-'flooding',en,Impacts,#c4b03b,#b55035,1,0.015266332818757
+'flooding tropical',en,Impacts,#c4b03b,#b55035,1,0.015266332818757
