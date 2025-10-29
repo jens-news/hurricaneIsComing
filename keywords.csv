@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane season',en,Hazard,#4287f5,#d64118,3,0.2074276416963705
 'hurricane alert',en,Mitigation,#a89216,#638ed4,3,0.2023340455955675
 'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.1777377348485666
-'tropical cyclone',en,Hazard,#4287f5,#77731f,2,0.1760907568949316
+'tropical cyclone',en,Hazard,#4287f5,#77731f,3,0.1773625910879646
 'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.1729813530898112
 'hurricane warning',en,Mitigation,#a89216,#87830f,3,0.1709832787211758
 'hurricane evacuation',en,Mitigation,#a89216,#9e3215,3,0.1660712037204276
