@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'tropical depression',en,Hazard,#4287f5,#315fa8,3,0.165490366893542
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.1651644295280806
 'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.1591815671073885
-'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.1050178741833319
-'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.09034709927282814
+'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.0903470992728281
+'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.09016528305583212
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.0900653091961588
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,2,0.0848877975555008
 'flooding tropical',en,Impacts,#c4b03b,#b55035,2,0.0406615606232161
