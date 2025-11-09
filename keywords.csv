@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.2404167926801665
+'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.20915998877814151
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.2077604535604069
 'hurricane alert',en,Mitigation,#a89216,#638ed4,3,0.2008297221433291
-'hurricane warning',en,Mitigation,#a89216,#87830f,3,0.20032520237280269
+'hurricane warning',en,Mitigation,#a89216,#87830f,3,0.2003252023728026
 'typhoon climate change',en,Causes,#9e3215,#f64118,3,0.1982172598513279
 'hurricane season',en,Hazard,#4287f5,#d64118,3,0.1940663828397379
 'hurricane climate change',en,Causes,#3288e5,#638ed4,3,0.1898768153777047
