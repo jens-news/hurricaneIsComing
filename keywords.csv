@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.1591815671073885
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.1150890205586704
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0901652830558321
-'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,2,0.0848877975555008
-'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.07679503438190388
+'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.0767950343819038
+'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.07215503292217568
 'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.0667931838024609
