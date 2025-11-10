@@ -1,98 +1,224 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Caribbean,Caribbean,LOC,-0.0038562271062271077,0.3777802197802197,en,26
-Mexico,Mexico,GPE,-0.06046075837742504,0.3005511463844797,en,18
-Alaska,Alaska,GPE,-0.038097890671420075,0.40565953654188946,en,17
-Atlantic,Atlantic,LOC,0.0756539502164502,0.3741431277056277,en,16
-Jamaica,Jamaica,GPE,-0.12875793650793652,0.45268253968253974,en,15
-U.S.,U.S.,GPE,-0.028560606060606075,0.48840909090909085,en,11
+Jamaica,Jamaica,GPE,-0.021865998666546385,0.3270280383105578,en,313
+Caribbean,Caribbean,LOC,0.004242437029493954,0.3814005568962604,en,133
+Cuba,Cuba,GPE,-0.0006801367182723105,0.31729278254701976,en,59
+Atlantic,Atlantic,LOC,0.10454437229437231,0.3424911616161616,en,52
+Philippines,Philippines,GPE,-0.06105324074074075,0.33741319444444445,en,48
+Alaska,Alaska,GPE,0.020906565656565654,0.3233466371027347,en,41
+Haiti,Haiti,GPE,-0.05911222615768071,0.31862783680965495,en,33
+Florida,Florida,GPE,-0.00260562354312354,0.3855346736596737,en,26
+Mexico,Mexico,GPE,-0.07279856386999244,0.2999622071050642,en,21
+UK,UK,GPE,0.11562770562770563,0.1803860028860029,en,20
+Typhoon Halong,Typhoon Halong,GPE,0.08310000000000001,0.3336083333333334,en,20
+Vietnam,Vietnam,GPE,-0.0008771929824561431,0.28092105263157896,en,19
+Black River,Black River,LOC,-0.09208938120702828,0.3598514557338088,en,17
+U.S.,U.S.,GPE,0.0035286458333333263,0.51390625,en,16
+Bermuda,Bermuda,LOC,0.005329350048100041,0.36302585377585384,en,16
+the Dominican Republic,the Dominican Republic,GPE,-0.08525,0.24555555555555555,en,15
+the Caribbean Sea,the Caribbean Sea,LOC,-0.09284722222222223,0.4,en,15
+US,US,GPE,0.04092261904761905,0.3,en,14
+Bahamas,Bahamas,GPE,-0.027430555555555555,0.1777777777777778,en,12
+the Atlantic Ocean,the Atlantic Ocean,LOC,0.01856060606060606,0.4537247474747474,en,11
 the East Coast,the East Coast,LOC,-0.06904545454545453,0.544348484848485,en,10
-Bermuda,Bermuda,LOC,-0.06803030303030304,0.29212121212121217,en,9
-the Caribbean Sea,the Caribbean Sea,LOC,-0.153125,0.5145833333333334,en,8
-Florida,Florida,GPE,-0.046287878787878795,0.2659848484848485,en,8
-Bahamas,Bahamas,GPE,-0.051041666666666666,0.14479166666666668,en,8
-East Coast,East Coast,LOC,-0.014285714285714287,0.3547619047619048,en,7
-South Carolina,South Carolina,GPE,0.0023809523809523803,0.12023809523809523,en,7
+East Coast,East Coast,LOC,-0.011111111111111112,0.2833333333333334,en,9
+Hispaniola,Hispaniola,GPE,-0.208984375,0.42499999999999993,en,8
+Puerto Rico,Puerto Rico,GPE,-0.15004329004329006,0.4474350649350649,en,8
+North Carolina,North Carolina,GPE,-0.002777777777777782,0.20416666666666666,en,8
+Japan,Japan,GPE,0.17515624999999999,0.5032291666666666,en,8
+SAN JUAN,SAN JUAN,GPE,-0.1143351886209029,0.42564007421150274,en,7
 Hong Kong,Hong Kong,GPE,0.09722222222222221,0.2968253968253968,en,7
-North Carolina,North Carolina,GPE,-0.02857142857142857,0.12698412698412698,en,7
-Philippines,Philippines,GPE,-0.08928571428571429,0.20476190476190476,en,7
-Puerto Rico,Puerto Rico,GPE,-0.17227994227994228,0.42991341991341986,en,6
-Typhoon Halong,Typhoon Halong,GPE,0.01388888888888889,0.3583333333333334,en,6
-SAN JUAN,SAN JUAN,GPE,-0.12673593073593076,0.39589610389610386,en,5
-Cuba,Cuba,GPE,-0.15916666666666668,0.3083333333333333,en,5
+South Carolina,South Carolina,GPE,0.0023809523809523803,0.12023809523809523,en,7
 BANGKOK,BANGKOK,GPE,0.0,1.0,en,5
-Haiti,Haiti,GPE,-0.15041666666666667,0.3933333333333333,en,5
-the Dominican Republic,the Dominican Republic,GPE,-0.1546875,0.45,en,4
-the Atlantic Ocean,the Atlantic Ocean,LOC,-0.23645833333333333,0.6526041666666665,en,4
-Japan,Japan,GPE,0.29010416666666666,0.5958333333333332,en,4
-US,US,GPE,-0.0546875,0.21250000000000002,en,4
+Western Alaska,Western Alaska,LOC,-0.06999999999999999,0.2,en,5
+the United States,the United States,GPE,0.21000000000000002,0.4333333333333333,en,5
+Miami,Miami,GPE,-0.027727272727272722,0.33090909090909093,en,5
+CUBA,CUBA,GPE,0.13735119047619046,0.34345238095238095,en,4
+Chivirico,Chivirico,GPE,0.08333333333333334,0.32916666666666666,en,4
+Turkey,Turkey,GPE,0.075,0.025,en,4
+China,China,GPE,-0.008333333333333333,0.03333333333333333,en,4
+Earth,Earth,LOC,-0.07333333333333333,0.28791666666666665,en,4
+Atlantic Basin,Atlantic Basin,LOC,0.12057291666666667,0.3822916666666667,en,4
+Ireland,Ireland,GPE,0.10833333333333332,0.18333333333333332,en,4
+Cebu,Cebu,LOC,-0.25,0.5,en,4
+the Pacific Ocean,the Pacific Ocean,LOC,0.0636111111111111,0.4974999999999999,en,3
 Ibiza,Ibiza,GPE,0.05555555555555555,0.17777777777777778,en,3
-China,China,GPE,-0.011111111111111112,0.044444444444444446,en,3
-UK,UK,GPE,0.08333333333333333,0.12222222222222222,en,3
+Hanoi,Hanoi,GPE,0.3333333333333333,0.6222222222222221,en,3
 Tenn.,Tenn.,GPE,0.0,0.03333333333333333,en,3
-Louisiana,Louisiana,GPE,0.0037037037037036904,0.3,en,3
-Western Alaska,Western Alaska,LOC,-0.11666666666666665,0.3333333333333333,en,3
+Central Florida,Central Florida,LOC,-0.016666666666666653,0.5,en,3
+Canada,Canada,GPE,0.14583333333333334,0.35694444444444445,en,3
 Taiwan,Taiwan,GPE,0.03722222222222222,0.31777777777777777,en,3
-Hispaniola,Hispaniola,GPE,-0.3,0.45,en,2
-LOUISVILLE,LOUISVILLE,GPE,0.0,0.05,en,2
-U.S. East Coast,U.S. East Coast,LOC,-0.11666666666666665,0.5333333333333333,en,2
-New Jersey,New Jersey,GPE,0.16015151515151516,0.5860606060606061,en,2
+Northeast,Northeast,LOC,0.15353535353535355,0.6858585858585858,en,3
+Montego Bay,Montego Bay,LOC,-0.2888888888888889,0.5805555555555555,en,3
+the Atlantic Basin,the Atlantic Basin,LOC,0.23750000000000002,0.6044444444444445,en,3
+Sarasota,Sarasota,GPE,0.09382716049382717,0.5487654320987655,en,3
+Louisiana,Louisiana,GPE,0.0037037037037036904,0.3,en,3
+Türkiye,Türkiye,GPE,0.20404040404040405,0.22457912457912457,en,3
+United States,United States,GPE,0.0,0.6666666666666666,en,3
+MIAMI,MIAMI,GPE,-0.0865530303030303,0.5239898989898989,en,3
+U.S,U.S,GPE,0.05,0.175,en,2
 Tropical Storm,Tropical Storm,LOC,0.0,0.0625,en,2
-Southeast,Southeast,LOC,-0.06749999999999999,0.18,en,2
-Northeast,Northeast,LOC,0.15030303030303033,0.7587878787878788,en,2
-MIAMI,MIAMI,GPE,-0.134375,0.4666666666666666,en,2
-Eastern Pacific,Eastern Pacific,LOC,0.0078125,0.15625,en,2
-Ireland,Ireland,GPE,0.0,0.0,en,2
+New Hope,New Hope,GPE,0.11818181818181818,0.42727272727272725,en,2
+Caribbean Sea,Caribbean Sea,LOC,-0.12678571428571428,0.763095238095238,en,2
+Carolinas,Carolinas,GPE,-0.24479166666666666,0.7302083333333333,en,2
+Tokyo,Tokyo,GPE,-0.1,0.25,en,2
+Australia,Australia,GPE,-0.4,0.7,en,2
+Puerto Rico’s,Puerto Rico’s,GPE,-0.25,0.5,en,2
 Colo.,Colo.,GPE,0.5,0.5,en,2
+Southeast,Southeast,LOC,-0.06749999999999999,0.18,en,2
+Fla.,Fla.,GPE,0.16914772727272726,0.45028409090909094,en,2
+Ukraine,Ukraine,GPE,0.275,0.75,en,2
+the Desert Southwest,the Desert Southwest,LOC,-0.08181818181818182,0.42727272727272725,en,2
+Israel,Israel,GPE,0.275,0.75,en,2
+Yukon-Kuskokwim Delta,Yukon-Kuskokwim Delta,LOC,0.024999999999999994,0.39,en,2
+New Jersey,New Jersey,GPE,0.16015151515151516,0.5860606060606061,en,2
 Azores,Azores,LOC,-0.06749999999999999,0.18,en,2
-Puerto Vallarta,Puerto Vallarta,GPE,0.0,0.0,en,1
-Batters East Coast,Batters East Coast,LOC,0.3,1.0,en,1
-FORT COLLINS,FORT COLLINS,GPE,0.5,0.5,en,1
-Atlantic Basin,Atlantic Basin,LOC,0.015625,0.3125,en,1
-Pacific,Pacific,LOC,0.26666666666666666,0.8666666666666667,en,1
-Alaskas,Alaskas,GPE,0.016666666666666663,0.4666666666666666,en,1
-Hispaniola SAN JUAN,Hispaniola SAN JUAN,LOC,-0.39999999999999997,0.6,en,1
-Kwigillingok,Kwigillingok,GPE,-0.25,0.225,en,1
-Veracruz,Veracruz,GPE,0.0,0.0,en,1
-Kipnuk,Kipnuk,GPE,0.0,0.0,en,1
-CARIBBEAN,CARIBBEAN,LOC,0.0,0.0,en,1
-Yukon-Kuskokwim Delta,Yukon-Kuskokwim Delta,LOC,0.15,0.5,en,1
-POZA RICA,POZA RICA,GPE,-0.1875,0.5,en,1
-Tropical Storm Melissa,Tropical Storm Melissa,GPE,-0.5,0.7,en,1
-eastern Pacific,eastern Pacific,LOC,0.06818181818181818,0.7272727272727273,en,1
-the Pacific coast,the Pacific coast,LOC,0.0,0.0,en,1
-Akiak,Akiak,GPE,-0.4,0.6,en,1
-Western Alaskas,Western Alaskas,LOC,0.15,0.5,en,1
-Southwest US,Southwest US,LOC,-0.2,0.4,en,1
+Jacksonville,Jacksonville,GPE,0.0,0.0,en,2
+Kingston,Kingston,GPE,-0.3,0.3,en,2
+Alaskas,Alaskas,GPE,-0.04166666666666667,0.2833333333333333,en,2
+Virginia,Virginia,GPE,-0.32499999999999996,0.675,en,2
+California,California,GPE,0.15208333333333332,0.71875,en,2
+Caribbean islands,Caribbean islands,LOC,0.03611111111111111,0.37222222222222223,en,2
+St. Elizabeth,St. Elizabeth,GPE,0.11515151515151514,0.28106060606060607,en,2
+OMAHA,OMAHA,GPE,0.25416666666666665,0.275,en,2
+Ankara,Ankara,GPE,0.10606060606060606,0.18686868686868685,en,2
+Neb.,Neb.,GPE,0.25416666666666665,0.275,en,2
+NEW HOLLAND,NEW HOLLAND,GPE,0.11515151515151514,0.28106060606060607,en,2
+Asia,Asia,LOC,0.05,0.1,en,2
+ST,ST,GPE,0.11515151515151514,0.28106060606060607,en,2
+U.S. East Coast,U.S. East Coast,LOC,-0.11666666666666665,0.5333333333333333,en,2
+America,America,GPE,0.075,0.475,en,2
+HANOI,HANOI,GPE,0.25,0.6833333333333332,en,2
+Atlantic Ocean,Atlantic Ocean,LOC,0.008333333333333338,0.2916666666666667,en,2
+LOUISVILLE,LOUISVILLE,GPE,0.0,0.05,en,2
+Bowie,Bowie,GPE,0.0,0.03333333333333333,en,2
+Eastern Pacific,Eastern Pacific,LOC,0.0078125,0.15625,en,2
+Maryland,Maryland,GPE,0.0,0.03333333333333333,en,2
+Six Flags America,Six Flags America,LOC,0.0,0.06666666666666667,en,2
+the Atlantic basin,the Atlantic basin,LOC,0.0,0.0,en,2
+Pacific,Pacific,LOC,0.15833333333333333,0.5083333333333333,en,2
+Venezuela,Venezuela,GPE,0.0,0.0,en,1
+recordis,recordis,GPE,0.0,0.0,en,1
+Orlando,Orlando,GPE,0.0,0.0,en,1
+landfalling Atlantic,landfalling Atlantic,LOC,0.0,0.0,en,1
+the 2025 Atlantic,the 2025 Atlantic,LOC,0.09662698412698413,0.3128968253968254,en,1
+India,India,GPE,-0.1,0.3,en,1
+Latin America,Latin America,LOC,-0.05,0.05,en,1
+Hurricane Melissa,Hurricane Melissa,GPE,0.09662698412698413,0.3128968253968254,en,1
+Caribbean island,Caribbean island,LOC,0.43333333333333335,0.7999999999999999,en,1
+BAHAMAS,BAHAMAS,GPE,0.020833333333333332,0.16666666666666666,en,1
+the Lucayan Archipelago,the Lucayan Archipelago,GPE,0.3,0.6333333333333333,en,1
 Taiwanese Island,Taiwanese Island,LOC,0.3666666666666667,0.7833333333333333,en,1
+Jamaic,Jamaic,GPE,-0.09999999999999999,0.7,en,1
+Treasure Beach,Treasure Beach,GPE,0.16666666666666666,0.3333333333333333,en,1
+Black River Market,Black River Market,LOC,-0.125,0.2833333333333333,en,1
+the North Atlantic - Yale Climate Connections,the North Atlantic - Yale Climate Connections,LOC,-0.6,1.0,en,1
+Puerto Rico's,Puerto Rico's,GPE,-0.5,1.0,en,1
+KINGSTON,KINGSTON,GPE,0.0,0.0,en,1
+St. Elizabeth …,St. Elizabeth …,GPE,0.0,0.3,en,1
+Dublin,Dublin,GPE,0.375,0.75,en,1
+Westmoreland,Westmoreland,GPE,-0.049999999999999996,0.08333333333333333,en,1
+Whitehouse,Whitehouse,GPE,-0.049999999999999996,0.08333333333333333,en,1
+Westmoreland Parish,Westmoreland Parish,GPE,-0.049999999999999996,0.08333333333333333,en,1
+earth,earth,LOC,0.0,0.4,en,1
+Native Alaska,Native Alaska,LOC,0.0,0.0,en,1
+the Yukon-Kuskokwim Delta,the Yukon-Kuskokwim Delta,LOC,0.1,0.4,en,1
+BOSTON,BOSTON,GPE,0.2431818181818182,0.6363636363636364,en,1
+Verisk,Verisk,GPE,0.2431818181818182,0.6363636363636364,en,1
+Liloan,Liloan,GPE,-0.2833333333333333,0.2833333333333333,en,1
+Ohio,Ohio,GPE,-0.3,0.4,en,1
+Argentina,Argentina,GPE,0.0,0.0,en,1
+Longwood,Longwood,GPE,0.0,0.0,en,1
+U.K.,U.K.,GPE,0.0,0.0,en,1
+Europe,Europe,LOC,0.3,1.0,en,1
+Mandeville,Mandeville,GPE,0.5,0.5,en,1
+Sea,Sea,LOC,0.1875,0.4125,en,1
+Quinhagak,Quinhagak,GPE,-0.05333333333333333,0.31333333333333335,en,1
+Halong,Halong,GPE,0.16666666666666666,0.3333333333333333,en,1
+Qui,Qui,GPE,0.0,0.15,en,1
+Central America,Central America,LOC,-0.15,0.325,en,1
+COCONUT CREEK,COCONUT CREEK,GPE,0.24375,0.51875,en,1
+BLACK RIVER,BLACK RIVER,LOC,0.020000000000000007,0.41,en,1
+Melissas,Melissas,LOC,0.10833333333333332,0.5333333333333333,en,1
+Jamaicas,Jamaicas,GPE,0.020000000000000007,0.41,en,1
+Michigan,Michigan,GPE,0.0,1.0,en,1
+"Northeast
+","Northeast
+",LOC,0.0,1.0,en,1
+New York,New York,GPE,0.13636363636363635,0.45454545454545453,en,1
+the Western Atlantic,the Western Atlantic,LOC,-0.185,0.5249999999999999,en,1
+Rhode Island,Rhode Island,GPE,0.17777777777777773,0.7444444444444445,en,1
+Sunshine State,Sunshine State,GPE,0.5,0.6,en,1
+Southeast US,Southeast US,LOC,0.0,0.0,en,1
+AUSTIN,AUSTIN,GPE,-0.0875,0.31333333333333335,en,1
+KXAN,KXAN,GPE,-0.0875,0.31333333333333335,en,1
+Carib,Carib,GPE,-0.5,0.9,en,1
+Tropical Storm Imelda,Tropical Storm Imelda,LOC,-0.125,0.175,en,1
+Appalachian,Appalachian,GPE,0.2333333333333333,0.39999999999999997,en,1
+ERWIN,ERWIN,GPE,0.0,0.0,en,1
+the Nolichucky River,the Nolichucky River,LOC,0.0,0.25,en,1
+Storm Bualoi,Storm Bualoi,LOC,-0.2,0.0,en,1
+Laos,Laos,GPE,-0.2,0.0,en,1
+Formentera,Formentera,GPE,0.0,0.03333333333333333,en,1
+Mediterranean,Mediterranean,LOC,0.3,0.45,en,1
+the Tennessee River,the Tennessee River,LOC,0.2,1.0,en,1
 Katrina,Katrina,GPE,0.0,0.0,en,1
-Miami,Miami,GPE,-0.12499999999999999,0.55,en,1
+eastern Pacific,eastern Pacific,LOC,0.06818181818181818,0.7272727272727273,en,1
+Typhoon Matmo,Typhoon Matmo,GPE,0.25,0.6833333333333332,en,1
+the Southeastern U.S.,the Southeastern U.S.,LOC,-0.06666666666666667,0.03333333333333333,en,1
+South Carolina's,South Carolina's,GPE,0.0,0.0,en,1
+San Francisco's,San Francisco's,GPE,-0.0625,0.5708333333333333,en,1
+Southeast U.S.,Southeast U.S.,LOC,-0.1,0.75,en,1
 Orchid Island,Orchid Island,LOC,0.2866666666666667,0.6533333333333333,en,1
 NEW YORK,NEW YORK,GPE,0.13636363636363635,0.45454545454545453,en,1
 Hong Kong’s,Hong Kong’s,GPE,0.1,0.4,en,1
 SHENZHEN,SHENZHEN,GPE,-0.03333333333333333,0.13333333333333333,en,1
 Tropical Storm Humberto,Tropical Storm Humberto,LOC,-0.13499999999999998,0.36,en,1
 Thursda,Thursda,GPE,0.0,0.0,en,1
+the Gulf of Mexico,the Gulf of Mexico,LOC,-0.35,0.95,en,1
+Georgia,Georgia,GPE,-0.35,0.95,en,1
+Tennessee,Tennessee,GPE,-0.35,0.95,en,1
 Texas,Texas,GPE,0.16,0.5399999999999999,en,1
 Southeastern coast,Southeastern coast,LOC,-0.1,0.1,en,1
 Myrtle Beach Hurricane,Myrtle Beach Hurricane,GPE,0.0,0.0,en,1
 the Southeast US,the Southeast US,LOC,0.0,1.0,en,1
 Gabrielle,Gabrielle,GPE,0.0,0.0,en,1
 Atlantic Ocean Meteorologists,Atlantic Ocean Meteorologists,LOC,-0.13958333333333334,0.5104166666666666,en,1
-Carolinas,Carolinas,GPE,-0.13958333333333334,0.5104166666666666,en,1
-Southeast U.S.,Southeast U.S.,LOC,-0.1,0.75,en,1
-South Carolina's,South Carolina's,GPE,0.0,0.0,en,1
-United States,United States,GPE,0.0,1.0,en,1
-Southeast US,Southeast US,LOC,0.0,0.0,en,1
-the Southeastern U.S.,the Southeastern U.S.,LOC,-0.06666666666666667,0.03333333333333333,en,1
-AUSTIN,AUSTIN,GPE,-0.0875,0.31333333333333335,en,1
-KXAN,KXAN,GPE,-0.0875,0.31333333333333335,en,1
-the Atlantic Basin,the Atlantic Basin,LOC,-0.0875,0.31333333333333335,en,1
-U.S,U.S,GPE,0.0,0.0,en,1
-Tropical Storm Imelda,Tropical Storm Imelda,LOC,-0.125,0.175,en,1
-Appalachian,Appalachian,GPE,0.2333333333333333,0.39999999999999997,en,1
-ERWIN,ERWIN,GPE,0.0,0.0,en,1
-the Nolichucky River,the Nolichucky River,LOC,0.0,0.25,en,1
-Formentera,Formentera,GPE,0.0,0.03333333333333333,en,1
-Mediterranean,Mediterranean,LOC,0.3,0.45,en,1
-the Tennessee River,the Tennessee River,LOC,0.2,1.0,en,1
-Carib,Carib,GPE,-0.5,0.9,en,1
+TAMPA,TAMPA,GPE,0.09454545454545454,0.38181818181818183,en,1
+West Pacific,West Pacific,LOC,-0.0625,0.5708333333333333,en,1
+Dominican Republic,Dominican Republic,GPE,0.0,0.0,en,1
+Typhoon Halong Historic,Typhoon Halong Historic,GPE,-0.1,0.27999999999999997,en,1
+the Windward Island,the Windward Island,LOC,-0.1,0.1,en,1
+Akiak,Akiak,GPE,-0.4,0.6,en,1
+Western Alaskas,Western Alaskas,LOC,0.15,0.5,en,1
+BATON ROUGE,BATON ROUGE,GPE,-0.05,0.05,en,1
+La.,La.,GPE,-0.05,0.05,en,1
+Salt Typhoon,Salt Typhoon,GPE,-0.08333333333333333,0.5833333333333334,en,1
+Tropical Storm Melissa,Tropical Storm Melissa,GPE,-0.5,0.7,en,1
+CARIBBEAN,CARIBBEAN,LOC,0.0,0.0,en,1
+Hispaniola SAN JUAN,Hispaniola SAN JUAN,LOC,-0.39999999999999997,0.6,en,1
+the Cayman Islands,the Cayman Islands,GPE,0.1,0.4,en,1
+the Central Caribbean Sea,the Central Caribbean Sea,LOC,0.0,0.25,en,1
+Guantanamo Bay,Guantanamo Bay,LOC,0.5,0.9,en,1
+Guantánamo Bay,Guantánamo Bay,LOC,-0.05937500000000001,0.85,en,1
+Hispan,Hispan,GPE,-0.3666666666666667,0.5666666666666667,en,1
+Santo Domingo,Santo Domingo,GPE,0.0,0.0,en,1
+the Pacific coast,the Pacific coast,LOC,0.0,0.0,en,1
+Alaska Native,Alaska Native,GPE,0.08,0.3033333333333333,en,1
+Southwest US,Southwest US,LOC,-0.2,0.4,en,1
+JUNEAU,JUNEAU,GPE,0.3670833333333333,0.6620833333333334,en,1
+FORT COLLINS,FORT COLLINS,GPE,0.5,0.5,en,1
+Korea,Korea,GPE,0.0,0.0,en,1
+Puerto Vallarta,Puerto Vallarta,GPE,0.0,0.0,en,1
+New Mexico,New Mexico,GPE,-0.03181818181818183,0.42727272727272725,en,1
+Desert Southwest,Desert Southwest,LOC,-0.03181818181818183,0.42727272727272725,en,1
+SAN JUAN COUNTY,SAN JUAN COUNTY,GPE,-0.08181818181818182,0.42727272727272725,en,1
+NEW MEXICO,NEW MEXICO,GPE,-0.08181818181818182,0.42727272727272725,en,1
+Last Frontier,Last Frontier,GPE,0.0,0.03333333333333333,en,1
+Batters East Coast,Batters East Coast,LOC,0.3,1.0,en,1
+Kwigillingok,Kwigillingok,GPE,-0.25,0.225,en,1
+Veracruz,Veracruz,GPE,0.0,0.0,en,1
+batters East Coast,batters East Coast,LOC,-0.020000000000000004,0.52,en,1
+Kipnuk,Kipnuk,GPE,0.0,0.0,en,1
+POZA RICA,POZA RICA,GPE,-0.1875,0.5,en,1
+Typhoon Halong's,Typhoon Halong's,GPE,0.25,0.5,en,1
+Gia Lai province,Gia Lai province,GPE,0.0,0.25,en,1
