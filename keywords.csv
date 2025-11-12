@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'hurricane warning',en,Mitigation,#a89216,#87830f,3,0.2494867120168822
+'hurricane warning',en,Mitigation,#a89216,#87830f,3,0.22978764134338212
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.2133735973445276
 'hurricane alert',en,Mitigation,#a89216,#638ed4,3,0.201693033107544
 'hurricane season',en,Hazard,#4287f5,#d64118,3,0.1949523740258439
