@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'typhoon climate change',en,Causes,#9e3215,#f64118,3,0.1521957779542406
 'hurricane',en,Hazard,#4287f5,#022f78,3,0.1499773979553686
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.1150890205586704
+'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.0918356423859379
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0804573631708871
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0709095985078386
-'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.0667931838024609
-'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.04716175048978659
+'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.0471617504897865
