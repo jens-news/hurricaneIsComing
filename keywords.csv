@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.1191541838385062
 'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.1095679010280472
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0804573631708871
-'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.06102326373166281
+'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.07526989417191338
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.0471617504897865
