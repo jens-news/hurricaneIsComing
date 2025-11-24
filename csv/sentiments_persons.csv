@@ -1,110 +1,113 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Typhoon Kalmaegi,Typhoon Kalmaegi,PERSON,-0.15482123158782687,0.4106184976099323,en,46.699999999999996
+Typhoon Kalmaegi,Typhoon Kalmaegi,PERSON,-0.1435156948314843,0.4107080784712363,en,49.4
 Typhoon Fung-wong,Typhoon Fung-wong,PERSON,-0.19812278031456115,0.4022704211060375,en,7.300000000000001
 Andrew Holness,Andrew Holness,PERSON,-0.028472222222222218,0.6159722222222223,en,6.0
 Hurricane Melissa,Hurricane Melissa,PERSON,-0.040280857354028095,0.49039172209903925,en,4.1
-Lee Jun-ho,Lee Jun-ho,PERSON,0.0,0.0,en,3.0
-Bon Appétit,Bon Appétit,PERSON,-0.02121212121212122,0.15151515151515152,en,3.0
 Kim Min-ha,Kim Min-ha,PERSON,0.0,0.0,en,3.0
+Bon Appétit,Bon Appétit,PERSON,-0.02121212121212122,0.15151515151515152,en,3.0
+Lee Jun-ho,Lee Jun-ho,PERSON,0.0,0.0,en,3.0
+Ferdinand Marcos Jr,Ferdinand Marcos Jr,PERSON,-0.03911564625850341,0.17431972789115646,en,2.8
 Tropical Storm Melissa,Tropical Storm Melissa,PERSON,0.26190476190476186,0.7413419913419913,en,2.2
-SANTIAGO DE,SANTIAGO DE,PERSON,0.2642857142857143,0.6035714285714285,en,2.0
-Rachel Feltman,Rachel Feltman,PERSON,0.5833333333333334,0.625,en,2.0
 Wang et al,Wang et al,PERSON,0.07222222222222222,0.3305555555555556,en,2.0
+SANTIAGO DE,SANTIAGO DE,PERSON,0.2642857142857143,0.6035714285714285,en,2.0
 Sean Walker,Sean Walker,PERSON,0.3833333333333333,0.5166666666666666,en,2.0
-Jordan Staal,Jordan Staal,PERSON,0.3833333333333333,0.5166666666666666,en,2.0
-JOHN MYERS JR,JOHN MYERS JR,PERSON,0.0,0.0,en,2.0
 Doug Bostrom,Doug Bostrom,PERSON,0.075,0.4,en,2.0
-Rohan Thompson,Rohan Thompson,PERSON,0.0,0.5263157894736842,en,1.9
-Dana Morris Dixon,Dana Morris Dixon,PERSON,-0.043859649122807015,0.5043859649122807,en,1.9
-John Bolton,John Bolton,PERSON,0.3099415204678363,0.6783625730994153,en,1.9
+JOHN MYERS JR,JOHN MYERS JR,PERSON,0.0,0.0,en,2.0
+Santiago de Cuba,Santiago de Cuba,PERSON,0.0,0.0,en,2.0
+Jordan Staal,Jordan Staal,PERSON,0.3833333333333333,0.5166666666666666,en,2.0
+Rachel Feltman,Rachel Feltman,PERSON,0.5833333333333334,0.625,en,2.0
 Jonathan Head,Jonathan Head,PERSON,0.0,1.0526315789473684,en,1.9
+John Bolton,John Bolton,PERSON,0.3099415204678363,0.6783625730994153,en,1.9
+Rohan Thompson,Rohan Thompson,PERSON,0.0,0.5263157894736842,en,1.9
+Greg Locke,Greg Locke,PERSON,0.02631578947368422,0.6578947368421053,en,1.9
 Junior Ebanks,Junior Ebanks,PERSON,-0.10526315789473685,0.15789473684210525,en,1.9
-Forecast Cone,Forecast Cone,PERSON,0.32142857142857134,1.5214285714285716,en,1.4000000000000004
+Dana Morris Dixon,Dana Morris Dixon,PERSON,-0.043859649122807015,0.5043859649122807,en,1.9
 Donald Trump,Donald Trump,PERSON,-0.003246753246753227,0.8106060606060603,en,1.4000000000000004
+Forecast Cone,Forecast Cone,PERSON,0.32142857142857134,1.5214285714285716,en,1.4000000000000004
 Dr Pal,Dr Pal,PERSON,-0.36197916666666663,1.0208333333333333,en,1.2000000000000002
-Edmund Fitzgerald,Edmund Fitzgerald,PERSON,-0.013888888888888899,0.7361111111111109,en,1.2000000000000002
 Massimiliano Allegri,Massimiliano Allegri,PERSON,-0.2069444444444444,1.052083333333333,en,1.2000000000000002
-Santiago de Cuba,Santiago de Cuba,PERSON,0.0,0.0,en,1.1
+Edmund Fitzgerald,Edmund Fitzgerald,PERSON,-0.013888888888888899,0.7361111111111109,en,1.2000000000000002
+Darrel John,Darrel John,PERSON,-0.1515151515151515,0.8484848484848483,en,1.1
 Raila Odinga,Raila Odinga,PERSON,-0.0606060606060606,0.303030303030303,en,1.1
+Geshuang Chen,Geshuang Chen,PERSON,0.0,0.0,en,1.1
 Spike Lee,Spike Lee,PERSON,0.1347107438016529,0.45206611570247923,en,1.1
 Copernicus Sentinel-3,Copernicus Sentinel-3,PERSON,0.6363636363636362,0.8636363636363635,en,1.1
 Ron DeSantis,Ron DeSantis,PERSON,1.3636363636363635,1.727272727272727,en,1.1
 Melissa Strengthens,Melissa Strengthens,PERSON,0.0,0.0,en,1.1
-Geshuang Chen,Geshuang Chen,PERSON,0.0,0.0,en,1.1
 Benjamin Franklin,Benjamin Franklin,PERSON,0.0,0.6464646464646464,en,1.1
-Darrel John,Darrel John,PERSON,-0.1515151515151515,0.8484848484848483,en,1.1
-Berkshire Hathaway,Berkshire Hathaway,PERSON,0.8013888888888888,1.863888888888889,en,1.0
-fisher Prince Davis,fisher Prince Davis,PERSON,1.2000000000000002,3.0,en,1.0
-Warren Buffett s,Warren Buffett s,PERSON,0.3444444444444444,0.39999999999999997,en,1.0
-Shuchang Dong,Shuchang Dong,PERSON,0.0,0.0,en,1.0
-Hannah Cloke,Hannah Cloke,PERSON,0.0,0.0,en,1.0
-Osbourne Brumley,Osbourne Brumley,PERSON,0.2303030303030303,0.5621212121212121,en,1.0
 Orlagh Kilbride,Orlagh Kilbride,PERSON,0.375,0.75,en,1.0
-Nick Beake,Nick Beake,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
+Brandon Drennonin,Brandon Drennonin,PERSON,-0.049999999999999996,0.08333333333333333,en,1.0
+Osbourne Brumley,Osbourne Brumley,PERSON,0.2303030303030303,0.5621212121212121,en,1.0
+Warren Buffett s,Warren Buffett s,PERSON,0.3444444444444444,0.39999999999999997,en,1.0
+fisher Prince Davis,fisher Prince Davis,PERSON,1.2000000000000002,3.0,en,1.0
 António Guterres,António Guterres,PERSON,0.05833333333333333,0.5083333333333333,en,1.0
+Zaphod Beeblebrox,Zaphod Beeblebrox,PERSON,0.0,0.0,en,1.0
+RFK Jr,RFK Jr,PERSON,0.3333333333333333,0.5,en,1.0
 Warren Buffett ‘s,Warren Buffett ‘s,PERSON,0.5083333333333333,0.55,en,1.0
 Warren Buffett,Warren Buffett,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
-Javier Mileiprevails,Javier Mileiprevails,PERSON,0.0,0.0,en,1.0
-Yvette Cooper,Yvette Cooper,PERSON,-0.05833333333333333,0.3527777777777778,en,1.0
+Thomas Copeland,Thomas Copeland,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
+Rick Knecht,Rick Knecht,PERSON,0.0,0.0,en,1.0
+Cristian Benavides,Cristian Benavides,PERSON,0.0,0.0,en,1.0
 BECKY BOHRER,BECKY BOHRER,PERSON,0.0,0.15,en,1.0
+Andrew Mountbatten Windsor,Andrew Mountbatten Windsor,PERSON,0.0,0.0,en,1.0
+Ricardo Makyn,Ricardo Makyn,PERSON,0.0,0.0,en,1.0
+Javier Mileiprevails,Javier Mileiprevails,PERSON,0.0,0.0,en,1.0
 Sibi Arasu,Sibi Arasu,PERSON,-0.13333333333333333,0.35000000000000003,en,1.0
 George Solis,George Solis,PERSON,0.0,0.0,en,1.0
 George Sol,George Sol,PERSON,0.0,0.0,en,1.0
 Melissa Cripples,Melissa Cripples,PERSON,0.0,0.0,en,1.0
-Ricardo Makyn,Ricardo Makyn,PERSON,0.0,0.0,en,1.0
-Andrew Mountbatten Windsor,Andrew Mountbatten Windsor,PERSON,0.0,0.0,en,1.0
 Tim Cook,Tim Cook,PERSON,0.06666666666666667,0.13333333333333333,en,1.0
-Thomas Copeland,Thomas Copeland,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
 KATE PAYNE,KATE PAYNE,PERSON,0.24375,0.51875,en,1.0
+Nada Tawfik,Nada Tawfik,PERSON,0.022222222222222237,0.48888888888888893,en,1.0
 Rollin Salmond,Rollin Salmond,PERSON,0.0,0.0,en,1.0
 RIO CAUTO,RIO CAUTO,PERSON,0.5,0.7999999999999999,en,1.0
-Cristian Benavides,Cristian Benavides,PERSON,0.0,0.0,en,1.0
-Rick Knecht,Rick Knecht,PERSON,0.0,0.0,en,1.0
 Kimisha Simpson,Kimisha Simpson,PERSON,0.0,0.0,en,1.0
-Nada Tawfik,Nada Tawfik,PERSON,0.022222222222222237,0.48888888888888893,en,1.0
-Jeff Masters,Jeff Masters,PERSON,0.0,0.0,en,1.0
-Brandon Drennonin,Brandon Drennonin,PERSON,-0.049999999999999996,0.08333333333333333,en,1.0
-Jordan Senior,Jordan Senior,PERSON,0.4,0.5,en,1.0
-Typhoon Fung-Wong,Typhoon Fung-Wong,PERSON,0.0,0.8,en,1.0
-Martin Pelletier,Martin Pelletier,PERSON,0.0,0.0,en,1.0
-Gordon Lightfoot,Gordon Lightfoot,PERSON,0.10000000000000002,0.9166666666666666,en,1.0
+Yvette Cooper,Yvette Cooper,PERSON,-0.05833333333333333,0.3527777777777778,en,1.0
+Berkshire Hathaway,Berkshire Hathaway,PERSON,0.8013888888888888,1.863888888888889,en,1.0
+Maya Angelou,Maya Angelou,PERSON,0.0,0.4,en,1.0
+PhilippinePresident Ferdinand Marcos Jr,PhilippinePresident Ferdinand Marcos Jr,PERSON,0.0,0.0,en,1.0
+Hektoria glacier,Hektoria glacier,PERSON,0.0,0.0,en,1.0
+Donald Trumps,Donald Trumps,PERSON,-0.13333333333333333,0.13333333333333333,en,1.0
 DERA ISMAIL KHAN,DERA ISMAIL KHAN,PERSON,0.0,0.0,en,1.0
 ISMAIL KHAN,ISMAIL KHAN,PERSON,0.0,0.0,en,1.0
 Melissa Shows,Melissa Shows,PERSON,0.3333333333333333,0.5,en,1.0
 Clayton Dalton,Clayton Dalton,PERSON,0.0,0.0,en,1.0
+Jordan Senior,Jordan Senior,PERSON,0.4,0.5,en,1.0
 Christian Pulisic,Christian Pulisic,PERSON,-0.033333333333333326,0.5499999999999999,en,1.0
-Zaphod Beeblebrox,Zaphod Beeblebrox,PERSON,0.0,0.0,en,1.0
 Christian Pul,Christian Pul,PERSON,-0.024999999999999994,0.4125,en,1.0
-Donald Trumps,Donald Trumps,PERSON,-0.13333333333333333,0.13333333333333333,en,1.0
 Eversong Woods,Eversong Woods,PERSON,0.16818181818181818,0.42727272727272725,en,1.0
+Martin Pelletier,Martin Pelletier,PERSON,0.0,0.0,en,1.0
 Silvermoon Ci,Silvermoon Ci,PERSON,-0.015151515151515152,0.3106060606060606,en,1.0
 Disaster Ri,Disaster Ri,PERSON,0.04427083333333333,0.44791666666666663,en,1.0
 Thomas Wahl,Thomas Wahl,PERSON,0.0,0.0,en,1.0
 Jessica Kutz,Jessica Kutz,PERSON,0.375,0.75,en,1.0
-Lulu Luo,Lulu Luo,PERSON,0.0,1.0,en,1.0
-Andrew Bailey,Andrew Bailey,PERSON,-0.2,0.6,en,1.0
-Typhoon UWAN,Typhoon UWAN,PERSON,0.0,0.0,en,1.0
-Typhoon Uwan,Typhoon Uwan,PERSON,0.3333333333333333,0.6666666666666666,en,1.0
-Maya Angelou,Maya Angelou,PERSON,0.0,0.4,en,1.0
-Hektoria glacier,Hektoria glacier,PERSON,0.0,0.0,en,1.0
+Esther Louis,Esther Louis,PERSON,0.0,0.0,en,1.0
+David Richardson,David Richardson,PERSON,-0.0625,0.25,en,1.0
+Torres del Paine Nat,Torres del Paine Nat,PERSON,0.0,0.0,en,1.0
+Gordon Lightfoot,Gordon Lightfoot,PERSON,0.10000000000000002,0.9166666666666666,en,1.0
+Typhoon Fung-Wong,Typhoon Fung-Wong,PERSON,0.0,0.8,en,1.0
 Naomi Ochwat,Naomi Ochwat,PERSON,0.15833333333333333,0.4583333333333333,en,1.0
+Fran Brown,Fran Brown,PERSON,0.0,0.0,en,1.0
 Farhan Haq,Farhan Haq,PERSON,0.25,0.3,en,1.0
-Nick Davis,Nick Davis,PERSON,0.5,0.5,en,1.0
+Jeff Masters,Jeff Masters,PERSON,0.0,0.0,en,1.0
 Melissa devastationBBC Fa,Melissa devastationBBC Fa,PERSON,0.1340909090909091,0.4136363636363637,en,1.0
 Kalmaegi Devastates the Nation,Kalmaegi Devastates the Nation,PERSON,0.11818181818181818,0.37727272727272726,en,1.0
+Hannah Cloke,Hannah Cloke,PERSON,0.0,0.0,en,1.0
 Maxi Priest,Maxi Priest,PERSON,0.0,0.0,en,1.0
-Ferdinand Marcos Jr,Ferdinand Marcos Jr,PERSON,0.0,0.25,en,1.0
 Lina Khan,Lina Khan,PERSON,0.0,0.0,en,1.0
-Fran Brown,Fran Brown,PERSON,0.0,0.0,en,1.0
 ~28 poin,~28 poin,PERSON,0.8,0.4,en,1.0
+Lulu Luo,Lulu Luo,PERSON,0.0,1.0,en,1.0
+Miguel Díaz-Canel,Miguel Díaz-Canel,PERSON,0.0,0.0,en,1.0
 Jackson Blake,Jackson Blake,PERSON,0.3,0.6,en,1.0
 GIA LAI,GIA LAI,PERSON,0.0,0.25,en,1.0
 Quy Nhon,Quy Nhon,PERSON,0.0,0.25,en,1.0
-St Elizabeth,St Elizabeth,PERSON,0.5,0.5,en,1.0
-RFK Jr,RFK Jr,PERSON,0.3333333333333333,0.5,en,1.0
-ANDREA RODRÍGUEZ,ANDREA RODRÍGUEZ,PERSON,0.0,0.0,en,1.0
-Gulf Coas,Gulf Coas,PERSON,0.0,0.0,en,1.0
-FORT COLLINS,FORT COLLINS,PERSON,0.5,0.5,en,1.0
+Typhoon Uwan,Typhoon Uwan,PERSON,0.3333333333333333,0.6666666666666666,en,1.0
+Typhoon UWAN,Typhoon UWAN,PERSON,0.0,0.0,en,1.0
+Andrew Bailey,Andrew Bailey,PERSON,-0.2,0.6,en,1.0
+Nick Beake,Nick Beake,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
+Hydroclimate Reanalysis,Hydroclimate Reanalysis,PERSON,0.15,0.55,en,1.0
+Shuchang Dong,Shuchang Dong,PERSON,0.0,0.0,en,1.0
+Lilia Ramírez,Lilia Ramírez,PERSON,-0.1875,0.5,en,1.0
 Kim Min,Kim Min,PERSON,0.0,0.0,en,1.0
 Joe Bastardi,Joe Bastardi,PERSON,0.0,0.0,en,1.0
 Joe Bast,Joe Bast,PERSON,0.0,0.0,en,1.0
@@ -112,9 +115,9 @@ Karen Graphics,Karen Graphics,PERSON,0.0,0.0,en,1.0
 Jerry Graphics,Jerry Graphics,PERSON,0.0,0.0,en,1.0
 Claudia Sheinbaum,Claudia Sheinbaum,PERSON,0.55,0.725,en,1.0
 Laura Velazquez Alzua,Laura Velazquez Alzua,PERSON,0.0,0.0,en,1.0
-Lilia Ramírez,Lilia Ramírez,PERSON,-0.1875,0.5,en,1.0
-AccuWeather meteo,AccuWeather meteo,PERSON,-0.03125,0.75,en,1.0
+Gulf Coas,Gulf Coas,PERSON,0.0,0.0,en,1.0
 Rick Thoman,Rick Thoman,PERSON,0.03125,0.625,en,1.0
+Hannah Norman Lydia Zuraw,Hannah Norman Lydia Zuraw,PERSON,0.0,0.0,en,1.0
 Michael Salvatore,Michael Salvatore,PERSON,0.0,0.0,en,1.0
 Melissa Salvatore,Melissa Salvatore,PERSON,0.0,0.0,en,1.0
 Michael Salva,Michael Salva,PERSON,0.0,0.0,en,1.0
@@ -122,20 +125,21 @@ Chip Somodevilla,Chip Somodevilla,PERSON,0.125,0.5,en,1.0
 STEVE MILLOY,STEVE MILLOY,PERSON,0.0,0.0,en,1.0
 Steven Anaver,Steven Anaver,PERSON,-0.06666666666666667,0.2333333333333333,en,1.0
 Steven Anavers,Steven Anavers,PERSON,-0.06666666666666667,0.2333333333333333,en,1.0
-Hannah Norman Lydia Zuraw,Hannah Norman Lydia Zuraw,PERSON,0.0,0.0,en,1.0
+Melissa pos,Melissa pos,PERSON,0.0,0.0,en,1.0
+FORT COLLINS,FORT COLLINS,PERSON,0.5,0.5,en,1.0
 Daniel Chang,Daniel Chang,PERSON,0.0,0.0,en,1.0
-Brett Kelman,Brett Kelman,PERSON,0.0,0.0,en,1.0
-Tropical Storm Jerry,Tropical Storm Jerry,PERSON,-0.1,0.1,en,1.0
+Thomas Champeau,Thomas Champeau,PERSON,0.2525,0.41000000000000003,en,1.0
+Sarah-Keith Lucas,Sarah-Keith Lucas,PERSON,0.0,0.0,en,1.0
 Typhoon Ragasa Eclipses Mangkhut,Typhoon Ragasa Eclipses Mangkhut,PERSON,0.1,0.4,en,1.0
 Typhoon Ragasa,Typhoon Ragasa,PERSON,0.06944444444444439,0.9222222222222222,en,1.0
 Ashlee Guidry,Ashlee Guidry,PERSON,-0.5333333333333333,0.8666666666666666,en,1.0
-Storm Imelda,Storm Imelda,PERSON,0.0,0.2333333333333333,en,1.0
 FRISARO MIAMI,FRISARO MIAMI,PERSON,0.025,0.075,en,1.0
+Storm Imelda,Storm Imelda,PERSON,0.0,0.2333333333333333,en,1.0
 Kaya Scodelario,Kaya Scodelario,PERSON,0.5,0.7,en,1.0
 Alexandre Aja,Alexandre Aja,PERSON,0.5,0.7,en,1.0
 Matt Van Swol,Matt Van Swol,PERSON,0.0,0.4722222222222222,en,1.0
-Sarah-Keith Lucas,Sarah-Keith Lucas,PERSON,0.0,0.0,en,1.0
 Amelia Taylor,Amelia Taylor,PERSON,0.0,0.25,en,1.0
+Brett Kelman,Brett Kelman,PERSON,0.0,0.0,en,1.0
 Typhoon Bualoi,Typhoon Bualoi,PERSON,0.0,0.0,en,1.0
 Matt Van Swol,Matt Van Swol,PERSON,0.0,0.18888888888888888,en,1.0
 Jonathan HeadSouth East Asia,Jonathan HeadSouth East Asia,PERSON,-0.1,0.45,en,1.0
@@ -143,33 +147,33 @@ Storm Amy,Storm Amy,PERSON,0.07500000000000001,0.95,en,1.0
 Met Éireann,Met Éireann,PERSON,-0.175,0.6166666666666667,en,1.0
 Typhoon Matmo,Typhoon Matmo,PERSON,-0.21666666666666667,0.3833333333333333,en,1.0
 Halle Parker,Halle Parker,PERSON,-0.26666666666666666,0.4333333333333333,en,1.0
-Melissa pos,Melissa pos,PERSON,0.0,0.0,en,1.0
-Thomas Champeau,Thomas Champeau,PERSON,0.2525,0.41000000000000003,en,1.0
-ARIEL FERNÁNDEZ,ARIEL FERNÁNDEZ,PERSON,0.0,0.0,en,1.0
-Matias Delacroix,Matias Delacroix,PERSON,0.0,0.0,en,1.0
-Keira Witcomb,Keira Witcomb,PERSON,0.0,0.0,en,1.0
-Rob Cuff,Rob Cuff,PERSON,0.21481481481481482,0.5962962962962963,en,1.0
+Tropical Storm Jerry,Tropical Storm Jerry,PERSON,-0.1,0.1,en,1.0
+AccuWeather meteo,AccuWeather meteo,PERSON,-0.03125,0.75,en,1.0
+Rob Marciano,Rob Marciano,PERSON,0.5,0.9,en,1.0
+St Elizabeth,St Elizabeth,PERSON,0.5,0.5,en,1.0
+Melissa Dangerous,Melissa Dangerous,PERSON,-0.6,0.9,en,1.0
 Mark PoyntingClimate,Mark PoyntingClimate,PERSON,-0.125,1.0,en,1.0
 Desmond McKenzie,Desmond McKenzie,PERSON,0.0,0.0,en,1.0
 Richard Solomon,Richard Solomon,PERSON,-0.16666666666666666,0.43333333333333335,en,1.0
 Jesus Christ,Jesus Christ,PERSON,-0.2,0.4,en,1.0
 John Morales,John Morales,PERSON,-0.6999999999999998,0.6666666666666666,en,1.0
 Influencer Hannah Grubbs,Influencer Hannah Grubbs,PERSON,-0.2125,0.3875,en,1.0
+Matias Delacroix,Matias Delacroix,PERSON,0.0,0.0,en,1.0
 Willow Tohi,Willow Tohi,PERSON,0.2375,0.575,en,1.0
-Rob Marciano,Rob Marciano,PERSON,0.5,0.9,en,1.0
-Melissa Dangerous,Melissa Dangerous,PERSON,-0.6,0.9,en,1.0
 Bill Gates,Bill Gates,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
+Keira Witcomb,Keira Witcomb,PERSON,0.0,0.0,en,1.0
 Matthew Cappucci,Matthew Cappucci,PERSON,0.35000000000000003,0.65,en,1.0
-Jimmy Kimmel,Jimmy Kimmel,PERSON,0.0,0.0,en,1.0
 YAMIL LAGE,YAMIL LAGE,PERSON,0.0,0.0,en,1.0
 Ann Arbor,Ann Arbor,PERSON,-0.5,1.5,en,1.0
-Hydroclimate Reanalysis,Hydroclimate Reanalysis,PERSON,0.15,0.55,en,1.0
+Jimmy Kimmel,Jimmy Kimmel,PERSON,0.0,0.0,en,1.0
 Guilloteau et al,Guilloteau et al,PERSON,0.15,0.55,en,1.0
+ARIEL FERNÁNDEZ,ARIEL FERNÁNDEZ,PERSON,0.0,0.0,en,1.0
+ANDREA RODRÍGUEZ,ANDREA RODRÍGUEZ,PERSON,0.0,0.0,en,1.0
+Nick Davis,Nick Davis,PERSON,0.5,0.5,en,1.0
+Rob Cuff,Rob Cuff,PERSON,0.21481481481481482,0.5962962962962963,en,1.0
 MÉT ÉIREANN,MÉT ÉIREANN,PERSON,-0.0625,0.1875,en,1.0
-Cyclone Montha,Cyclone Montha,PERSON,-0.1,0.3,en,1.0
-Hannah Grubbs,Hannah Grubbs,PERSON,-0.3,0.4,en,1.0
-Spike Lee’s,Spike Lee’s,PERSON,0.175,0.325,en,1.0
 Melissa ne,Melissa ne,PERSON,0.0,0.0,en,1.0
+Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PERSON,0.0,0.0,en,1.0
 Ricardo Hernandez,Ricardo Hernandez,PERSON,0.0,0.0,en,1.0
 Melissa Explodes,Melissa Explodes,PERSON,0.0,0.0,en,1.0
 Storm Melissa,Storm Melissa,PERSON,-0.07916666666666668,0.43333333333333335,en,1.0
@@ -178,12 +182,14 @@ Albert Einstein,Albert Einstein,PERSON,0.16485714285714287,0.3522857142857142,en
 DÁNICA COTO,DÁNICA COTO,PERSON,0.0,0.0,en,1.0
 Melissa Slams,Melissa Slams,PERSON,0.0,0.0,en,1.0
 Keir Starmer,Keir Starmer,PERSON,0.3,0.1,en,1.0
-Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PERSON,0.0,0.0,en,1.0
 Recep Tayyip Erdogan,Recep Tayyip Erdogan,PERSON,0.3,0.1,en,1.0
+Cyclone Montha,Cyclone Montha,PERSON,-0.1,0.3,en,1.0
 Justina Machado,Justina Machado,PERSON,0.19999999999999996,0.4166666666666667,en,1.0
 Aida Rodriguez,Aida Rodriguez,PERSON,0.19999999999999996,0.4166666666666667,en,1.0
 Alycia Pascual-Peña,Alycia Pascual-Peña,PERSON,0.19999999999999996,0.4166666666666667,en,1.0
 Elvis Nolasco,Elvis Nolasco,PERSON,0.19999999999999996,0.4166666666666667,en,1.0
 Jerry Minor,Jerry Minor,PERSON,0.19999999999999996,0.4166666666666667,en,1.0
 Nicole Gomez Fisher,Nicole Gomez Fisher,PERSON,0.09999999999999998,0.20833333333333334,en,1.0
-Esther Louis,Esther Louis,PERSON,0.0,0.0,en,1.0
+Spike Lee’s,Spike Lee’s,PERSON,0.175,0.325,en,1.0
+Hannah Grubbs,Hannah Grubbs,PERSON,-0.3,0.4,en,1.0
+historicgust ecli,historicgust ecli,PERSON,0.0,0.0,en,1.0
