@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane warning',en,Mitigation,#a89216,#87830f,3,0.1835360764615025
-'hurricane evacuation',en,Mitigation,#a89216,#9e3215,3,0.1530708526784925
+'hurricane evacuation',en,Mitigation,#a89216,#9e3215,3,0.16239326925947722
 'hurricane alert',en,Mitigation,#a89216,#638ed4,3,0.1523733378446704
 'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.151758508195876
 'hurricane',en,Hazard,#4287f5,#022f78,3,0.1499773979553686
