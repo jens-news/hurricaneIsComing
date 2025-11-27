@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane warning',en,Mitigation,#a89216,#87830f,3,0.1835360764615025
 'hurricane evacuation',en,Mitigation,#a89216,#9e3215,3,0.1623932692594772
-'hurricane alert',en,Mitigation,#a89216,#638ed4,3,0.1523733378446704
 'hurricane',en,Hazard,#4287f5,#022f78,3,0.1499773979553686
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.1498604116559384
+'hurricane alert',en,Mitigation,#a89216,#638ed4,3,0.14751852216796982
 'hurricane climate change',en,Causes,#3288e5,#638ed4,3,0.1464266365222419
 'hurricane climate change',en,Causes,#679e2c,#61d01c,3,0.1464266365222419
 'hurricane season',en,Hazard,#4287f5,#d64118,3,0.1370836619219247
@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.1235456058183219
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.1191541838385062
 'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.1076079961745822
-'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,2,0.09088937369525403
+'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,2,0.090889373695254
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0650295450461263
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.0400874879163185
