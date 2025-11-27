@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.1339505669664945
 'typhoon climate change',en,Causes,#9e3215,#f64118,3,0.1322190512611045
 'tropical depression',en,Hazard,#4287f5,#315fa8,3,0.1250750853609547
-'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.12354560581832195
+'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.1235456058183219
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.1191541838385062
 'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.1076079961745822
-'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0804573631708871
+'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,2,0.09088937369525403
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0650295450461263
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.0400874879163185
