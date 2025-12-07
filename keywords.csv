@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane evacuation',en,Mitigation,#a89216,#9e3215,1,0.0964772893403624
 'hurricane climate change',en,Causes,#679e2c,#61d01c,3,0.0944071668221318
 'hurricane climate change',en,Causes,#3288e5,#638ed4,3,0.0944071668221318
-'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,2,0.090889373695254
+'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0772564026409659
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0420826861389522
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.024896256266609
