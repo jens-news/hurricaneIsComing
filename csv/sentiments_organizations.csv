@@ -1,175 +1,156 @@
 ,phrase,label,sentiment,subjectivity,language,count
 AP,AP,ORG,0.03533848335572474,1.143337065233617,en,14.500000000000002
+Shell,Shell,ORG,0.111011011011011,1.222922922922923,en,11.100000000000001
 MetMalaysia,MetMalaysia,ORG,0.04097916666666664,0.4774583333333332,en,10.000000000000002
 NASA,NASA,ORG,0.024944567627494453,0.11363636363636363,en,8.200000000000001
-Trump,Trump,ORG,-0.39512882447665065,0.8911030595813206,en,6.899999999999998
+Trump,Trump,ORG,-0.31748575498575504,0.85238603988604,en,7.799999999999998
+NOAA,NOAA,ORG,-0.03169533169533169,0.3069615069615069,en,7.400000000000001
 the National Hurricane Center,the National Hurricane Center,ORG,-0.12936997089539465,1.102508132169149,en,5.9
-NOAA,NOAA,ORG,-0.07224025974025973,0.26812770562770566,en,5.6000000000000005
+BBC,BBC,ORG,-0.022030651340996153,0.5771072796934865,en,5.800000000000001
+UN,UN,ORG,-0.17763157894736845,0.6103801169590644,en,5.699999999999999
 The Malaysian Meteorological Department,The Malaysian Meteorological Department,ORG,0.060303030303030275,0.40939393939393937,en,5.5
 KUALA LUMPUR,KUALA LUMPUR,ORG,0.060303030303030275,0.40939393939393937,en,5.5
-BBC,BBC,ORG,-0.09410430839002265,0.5470521541950113,en,4.9
 Melissa,Melissa,ORG,0.019345238095238092,0.5066964285714286,en,4.8
 Kalmaegi,Kalmaegi,ORG,-0.09042553191489362,0.3031914893617021,en,4.7
 FEMA,FEMA,ORG,0.186292270531401,0.30615942028985504,en,4.6
-UN,UN,ORG,-0.21646341463414634,0.45223577235772355,en,4.1
+Microsoft,Microsoft,ORG,-0.03979097452934663,0.7139396456256922,en,4.3
 Reuters,Reuters,ORG,0.36174242424242425,1.115530303030303,en,4.0
+Atmospheric Administration,Atmospheric Administration,ORG,-0.021052631578947375,0.21140350877192984,en,3.8
 CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.0,0.0,en,3.8
 U.N.,U.N.,ORG,0.0,0.0,en,3.6999999999999997
-Kingston,Kingston,ORG,-0.01351351351351351,0.5878378378378378,en,3.6999999999999997
 the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,-0.03603603603603604,0.28828828828828834,en,3.6999999999999997
+Kingston,Kingston,ORG,-0.01351351351351351,0.5878378378378378,en,3.6999999999999997
 The Associated Press,The Associated Press,ORG,-0.019305019305019305,0.0,en,3.6999999999999997
 La Niña,La Niña,ORG,-0.011363636363636364,0.2045454545454545,en,3.3000000000000003
 Netflix,Netflix,ORG,-0.020527859237536663,0.0,en,3.1
-Shell,Shell,ORG,0.1074074074074074,3.7592592592592595,en,3.0
-the World Bank,the World Bank,ORG,0.3499999999999999,0.3666666666666667,en,3.0
-AccuWeather,AccuWeather,ORG,-0.12333333333333334,0.3499999999999999,en,3.0
 Salt Typhoon,Salt Typhoon,ORG,-0.061111111111111116,0.2611111111111111,en,3.0
 Associated Press,Associated Press,ORG,-0.044444444444444446,0.16666666666666666,en,3.0
+the World Bank,the World Bank,ORG,0.3499999999999999,0.3666666666666667,en,3.0
+AccuWeather,AccuWeather,ORG,-0.12333333333333334,0.3499999999999999,en,3.0
 Shaggy,Shaggy,ORG,0.30952380952380953,0.2619047619047619,en,2.8
 Tropicana Field,Tropicana Field,ORG,0.0,0.22321428571428573,en,2.8
 The Tampa Bay Rays,The Tampa Bay Rays,ORG,-0.035714285714285726,0.0,en,2.8
 WTVJ,WTVJ,ORG,0.0,0.0,en,2.8
 The National Hurricane Center,The National Hurricane Center,ORG,-0.19940476190476192,0.8958333333333336,en,2.8
 IMD,IMD,ORG,0.053571428571428575,0.32142857142857145,en,2.8
+Google,Google,ORG,-0.13636363636363635,0.4807692307692307,en,2.6
+TOPSHOT,TOPSHOT,ORG,-0.10416666666666666,0.14166666666666666,en,2.0
+the Office of the Spokesperson,the Office of the Spokesperson,ORG,0.0,0.0,en,2.0
 Science New Research,Science New Research,ORG,-0.18181818181818182,0.23863636363636365,en,2.0
 Verite News,Verite News,ORG,-0.13333333333333333,0.0,en,2.0
-National Hurricane Center,National Hurricane Center,ORG,-0.10340909090909092,0.8261363636363637,en,2.0
 KINGSTON,KINGSTON,ORG,0.0,0.08333333333333333,en,2.0
 US Air Force Reserve,US Air Force Reserve,ORG,-0.05,0.05,en,2.0
-Atmospheric Administration,Atmospheric Administration,ORG,-0.125,0.016666666666666666,en,2.0
-Syracuse,Syracuse,ORG,-0.14583333333333334,0.2708333333333333,en,2.0
 ESPN,ESPN,ORG,0.25416666666666665,0.2,en,2.0
+Syracuse,Syracuse,ORG,-0.14583333333333334,0.2708333333333333,en,2.0
+National Hurricane Center,National Hurricane Center,ORG,-0.10340909090909092,0.8261363636363637,en,2.0
 Daily Press Briefing,Daily Press Briefing,ORG,0.0,0.0,en,2.0
-the Office of the Spokesperson,the Office of the Spokesperson,ORG,0.0,0.0,en,2.0
+Bloomberg,Bloomberg,ORG,-0.04166666666666667,0.0,en,1.9
+AI,AI,ORG,0.07177033492822966,0.23923444976076555,en,1.9
 OCHA,OCHA,ORG,0.0,0.4210526315789474,en,1.9
 TThe UN,TThe UN,ORG,0.0,0.4210526315789474,en,1.9
-Super Typhoon,Super Typhoon,ORG,0.2894736842105263,0.3508771929824561,en,1.9
-CBS News,CBS News,ORG,0.5511695906432749,0.42690058479532167,en,1.9
 Negros Occidental,Negros Occidental,ORG,0.01507675438596491,0.2357456140350877,en,1.9
+CBS News,CBS News,ORG,0.5511695906432749,0.42690058479532167,en,1.9
 Super Typhoon Fung-wong,Super Typhoon Fung-wong,ORG,0.17794486215538846,0.2380952380952381,en,1.9
-Bloomberg,Bloomberg,ORG,-0.04166666666666667,0.0,en,1.9
 District of Negros Occidental,District of Negros Occidental,ORG,0.2105263157894737,0.2631578947368421,en,1.9
-MARCA,MARCA,ORG,-0.1879699248120301,0.4041353383458646,en,1.9
-the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,-0.011513157894736845,0.3848684210526316,en,1.9
-Bermuda,Bermuda,ORG,0.07894736842105263,0.5,en,1.9
-AI,AI,ORG,0.07177033492822966,0.23923444976076555,en,1.9
-NBC,NBC,ORG,0.0,0.0,en,1.9
-The India Meteorological Department,The India Meteorological Department,ORG,0.0,0.2368421052631579,en,1.9
+Super Typhoon,Super Typhoon,ORG,0.2894736842105263,0.3508771929824561,en,1.9
 the Office of Civil Defense,the Office of Civil Defense,ORG,0.2105263157894737,0.2631578947368421,en,1.9
-the Secrets of Marine Behavior,the Secrets of Marine Behavior,ORG,-0.152046783625731,0.2280701754385965,en,1.9
-AP News,AP News,ORG,-0.1929824561403509,0.1842105263157895,en,1.9
-NOAA Hurricane Hunters,NOAA Hurricane Hunters,ORG,0.4210526315789474,0.5263157894736842,en,1.9
-Matmo,Matmo,ORG,-0.043859649122807015,0.10526315789473685,en,1.9
-Sherwood Content,Sherwood Content,ORG,-0.3759398496240602,0.4041353383458646,en,1.9
-Rays,Rays,ORG,0.0,0.0,en,1.9
 SpaceX,SpaceX,ORG,0.0,0.0,en,1.9
+Rays,Rays,ORG,0.0,0.0,en,1.9
+Bermuda,Bermuda,ORG,0.07894736842105263,0.5,en,1.9
+the Secrets of Marine Behavior,the Secrets of Marine Behavior,ORG,-0.152046783625731,0.2280701754385965,en,1.9
+Homeland Security,Homeland Security,ORG,0.0,0.0,en,1.9
+the Malaysian Meteorological Department,the Malaysian Meteorological Department,ORG,-0.011513157894736845,0.3848684210526316,en,1.9
+The India Meteorological Department,The India Meteorological Department,ORG,0.0,0.2368421052631579,en,1.9
+MARCA,MARCA,ORG,-0.1879699248120301,0.4041353383458646,en,1.9
+NBC,NBC,ORG,0.0,0.0,en,1.9
+AP News,AP News,ORG,-0.1929824561403509,0.1842105263157895,en,1.9
+Sherwood Content,Sherwood Content,ORG,-0.3759398496240602,0.4041353383458646,en,1.9
 Priscilla,Priscilla,ORG,-0.0002990430622009625,0.052631578947368425,en,1.9
+NOAA Hurricane Hunters,NOAA Hurricane Hunters,ORG,0.4210526315789474,0.5263157894736842,en,1.9
+Clim,Clim,ORG,0.0,0.0,en,1.9
+DHS,DHS,ORG,0.2631578947368421,0.2631578947368421,en,1.9
+Matmo,Matmo,ORG,-0.043859649122807015,0.10526315789473685,en,1.9
 BOM,BOM,ORG,0.1388888888888889,0.18518518518518517,en,1.8
 Taliban,Taliban,ORG,-0.35937499999999994,0.23437499999999992,en,1.6000000000000005
 Senate,Senate,ORG,-0.6044372294372292,1.0129870129870127,en,1.4000000000000004
 BMV,BMV,ORG,0.0,0.07692307692307691,en,1.3000000000000003
 FAA,FAA,ORG,0.10096153846153845,0.23076923076923073,en,1.3000000000000003
-Grupo Aeroportuario,Grupo Aeroportuario,ORG,0.0,0.07692307692307691,en,1.3000000000000003
-de C.V.,de C.V.,ORG,0.0,0.07692307692307691,en,1.3000000000000003
-NYSE,NYSE,ORG,0.0,0.07692307692307691,en,1.3000000000000003
-Weekly Climate and Energy News Roundup,Weekly Climate and Energy News Roundup,ORG,0.0,0.0,en,1.3000000000000003
 PAC,PAC,ORG,0.0,0.07692307692307691,en,1.3000000000000003
-WME,WME,ORG,0.0,0.24999999999999994,en,1.2000000000000002
+NYSE,NYSE,ORG,0.0,0.07692307692307691,en,1.3000000000000003
+de C.V.,de C.V.,ORG,0.0,0.07692307692307691,en,1.3000000000000003
+Grupo Aeroportuario,Grupo Aeroportuario,ORG,0.0,0.07692307692307691,en,1.3000000000000003
+Weekly Climate and Energy News Roundup,Weekly Climate and Energy News Roundup,ORG,0.0,0.0,en,1.3000000000000003
 House,House,ORG,0.08333333333333333,0.24999999999999994,en,1.2000000000000002
+WME,WME,ORG,0.0,0.24999999999999994,en,1.2000000000000002
 White House,White House,ORG,0.04132231404958677,0.4407713498622589,en,1.1
-FutureFest,FutureFest,ORG,0.0,0.13636363636363635,en,1.1
 Grupo Aeroportuario del,Grupo Aeroportuario del,ORG,0.0,0.09090909090909091,en,1.1
--Cuba,-Cuba,ORG,1.0,0.8181818181818181,en,1.1
-Sun,Sun,ORG,0.0909090909090909,0.21515151515151518,en,1.1
-Walt Disney World Resort,Walt Disney World Resort,ORG,-0.18181818181818182,0.38636363636363635,en,1.1
-D.C. Newsroom,D.C. Newsroom,ORG,0.18181818181818182,0.09090909090909091,en,1.1
 DTF,DTF,ORG,0.6818181818181818,0.09090909090909091,en,1.1
-Environment Canada,Environment Canada,ORG,0.14718614718614714,0.43290043290043284,en,1.1
-Beyond Meat,Beyond Meat,ORG,0.2597402597402597,0.48701298701298695,en,1.1
-Truthout,Truthout,ORG,0.45454545454545453,1.0454545454545452,en,1.1
-Microsoft,Microsoft,ORG,0.26666666666666666,0.9393939393939392,en,1.1
+Sun,Sun,ORG,0.0909090909090909,0.21515151515151518,en,1.1
+D.C. Newsroom,D.C. Newsroom,ORG,0.18181818181818182,0.09090909090909091,en,1.1
+Walt Disney World Resort,Walt Disney World Resort,ORG,-0.18181818181818182,0.38636363636363635,en,1.1
+-Cuba,-Cuba,ORG,1.0,0.8181818181818181,en,1.1
+FutureFest,FutureFest,ORG,0.0,0.13636363636363635,en,1.1
 The Fall Edit,The Fall Edit,ORG,0.0,0.0,en,1.1
 FYSEE,FYSEE,ORG,0.0,0.0,en,1.1
 SCUT,SCUT,ORG,0.19696969696969696,0.616161616161616,en,1.1
-CBC Radio,CBC Radio,ORG,0.0,0.0,en,1.0
-NYC,NYC,ORG,-0.7,0.0,en,1.0
-NOAA Environmental Visualization Laboratory/Flickr,NOAA Environmental Visualization Laboratory/Flickr,ORG,0.0,0.0,en,1.0
-CEBU,CEBU,ORG,-0.2833333333333333,0.0,en,1.0
-World Brief,World Brief,ORG,-0.04999999999999999,0.0,en,1.0
-the National Acad,the National Acad,ORG,0.0,0.0,en,1.0
-inund,inund,ORG,0.0,0.0,en,1.0
-USGS,USGS,ORG,0.06818181818181818,0.0,en,1.0
-the European Unions,the European Unions,ORG,-0.04999999999999999,0.0,en,1.0
-Independent Budget Office,Independent Budget Office,ORG,0.029119318181818177,0.0,en,1.0
-Homes DestroyedThe New York Times Donations,Homes DestroyedThe New York Times Donations,ORG,0.1340909090909091,0.0,en,1.0
-the National Academy of Sciences,the National Academy of Sciences,ORG,0.14444444444444443,0.0,en,1.0
-National,National,ORG,0.0,0.0,en,1.0
-N.L.,N.L.,ORG,-0.16666666666666666,0.0,en,1.0
-Yale Climate Connections,Yale Climate Connections,ORG,0.0,0.0,en,1.0
-Kalamaegi,Kalamaegi,ORG,-0.2,0.0,en,1.0
-the American Film Institute,the American Film Institute,ORG,0.0,0.0,en,1.0
-the Florida Division,the Florida Division,ORG,0.0,0.0,en,1.0
-Jamaica - Sky News,Jamaica - Sky News,ORG,-0.2,0.0,en,1.0
-JamaicaSky News Death Toll Rises,JamaicaSky News Death Toll Rises,ORG,0.1706060606060606,0.0,en,1.0
-WhatsApp,WhatsApp,ORG,1.2000000000000002,2.0,en,1.0
-UN News,UN News,ORG,0.05833333333333333,0.0,en,1.0
-Jamaica - BBC,Jamaica - BBC,ORG,0.0,0.0,en,1.0
-hurricaneBBC Communities,hurricaneBBC Communities,ORG,0.06818181818181818,0.0,en,1.0
-worriedUSA,worriedUSA,ORG,0.06818181818181818,0.0,en,1.0
-fishersAP News Communities,fishersAP News Communities,ORG,-0.1462121212121212,0.0,en,1.0
-_Little Shop Of Horrors,_Little Shop Of Horrors,ORG,-0.1875,0.0,en,1.0
-Scientific American’s,Scientific American’s,ORG,0.16666666666666666,0.0,en,1.0
-Purse,Purse,ORG,0.0,0.0,en,1.0
-The Jamaican Ministry of Health,The Jamaican Ministry of Health,ORG,0.0,0.0,en,1.0
-VRSK,VRSK,ORG,0.2431818181818182,0.0,en,1.0
-NWS,NWS,ORG,0.13636363636363635,0.0,en,1.0
-Matador Network,Matador Network,ORG,1.0,0.0,en,1.0
-World Nomads,World Nomads,ORG,1.0,0.0,en,1.0
-CBS News Guts Climate Team,CBS News Guts Climate Team,ORG,0.13636363636363635,0.0,en,1.0
-The Central Emergency Response Fund,The Central Emergency Response Fund,ORG,0.0,0.0,en,1.0
-a UN Disaster Assessment,a UN Disaster Assessment,ORG,0.25,0.0,en,1.0
-Mississi,Mississi,ORG,-0.033333333333333326,0.0,en,1.0
-NOAA/CIRA,NOAA/CIRA,ORG,0.0,0.0,en,1.0
-Imperial College of London,Imperial College of London,ORG,0.0,0.0,en,1.0
-Information,Information,ORG,0.06666666666666667,0.0,en,1.0
-Haiyan,Haiyan,ORG,0.03333333333333333,0.0,en,1.0
-Hurricane Ida,Hurricane Ida,ORG,0.0,0.0,en,1.0
-The Disaster Economy,The Disaster Economy,ORG,0.0,0.0,en,1.0
-the NPR Network,the NPR Network,ORG,0.0,0.0,en,1.0
-Department of Agriculture,Department of Agriculture,ORG,-0.08333333333333333,0.0,en,1.0
+Truthout,Truthout,ORG,0.45454545454545453,1.0454545454545452,en,1.1
+Environment Canada,Environment Canada,ORG,0.14718614718614714,0.43290043290043284,en,1.1
+Beyond Meat,Beyond Meat,ORG,0.2597402597402597,0.48701298701298695,en,1.1
+Tropics,Tropics,ORG,0.0,0.0,en,1.0
+Jackson Blake,Jackson Blake,ORG,0.4666666666666666,0.0,en,1.0
 "NBC News
 Explosion","NBC News
 Explosion",ORG,-0.033333333333333326,0.0,en,1.0
-Tylenol,Tylenol,ORG,0.3333333333333333,0.0,en,1.0
+CBS News Guts Climate Team,CBS News Guts Climate Team,ORG,0.13636363636363635,0.0,en,1.0
+World Nomads,World Nomads,ORG,1.0,0.0,en,1.0
+Mississi,Mississi,ORG,-0.033333333333333326,0.0,en,1.0
+sco,sco,ORG,-0.07500000000000001,0.0,en,1.0
+_Little Shop Of Horrors,_Little Shop Of Horrors,ORG,-0.1875,0.0,en,1.0
+fishersAP News Communities,fishersAP News Communities,ORG,-0.1462121212121212,0.0,en,1.0
+NWS,NWS,ORG,0.13636363636363635,0.0,en,1.0
+Scientific American’s,Scientific American’s,ORG,0.16666666666666666,0.0,en,1.0
+Purse,Purse,ORG,0.0,0.0,en,1.0
+The Jamaican Ministry of Health,The Jamaican Ministry of Health,ORG,0.0,0.0,en,1.0
 Syracuse Orange,Syracuse Orange,ORG,0.0,0.0,en,1.0
-The Beech B100 Went Down,The Beech B100 Went Down,ORG,-0.1777777777777778,0.0,en,1.0
-the Bureau of Meteorology,the Bureau of Meteorology,ORG,0.0,0.0,en,1.0
-NT,NT,ORG,0.049999999999999996,0.0,en,1.0
-The Bureau of Meteorology,The Bureau of Meteorology,ORG,0.049999999999999996,0.0,en,1.0
-CSU/CIRA &amp;amp,CSU/CIRA &amp;amp,ORG,-0.20454545454545456,0.0,en,1.0
-Bank,Bank,ORG,0.2533333333333333,0.0,en,1.0
-Tampa Bay Rays,Tampa Bay Rays,ORG,0.0,0.0,en,1.0
-Yankees,Yankees,ORG,0.0,0.0,en,1.0
-the South China University of Technology Architectural De,the South China University of Technology Architectural De,ORG,0.0,0.0,en,1.0
-crashThe Guardian,crashThe Guardian,ORG,0.1388888888888889,0.0,en,1.0
-the Hainan Dongzhaigang National Nature Reserve,the Hainan Dongzhaigang National Nature Reserve,ORG,0.0,0.0,en,1.0
-designboom | architecture & design,designboom | architecture & design,ORG,0.21666666666666667,0.0,en,1.0
-Voidstorm,Voidstorm,ORG,0.16818181818181818,0.0,en,1.0
-Harandar,Harandar,ORG,0.16818181818181818,0.0,en,1.0
-Void,Void,ORG,0.16818181818181818,0.0,en,1.0
-Christian ministry,Christian ministry,ORG,0.0,0.0,en,1.0
-ID’d,ID’d,ORG,0.1388888888888889,0.0,en,1.0
-FEMA Mess,FEMA Mess,ORG,-0.18333333333333335,0.0,en,1.0
-U.S. Landfall,U.S. Landfall,ORG,0.0,0.0,en,1.0
-the Federal Emergency Management Agency,the Federal Emergency Management Agency,ORG,-0.0625,0.0,en,1.0
-Torres del Paine National Park,Torres del Paine National Park,ORG,0.1,0.0,en,1.0
-Tourism Faces Long Recovery After,Tourism Faces Long Recovery After,ORG,-0.175,0.0,en,1.0
-avera,avera,ORG,0.0,0.0,en,1.0
-Google,Google,ORG,0.4121212121212121,0.0,en,1.0
-the National W… <ul><li></li><li></li><li></li></ul,the National W… <ul><li></li><li></li><li></li></ul,ORG,-0.25,0.0,en,1.0
-DOGE,DOGE,ORG,0.0,0.0,en,1.0
+VRSK,VRSK,ORG,0.2431818181818182,0.0,en,1.0
+the National Acad,the National Acad,ORG,0.0,0.0,en,1.0
+Matador Network,Matador Network,ORG,1.0,0.0,en,1.0
+the Federal Aviation Administration,the Federal Aviation Administration,ORG,0.03125,0.0,en,1.0
+Department of Agriculture,Department of Agriculture,ORG,-0.08333333333333333,0.0,en,1.0
+The Central Emergency Response Fund,The Central Emergency Response Fund,ORG,0.0,0.0,en,1.0
+USGS,USGS,ORG,0.06818181818181818,0.0,en,1.0
+the American Film Institute,the American Film Institute,ORG,0.0,0.0,en,1.0
+the NPR Network,the NPR Network,ORG,0.0,0.0,en,1.0
+Kalamaegi,Kalamaegi,ORG,-0.2,0.0,en,1.0
+Trelawney Parish,Trelawney Parish,ORG,0.0,0.0,en,1.0
+The Disaster Economy,The Disaster Economy,ORG,0.0,0.0,en,1.0
+inund,inund,ORG,0.0,0.0,en,1.0
+Hurricane Ida,Hurricane Ida,ORG,0.0,0.0,en,1.0
+NYC,NYC,ORG,-0.7,0.0,en,1.0
+Haiyan,Haiyan,ORG,0.03333333333333333,0.0,en,1.0
+Information,Information,ORG,0.06666666666666667,0.0,en,1.0
+Imperial College of London,Imperial College of London,ORG,0.0,0.0,en,1.0
+Independent Budget Office,Independent Budget Office,ORG,0.029119318181818177,0.0,en,1.0
+"the National Academy of Sciences
+
+","the National Academy of Sciences
+
+",ORG,0.14444444444444443,0.0,en,1.0
+Homes DestroyedThe New York Times Donations,Homes DestroyedThe New York Times Donations,ORG,0.1340909090909091,0.0,en,1.0
+NOAA/CIRA,NOAA/CIRA,ORG,0.0,0.0,en,1.0
+N.L.,N.L.,ORG,-0.16666666666666666,0.0,en,1.0
+CBC Radio,CBC Radio,ORG,0.0,0.0,en,1.0
+World Brief,World Brief,ORG,-0.04999999999999999,0.0,en,1.0
+the European Unions,the European Unions,ORG,-0.04999999999999999,0.0,en,1.0
+NOAA Environmental Visualization Laboratory/Flickr,NOAA Environmental Visualization Laboratory/Flickr,ORG,0.0,0.0,en,1.0
+Yale Climate Connections,Yale Climate Connections,ORG,0.0,0.0,en,1.0
+National,National,ORG,0.0,0.0,en,1.0
+CEBU,CEBU,ORG,-0.2833333333333333,0.0,en,1.0
+a UN Disaster Assessment,a UN Disaster Assessment,ORG,0.25,0.0,en,1.0
+TyphoonKalmaegi,TyphoonKalmaegi,ORG,0.3,0.0,en,1.0
+Tylenol,Tylenol,ORG,0.3333333333333333,0.0,en,1.0
+World Bank Says,World Bank Says,ORG,0.35,0.0,en,1.0
 NB… Skip,NB… Skip,ORG,0.0,0.0,en,1.0
-CBS Evening News,CBS Evening News,ORG,0.0,0.0,en,1.0
 ABC World News,ABC World News,ORG,0.0,0.0,en,1.0
 CBS,CBS,ORG,0.0,0.0,en,1.0
 ABC,ABC,ORG,0.0,0.0,en,1.0
@@ -177,57 +158,92 @@ the Secretary-General,the Secretary-General,ORG,0.0,0.0,en,1.0
 Resilient Recovery,Resilient Recovery,ORG,0.0,0.0,en,1.0
 UNDP,UNDP,ORG,0.0,0.0,en,1.0
 the UN Development Programme,the UN Development Programme,ORG,0.0,0.0,en,1.0
-Clim,Clim,ORG,0.0,0.0,en,1.0
-JamaicaFox News Father,JamaicaFox News Father,ORG,0.1388888888888889,0.0,en,1.0
-Christian Pulisics,Christian Pulisics,ORG,-0.024999999999999994,0.0,en,1.0
-Tropics,Tropics,ORG,0.0,0.0,en,1.0
-Super Typhoon Uwan Makes Landfall,Super Typhoon Uwan Makes Landfall,ORG,0.10416666666666666,0.0,en,1.0
+Torres del Paine National Park,Torres del Paine National Park,ORG,0.1,0.0,en,1.0
+the Federal Emergency Management Agency,the Federal Emergency Management Agency,ORG,-0.0625,0.0,en,1.0
+U.S. Landfall,U.S. Landfall,ORG,0.0,0.0,en,1.0
+FEMA Mess,FEMA Mess,ORG,-0.18333333333333335,0.0,en,1.0
+the Bureau of Meteorology,the Bureau of Meteorology,ORG,0.0,0.0,en,1.0
+NT,NT,ORG,0.049999999999999996,0.0,en,1.0
+The Bureau of Meteorology,The Bureau of Meteorology,ORG,0.049999999999999996,0.0,en,1.0
+CSU/CIRA &amp;amp,CSU/CIRA &amp;amp,ORG,-0.20454545454545456,0.0,en,1.0
+Bank,Bank,ORG,0.2533333333333333,0.0,en,1.0
+Tampa Bay Rays,Tampa Bay Rays,ORG,0.0,0.0,en,1.0
+CBS Evening News,CBS Evening News,ORG,0.0,0.0,en,1.0
+DOGE,DOGE,ORG,0.0,0.0,en,1.0
+Next,Next,ORG,-0.5,0.0,en,1.0
+the National W… <ul><li></li><li></li><li></li></ul,the National W… <ul><li></li><li></li><li></li></ul,ORG,-0.25,0.0,en,1.0
+CATOTO,CATOTO,ORG,-0.04,0.0,en,1.0
+&amp,&amp,ORG,0.0,0.0,en,1.0
+Nat,Nat,ORG,0.0,0.0,en,1.0
+The Annual Maximum Flood,The Annual Maximum Flood,ORG,0.0,0.0,en,1.0
+Cyclone Energy,Cyclone Energy,ORG,0.024955908289241605,0.0,en,1.0
+The countrys Ministry of Energy and Mine,The countrys Ministry of Energy and Mine,ORG,0.0,0.0,en,1.0
+Marnee Losurdo403rd Wing Public Affairs,Marnee Losurdo403rd Wing Public Affairs,ORG,-0.4,0.0,en,1.0
+the Hurricane Hunters,the Hurricane Hunters,ORG,0.0,0.0,en,1.0
+53rd Weather Reconnaissance Squadron,53rd Weather Reconnaissance Squadron,ORG,0.0,0.0,en,1.0
+the Air Force Reserve's,the Air Force Reserve's,ORG,0.0,0.0,en,1.0
+WMO,WMO,ORG,-0.1625,0.0,en,1.0
+World Meteorological Organization (WMO,World Meteorological Organization (WMO,ORG,0.425,0.0,en,1.0
+UN News,UN News,ORG,0.425,0.0,en,1.0
+OpenAI,OpenAI,ORG,0.14285714285714285,0.0,en,1.0
+Nano Banana,Nano Banana,ORG,0.0,0.0,en,1.0
+Tourism Faces Long Recovery After,Tourism Faces Long Recovery After,ORG,-0.175,0.0,en,1.0
+avera,avera,ORG,0.0,0.0,en,1.0
+Yankees,Yankees,ORG,0.0,0.0,en,1.0
+The Beech B100 Went Down,The Beech B100 Went Down,ORG,-0.1777777777777778,0.0,en,1.0
+the South China University of Technology Architectural De,the South China University of Technology Architectural De,ORG,0.0,0.0,en,1.0
+the Hainan Dongzhaigang National Nature Reserve,the Hainan Dongzhaigang National Nature Reserve,ORG,0.0,0.0,en,1.0
+worriedUSA,worriedUSA,ORG,0.06818181818181818,0.0,en,1.0
+Medicare,Medicare,ORG,0.1,0.0,en,1.0
+Parkss,Parkss,ORG,0.1,0.0,en,1.0
+COP30,COP30,ORG,-0.0625,0.0,en,1.0
+BACKHOES,BACKHOES,ORG,0.0,0.0,en,1.0
+Instagra,Instagra,ORG,0.0,0.0,en,1.0
+World News,World News,ORG,0.16666666666666666,0.0,en,1.0
+Foreign Policys Southeast Asia Brief,Foreign Policys Southeast Asia Brief,ORG,0.225,0.0,en,1.0
+SS,SS,ORG,0.0,0.0,en,1.0
 takeo,takeo,ORG,-0.25,0.0,en,1.0
-the National Oceanographic and Atmospheric Administration,the National Oceanographic and Atmospheric Administration,ORG,0.0,0.0,en,1.0
 WASHINGTON &gt;&gt,WASHINGTON &gt;&gt,ORG,0.0,0.0,en,1.0
 Crews Are Working to Fix Alaska Native Villages Devastated by Floods,Crews Are Working to Fix Alaska Native Villages Devastated by Floods,ORG,0.0,0.0,en,1.0
 Uwan,Uwan,ORG,0.0,0.0,en,1.0
 Super Typhoon Uwan,Super Typhoon Uwan,ORG,0.27777777777777773,0.0,en,1.0
 TCWS,TCWS,ORG,0.0,0.0,en,1.0
+Super Typhoon Uwan Makes Landfall,Super Typhoon Uwan Makes Landfall,ORG,0.10416666666666666,0.0,en,1.0
 Bank of England,Bank of England,ORG,-0.2,0.0,en,1.0
+CAGR,CAGR,ORG,0.0,0.0,en,1.0
+ISR,ISR,ORG,0.0,0.0,en,1.0
+Processors &amp,Processors &amp,ORG,0.0,0.0,en,1.0
+crashThe Guardian,crashThe Guardian,ORG,0.1388888888888889,0.0,en,1.0
+designboom | architecture & design,designboom | architecture & design,ORG,0.21666666666666667,0.0,en,1.0
+Voidstorm,Voidstorm,ORG,0.16818181818181818,0.0,en,1.0
+Harandar,Harandar,ORG,0.16818181818181818,0.0,en,1.0
+Void,Void,ORG,0.16818181818181818,0.0,en,1.0
+Christian ministry,Christian ministry,ORG,0.0,0.0,en,1.0
+ID’d,ID’d,ORG,0.1388888888888889,0.0,en,1.0
+JamaicaFox News Father,JamaicaFox News Father,ORG,0.1388888888888889,0.0,en,1.0
+Christian Pulisics,Christian Pulisics,ORG,-0.024999999999999994,0.0,en,1.0
+"Controllers, Memory, Power Management","Controllers, Memory, Power Management",ORG,0.0,0.0,en,1.0
 Rossoneri,Rossoneri,ORG,0.0,0.0,en,1.0
-Next,Next,ORG,-0.5,0.0,en,1.0
-World Bank Says,World Bank Says,ORG,0.35,0.0,en,1.0
-Trelawney Parish,Trelawney Parish,ORG,0.0,0.0,en,1.0
-TyphoonKalmaegi,TyphoonKalmaegi,ORG,0.3,0.0,en,1.0
-sco,sco,ORG,-0.07500000000000001,0.0,en,1.0
-Jackson Blake,Jackson Blake,ORG,0.4666666666666666,0.0,en,1.0
-the Federal Aviation Administration,the Federal Aviation Administration,ORG,0.03125,0.0,en,1.0
-SS,SS,ORG,0.0,0.0,en,1.0
-Foreign Policys Southeast Asia Brief,Foreign Policys Southeast Asia Brief,ORG,0.225,0.0,en,1.0
-World News,World News,ORG,0.16666666666666666,0.0,en,1.0
-Instagra,Instagra,ORG,0.0,0.0,en,1.0
 USMNT,USMNT,ORG,-0.19,0.0,en,1.0
 Louisiana bank,Louisiana bank,ORG,-0.35,0.0,en,1.0
 the Federal Reserve Bank,the Federal Reserve Bank,ORG,0.13636363636363635,0.0,en,1.0
 National Guard,National Guard,ORG,-0.5,0.0,en,1.0
 NOAA Space Weather Prediction Center,NOAA Space Weather Prediction Center,ORG,0.25,0.0,en,1.0
 Manufacturing Technique,Manufacturing Technique,ORG,0.0,0.0,en,1.0
-"Controllers, Memory, Power Management","Controllers, Memory, Power Management",ORG,0.0,0.0,en,1.0
-Processors &amp,Processors &amp,ORG,0.0,0.0,en,1.0
-ISR,ISR,ORG,0.0,0.0,en,1.0
-CAGR,CAGR,ORG,0.0,0.0,en,1.0
 Radiation Hardened Electronics Industry Research Report,Radiation Hardened Electronics Industry Research Report,ORG,0.0,0.0,en,1.0
-Medicare,Medicare,ORG,0.1,0.0,en,1.0
-Parkss,Parkss,ORG,0.1,0.0,en,1.0
-COP30,COP30,ORG,-0.0625,0.0,en,1.0
-BACKHOES,BACKHOES,ORG,0.0,0.0,en,1.0
-the North AtlanticYale Climate Connections,the North AtlanticYale Climate Connections,ORG,-0.17727272727272725,0.0,en,1.0
-•    ,•    ,ORG,0.0,0.0,en,1.0
-Climate Desk,Climate Desk,ORG,0.375,0.0,en,1.0
+Foreign Policys Latin America Brief,Foreign Policys Latin America Brief,ORG,0.16875,0.0,en,1.0
+hurricaneBBC Communities,hurricaneBBC Communities,ORG,0.06818181818181818,0.0,en,1.0
+Un,Un,ORG,0.03125,0.0,en,1.0
+Beyond Meat's,Beyond Meat's,ORG,0.0,0.0,en,1.0
 European Telecoms,European Telecoms,ORG,-0.1,0.0,en,1.0
+Por,Por,ORG,0.0,0.0,en,1.0
 Communities,Communities,ORG,0.0,0.0,en,1.0
 Louisiana First,Louisiana First,ORG,0.175,0.0,en,1.0
 the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.125,0.0,en,1.0
 Field Creatives,Field Creatives,ORG,0.0,0.0,en,1.0
 Heritage Hospitality Group,Heritage Hospitality Group,ORG,0.0,0.0,en,1.0
-Un,Un,ORG,0.03125,0.0,en,1.0
 +1864,+1864,ORG,0.0,0.0,en,1.0
+SharePoint,SharePoint,ORG,0.0,0.0,en,1.0
 newsweek.com,newsweek.com,ORG,0.0,0.0,en,1.0
 coastal communities,coastal communities,ORG,-0.1,0.0,en,1.0
 The National Hur…,The National Hur…,ORG,0.0,0.0,en,1.0
@@ -238,18 +254,20 @@ Coast Guard,Coast Guard,ORG,0.0,0.0,en,1.0
 "National Weather Service
 ","National Weather Service
 ",ORG,0.0,0.0,en,1.0
-The National Weather Service,The National Weather Service,ORG,0.16,0.0,en,1.0
-CNPC,CNPC,ORG,0.0,0.0,en,1.0
-Por,Por,ORG,0.0,0.0,en,1.0
-Beyond Meat's,Beyond Meat's,ORG,0.0,0.0,en,1.0
-AllEars,AllEars,ORG,0.25,0.0,en,1.0
 BYND,BYND,ORG,0.2857142857142857,0.0,en,1.0
+tele… Plus,tele… Plus,ORG,0.06666666666666668,0.0,en,1.0
+The US Nation,The US Nation,ORG,0.0,0.0,en,1.0
+the US National Hurricane Center,the US National Hurricane Center,ORG,0.09999999999999999,0.0,en,1.0
+CONE,CONE,ORG,0.10833333333333332,0.0,en,1.0
+Strength,Strength,ORG,0.0,0.0,en,1.0
+AllEars,AllEars,ORG,0.25,0.0,en,1.0
+Disney,Disney,ORG,0.25,0.0,en,1.0
 Disney Cruise Line,Disney Cruise Line,ORG,-0.125,0.0,en,1.0
 Disney Cruise Ships Reroute,Disney Cruise Ships Reroute,ORG,0.0,0.0,en,1.0
 AP Photo/,AP Photo/,ORG,0.0,0.0,en,1.0
 Navy,Navy,ORG,-0.11875000000000002,0.85,en,1.0
-the US National Hurricane Center,the US National Hurricane Center,ORG,0.09999999999999999,0.0,en,1.0
 the National Hurricane Center's,the National Hurricane Center's,ORG,0.24444444444444444,0.0,en,1.0
+Hispaniola,Hispaniola,ORG,0.05833333333333333,0.0,en,1.0
 The Big Story,The Big Story,ORG,-0.25,0.0,en,1.0
 ProPublica,ProPublica,ORG,0.0,0.0,en,1.0
 FDA,FDA,ORG,0.0,0.0,en,1.0
@@ -258,13 +276,11 @@ rapi,rapi,ORG,-0.13333333333333333,0.0,en,1.0
 clima,clima,ORG,0.0,0.0,en,1.0
 Guardi,Guardi,ORG,0.0,0.0,en,1.0
 Yahoo,Yahoo,ORG,0.15416666666666667,0.0,en,1.0
-Hispaniola,Hispaniola,ORG,0.05833333333333333,0.0,en,1.0
-tele… Plus,tele… Plus,ORG,0.06666666666666668,0.0,en,1.0
-SharePoint,SharePoint,ORG,0.0,0.0,en,1.0
+The National Weather Service,The National Weather Service,ORG,0.16,0.0,en,1.0
+CNPC,CNPC,ORG,0.0,0.0,en,1.0
 The National Civil Protection Coordination,The National Civil Protection Coordination,ORG,0.0,0.0,en,1.0
-Alaska State Troopers,Alaska State Troopers,ORG,-0.25,0.0,en,1.0
-Now Going for Pennies,Now Going for Pennies,ORG,0.25,0.0,en,1.0
-The EcoFlow Power Station Sells,The EcoFlow Power Station Sells,ORG,0.25,0.0,en,1.0
+Giz,Giz,ORG,0.2,0.0,en,1.0
+Hurricane Imelda,Hurricane Imelda,ORG,-0.10545454545454547,0.35090909090909095,en,1.0
 Formentera,Formentera,ORG,0.16666666666666666,0.0,en,1.0
 the National Hu,the National Hu,ORG,0.0,0.0,en,1.0
 Fernand,Fernand,ORG,0.0,0.0,en,1.0
@@ -272,8 +288,8 @@ Reader's Digest,Reader's Digest,ORG,0.25,0.0,en,1.0
 iPhone,iPhone,ORG,0.30952380952380953,0.0,en,1.0
 Categ,Categ,ORG,0.0,0.0,en,1.0
 SSHWS,SSHWS,ORG,0.2,0.0,en,1.0
-Giz,Giz,ORG,0.2,0.0,en,1.0
 Storm Imelda,Storm Imelda,ORG,-0.06666666666666667,0.0,en,1.0
+Alaska State Troopers,Alaska State Troopers,ORG,-0.25,0.0,en,1.0
 Imelda,Imelda,ORG,-0.0875,0.31333333333333335,en,1.0
 Param,Param,ORG,0.5,0.0,en,1.0
 Paramount Pictures,Paramount Pictures,ORG,1.0,0.7,en,1.0
@@ -282,10 +298,12 @@ FREIDA,FREIDA,ORG,0.025,0.2333333333333333,en,1.0
 Sun News,Sun News,ORG,0.0,0.0,en,1.0
 Humberto,Humberto,ORG,-0.1,0.1,en,1.0
 Hurricane Laura,Hurricane Laura,ORG,-0.5333333333333333,0.4333333333333333,en,1.0
-Hurricane Imelda,Hurricane Imelda,ORG,-0.10545454545454547,0.35090909090909095,en,1.0
 Peninsula Hospital,Peninsula Hospital,ORG,0.0,0.1,en,1.0
 Status Yellow,Status Yellow,ORG,0.27999999999999997,0.8266666666666668,en,1.0
-Kyodo,Kyodo,ORG,-0.1,0.0,en,1.0
+Hurricanes Imelda,Hurricanes Imelda,ORG,-0.3,0.0,en,1.0
+Track,Track,ORG,0.0,0.0,en,1.0
+Now Going for Pennies,Now Going for Pennies,ORG,0.25,0.0,en,1.0
+The EcoFlow Power Station Sells,The EcoFlow Power Station Sells,ORG,0.25,0.0,en,1.0
 The EcoFlow Power Station Sells Out,The EcoFlow Power Station Sells Out,ORG,0.0,0.0,en,1.0
 Gangnam,Gangnam,ORG,0.029166666666666646,0.0,en,1.0
 K-Drama ‘,K-Drama ‘,ORG,0.0,0.0,en,1.0
@@ -295,22 +313,28 @@ K-Drama ‘,K-Drama ‘,ORG,0.0,0.0,en,1.0
 New Griffith University,New Griffith University,ORG,0.13636363636363635,0.0,en,1.0
 the Climate Prediction Center,the Climate Prediction Center,ORG,-0.1,0.0,en,1.0
 This La Niña,This La Niña,ORG,-0.1,0.0,en,1.0
+Kyodo,Kyodo,ORG,-0.1,0.0,en,1.0
 Tesla,Tesla,ORG,-0.20000000000000004,0.0,en,1.0
-Hurricanes Imelda,Hurricanes Imelda,ORG,-0.3,0.0,en,1.0
 the Tampa Bay Rays,the Tampa Bay Rays,ORG,0.1890909090909091,0.38181818181818183,en,1.0
 New Rays,New Rays,ORG,0.12424242424242422,0.0,en,1.0
 the Eastern Pacific,the Eastern Pacific,ORG,-0.13333333333333333,0.0,en,1.0
 Rite Aid,Rite Aid,ORG,-0.20000000000000004,0.0,en,1.0
 Laura,Laura,ORG,-0.26666666666666666,0.0,en,1.0
 Typhoon Matmo,Typhoon Matmo,ORG,-0.13333333333333333,0.0,en,1.0
-Track,Track,ORG,0.0,0.0,en,1.0
-Disney,Disney,ORG,0.25,0.0,en,1.0
-Strength,Strength,ORG,0.0,0.0,en,1.0
-Inside Climate News,Inside Climate News,ORG,0.375,0.0,en,1.0
-TOPSHOT,TOPSHOT,ORG,-0.20833333333333331,0.2833333333333333,en,1.0
-The United Nations General Assembly,The United Nations General Assembly,ORG,0.55,0.75,en,1.0
+Monda,Monda,ORG,-0.1,0.0,en,1.0
+Gilbert,Gilbert,ORG,0.0,0.0,en,1.0
+Jamaica - BBC,Jamaica - BBC,ORG,0.0,0.0,en,1.0
 the European Union's,the European Union's,ORG,0.04,0.0,en,1.0
+the University of Aberdeen,the University of Aberdeen,ORG,0.0,0.0,en,1.0
+BBC Verify USA Correspondent,BBC Verify USA Correspondent,ORG,-0.15555555555555559,0.0,en,1.0
+•    ,•    ,ORG,0.0,0.0,en,1.0
+Hydro,Hydro,ORG,0.0,0.0,en,1.0
+Standard Chartered Weather Photographer,Standard Chartered Weather Photographer,ORG,0.32,0.0,en,1.0
+the Royal Meteorological Society,the Royal Meteorological Society,ORG,0.32,0.0,en,1.0
+Strength And Climate Truth Shine After Hurricane Melissa,Strength And Climate Truth Shine After Hurricane Melissa,ORG,0.0,0.0,en,1.0
+The United Nations General Assembly,The United Nations General Assembly,ORG,0.55,0.75,en,1.0
 UNOCHA,UNOCHA,ORG,0.0,0.0,en,1.0
+permafrost,permafrost,ORG,0.0,0.0,en,1.0
 CNN,CNN,ORG,-0.5,0.75,en,1.0
 Informed Comment,Informed Comment,ORG,-0.25,0.0,en,1.0
 Direct Relief,Direct Relief,ORG,0.05,0.0,en,1.0
@@ -323,17 +347,24 @@ Climate/Environment
 ","Interesting Engineering
 Climate/Environment
 ",ORG,0.35284090909090904,0.0,en,1.0
-the China hawks,the China hawks,ORG,-0.05,0.0,en,1.0
-The National Hurric…,The National Hurric…,ORG,0.0,0.0,en,1.0
-The National Hurricane Center (NHC,The National Hurricane Center (NHC,ORG,-0.1,0.0,en,1.0
-Sky News,Sky News,ORG,0.1,0.0,en,1.0
-The Atlantic Daily,The Atlantic Daily,ORG,0.37878787878787873,0.0,en,1.0
-Jamaica.</li></ul></,Jamaica.</li></ul></,ORG,0.0,0.0,en,1.0
-Strength And Climate Truth Shine After Hurricane Melissa,Strength And Climate Truth Shine After Hurricane Melissa,ORG,0.0,0.0,en,1.0
-the Royal Meteorological Society,the Royal Meteorological Society,ORG,0.32,0.0,en,1.0
-CONE,CONE,ORG,0.10833333333333332,0.0,en,1.0
-Standard Chartered Weather Photographer,Standard Chartered Weather Photographer,ORG,0.32,0.0,en,1.0
+Transportation Security Administration,Transportation Security Administration,ORG,0.0,0.0,en,1.0
+"Getty Images
+","Getty Images
+",ORG,0.0,0.0,en,1.0
+foreca,foreca,ORG,0.0,0.0,en,1.0
+Inside Climate News,Inside Climate News,ORG,0.375,0.0,en,1.0
+"UN News
+","UN News
+",ORG,0.05833333333333333,0.0,en,1.0
+WhatsApp,WhatsApp,ORG,1.2000000000000002,2.0,en,1.0
+JamaicaSky News Death Toll Rises,JamaicaSky News Death Toll Rises,ORG,0.1706060606060606,0.0,en,1.0
+Jamaica - Sky News,Jamaica - Sky News,ORG,-0.2,0.0,en,1.0
+the Florida Division,the Florida Division,ORG,0.0,0.0,en,1.0
+the North AtlanticYale Climate Connections,the North AtlanticYale Climate Connections,ORG,-0.17727272727272725,0.0,en,1.0
+the National Oceanographic and Atmospheric Administration,the National Oceanographic and Atmospheric Administration,ORG,0.0,0.0,en,1.0
+Climate Desk,Climate Desk,ORG,0.375,0.0,en,1.0
 SERVFAIL,SERVFAIL,ORG,0.19,0.0,en,1.0
+msnbc.com,msnbc.com,ORG,0.0,0.0,en,1.0
 Brandon Drenonin Black River,Brandon Drenonin Black River,ORG,-0.16666666666666666,0.0,en,1.0
 the Central Asian Union,the Central Asian Union,ORG,0.0,0.0,en,1.0
 Shanghai Cooperation Organisation,Shanghai Cooperation Organisation,ORG,0.0,0.0,en,1.0
@@ -342,25 +373,20 @@ Apple,Apple,ORG,0.13333333333333333,0.26666666666666666,en,1.0
 FBI,FBI,ORG,0.0,0.0,en,1.0
 Hurricane Melissas,Hurricane Melissas,ORG,-0.13333333333333333,0.0,en,1.0
 subsi,subsi,ORG,-0.1,0.0,en,1.0
-Foreign Policys Latin America Brief,Foreign Policys Latin America Brief,ORG,0.16875,0.0,en,1.0
-msnbc.com,msnbc.com,ORG,0.0,0.0,en,1.0
-"Getty Images
-","Getty Images
-",ORG,0.0,0.0,en,1.0
-permafrost,permafrost,ORG,0.0,0.0,en,1.0
-Transportation Security Administration,Transportation Security Administration,ORG,0.0,0.0,en,1.0
-the University of Aberdeen,the University of Aberdeen,ORG,0.0,0.0,en,1.0
-BBC Verify USA Correspondent,BBC Verify USA Correspondent,ORG,-0.15555555555555559,0.0,en,1.0
-Hydro,Hydro,ORG,0.0,0.0,en,1.0
-Natural News,Natural News,ORG,0.2375,0.0,en,1.0
-Shattering Records,Shattering Records,ORG,0.0,0.0,en,1.0
-Elizabeth Parishs,Elizabeth Parishs,ORG,-0.16666666666666666,0.0,en,1.0
-185-mile-,185-mile-,ORG,0.0,0.0,en,1.0
+the China hawks,the China hawks,ORG,-0.05,0.0,en,1.0
+The National Hurric…,The National Hurric…,ORG,0.0,0.0,en,1.0
+The National Hurricane Center (NHC,The National Hurricane Center (NHC,ORG,-0.1,0.0,en,1.0
+NYT Connections Sports,NYT Connections Sports,ORG,0.0,0.0,en,1.0
+Trump MRI,Trump MRI,ORG,0.0,0.0,en,1.0
+U.S. Air Force Reserve Crew,U.S. Air Force Reserve Crew,ORG,0.25,0.0,en,1.0
+reac,reac,ORG,0.0,0.0,en,1.0
+This Southern American Attraction Unexpectedly,This Southern American Attraction Unexpectedly,ORG,0.275,0.0,en,1.0
+the U.S. National Hurricane Center,the U.S. National Hurricane Center,ORG,0.03333333333333333,0.0,en,1.0
 NYT Connections Spo,NYT Connections Spo,ORG,-0.4,0.0,en,1.0
 NYT Connections: Sports Edition,NYT Connections: Sports Edition,ORG,0.0,0.0,en,1.0
 NYT Connections Sports Edition,NYT Connections Sports Edition,ORG,0.0,0.0,en,1.0
-NYT Connections Sports,NYT Connections Sports,ORG,0.0,0.0,en,1.0
 Eurofighter,Eurofighter,ORG,0.3,0.1,en,1.0
+Sky News,Sky News,ORG,0.1,0.0,en,1.0
 Warton,Warton,ORG,0.25,0.0,en,1.0
 BAE Systems,BAE Systems,ORG,0.25,0.0,en,1.0
 the UK Government,the UK Government,ORG,0.5,0.25,en,1.0
@@ -369,14 +395,16 @@ wea,wea,ORG,0.12999999999999998,0.0,en,1.0
 "Homes Inundated, Cars Abandoned","Homes Inundated, Cars Abandoned",ORG,0.0,0.0,en,1.0
 Jamaicawsbtv.com KINGSTON,Jamaicawsbtv.com KINGSTON,ORG,0.0,0.0,en,1.0
 Deltas,Deltas,ORG,-0.0878787878787879,0.0,en,1.0
-foreca,foreca,ORG,0.0,0.0,en,1.0
-Gilbert,Gilbert,ORG,0.0,0.0,en,1.0
-The US Nation,The US Nation,ORG,0.0,0.0,en,1.0
-Monda,Monda,ORG,-0.1,0.0,en,1.0
-the U.S. National Hurricane Center,the U.S. National Hurricane Center,ORG,0.03333333333333333,0.0,en,1.0
-This Southern American Attraction Unexpectedly,This Southern American Attraction Unexpectedly,ORG,0.275,0.0,en,1.0
-reac,reac,ORG,0.0,0.0,en,1.0
-U.S. Air Force,U.S. Air Force,ORG,0.175,0.325,en,1.0
+Catastrophic Landfall,Catastrophic Landfall,ORG,0.13636363636363635,0.0,en,1.0
+Watch Air Force,Watch Air Force,ORG,0.8,0.0,en,1.0
+The U.S. Air Force's,The U.S. Air Force's,ORG,-0.19999999999999998,0.0,en,1.0
+The Air Force,The Air Force,ORG,-0.1,0.0,en,1.0
+The Atlantic Daily,The Atlantic Daily,ORG,0.37878787878787873,0.0,en,1.0
+Jamaica.</li></ul></,Jamaica.</li></ul></,ORG,0.0,0.0,en,1.0
+Natural News,Natural News,ORG,0.2375,0.0,en,1.0
+Shattering Records,Shattering Records,ORG,0.0,0.0,en,1.0
+Elizabeth Parishs,Elizabeth Parishs,ORG,-0.16666666666666666,0.0,en,1.0
+185-mile-,185-mile-,ORG,0.0,0.0,en,1.0
 NewsNation,NewsNation,ORG,-1.0,0.0,en,1.0
 JPS,JPS,ORG,0.16666666666666666,0.0,en,1.0
 br><br,br><br,ORG,0.1,0.0,en,1.0
@@ -384,13 +412,8 @@ br><br,br><br,ORG,0.1,0.0,en,1.0
 ICYMI,ICYMI,ORG,0.0,0.0,en,1.0
 AP Photo,AP Photo,ORG,0.0,0.0,en,1.0
 The U.S. Defense Department,The U.S. Defense Department,ORG,0.0,0.0,en,1.0
+U.S. Air Force,U.S. Air Force,ORG,0.175,0.325,en,1.0
 Cork,Cork,ORG,0.0,0.0,en,1.0
-U.S. Air Force Reserve Crew,U.S. Air Force Reserve Crew,ORG,0.25,0.0,en,1.0
 the Associated Press,the Associated Press,ORG,-0.5333333333333333,0.5333333333333333,en,1.0
 Influencer,Influencer,ORG,-0.6,0.9,en,1.0
-The Air Force,The Air Force,ORG,-0.1,0.0,en,1.0
-The U.S. Air Force's,The U.S. Air Force's,ORG,-0.19999999999999998,0.0,en,1.0
-Watch Air Force,Watch Air Force,ORG,0.8,0.0,en,1.0
-Catastrophic Landfall,Catastrophic Landfall,ORG,0.13636363636363635,0.0,en,1.0
-Trump MRI,Trump MRI,ORG,0.0,0.0,en,1.0
-The countrys Ministry of Energy and Mine,The countrys Ministry of Energy and Mine,ORG,0.0,0.0,en,1.0
+ROEL CATOTO,ROEL CATOTO,ORG,-0.04,0.0,en,1.0

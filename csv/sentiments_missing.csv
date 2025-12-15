@@ -1,35 +1,37 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Hurricane Melissa,Hurricane Melissa,EVENT,-1.416776996151997,162.98847342472357,en,215.1000000000001
-5,5,CARDINAL,,,en,87.70000000000005
-Tuesday,Tuesday,DATE,,,en,42.39999999999999
-Monday,Monday,DATE,,,en,41.09999999999997
+Hurricane Melissa,Hurricane Melissa,EVENT,-1.416776996151997,162.98847342472357,en,218.0000000000001
+5,5,CARDINAL,,,en,89.50000000000006
+Tuesday,Tuesday,DATE,,,en,43.19999999999999
+Monday,Monday,DATE,,,en,41.99999999999997
+2025,2025,CARDINAL,,,en,35.89999999999996
+season,season,DATE,,,en,31.89999999999998
 Jamaican,Jamaican,NORP,,,en,29.899999999999988
-2025,2025,CARDINAL,,,en,27.699999999999978
-season,season,DATE,,,en,26.49999999999999
-one,one,CARDINAL,,,en,22.39999999999999
-Thursday,Thursday,DATE,,,en,20.500000000000004
-two,two,CARDINAL,,,en,17.400000000000002
-morning,morning,TIME,,,en,16.300000000000004
+one,one,CARDINAL,,,en,23.29999999999999
+Thursday,Thursday,DATE,,,en,21.400000000000002
+two,two,CARDINAL,,,en,19.200000000000003
+morning,morning,TIME,,,en,17.200000000000003
+first,first,ORDINAL,,,en,15.600000000000001
 Saturday,Saturday,DATE,,,en,15.300000000000002
 today,today,DATE,,,en,13.800000000000002
-this year,this year,DATE,,,en,11.100000000000001
-first,first,ORDINAL,,,en,11.1
+3,3,CARDINAL,,,en,12.500000000000002
+this year,this year,DATE,,,en,12.000000000000002
+five,five,CARDINAL,,,en,10.400000000000002
 at least two,at least two,CARDINAL,,,en,10.3
-3,3,CARDINAL,,,en,9.8
+Sunday,Sunday,DATE,,,en,10.100000000000001
+this week,this week,DATE,,,en,9.799999999999999
 127,127,CARDINAL,,,en,9.7
 hundreds of thousands,hundreds of thousands,CARDINAL,,,en,9.3
-Sunday,Sunday,DATE,,,en,9.200000000000001
 thousands,thousands,CARDINAL,,,en,9.1
 One,One,CARDINAL,,,en,8.9
-this week,this week,DATE,,,en,8.899999999999999
-five,five,CARDINAL,,,en,8.600000000000001
 days,days,DATE,,,en,8.600000000000001
+hundreds,hundreds,CARDINAL,,,en,7.900000000000001
 dozens,dozens,CARDINAL,,,en,7.800000000000001
 200,200,CARDINAL,,,en,7.799999999999999
 4,4,CARDINAL,,,en,7.700000000000001
+2,2,CARDINAL,,,en,7.600000000000001
 Friday,Friday,DATE,,,en,7.499999999999998
 the weekend,the weekend,DATE,,,en,7.4
-2,2,CARDINAL,,,en,6.700000000000001
+three,three,CARDINAL,,,en,6.6000000000000005
 Philippine,Philippine,NORP,,,en,6.6000000000000005
 Wednesday,Wednesday,DATE,,,en,6.499999999999999
 Hurricane season,Hurricane season,DATE,,,en,6.4
@@ -44,284 +46,526 @@ The Fine Print,The Fine Print,WORK_OF_ART,,,en,5.800000000000001
 114,114,CARDINAL,,,en,5.8
 28,28,CARDINAL,,,en,5.300000000000001
 10,10,CARDINAL,,,en,5.000000000000001
-Typhoon Family,Typhoon Family,WORK_OF_ART,,,en,5.0
 four days,four days,DATE,,,en,5.0
 early Wednesday,early Wednesday,DATE,,,en,5.0
+Typhoon Family,Typhoon Family,WORK_OF_ART,,,en,5.0
 a week,a week,DATE,,,en,4.9
-three,three,CARDINAL,,,en,4.8
+four,four,CARDINAL,,,en,4.800000000000001
 26,26,CARDINAL,,,en,4.8
+Two,Two,CARDINAL,,,en,4.7
 Nearly a million,Nearly a million,CARDINAL,,,en,4.7
+2021,2021,CARDINAL,,,en,4.7
 October,October,DATE,,,en,4.7
+a decade,a decade,DATE,,,en,4.6
 the days,the days,DATE,,,en,4.6
 more than a million,more than a million,CARDINAL,,,en,4.6
-hundreds,hundreds,CARDINAL,,,en,4.500000000000001
+Indonesian,Indonesian,NORP,,,en,4.6
 66,66,CARDINAL,,,en,4.2
 last week,last week,DATE,,,en,4.1
+Jamaicans,Jamaicans,NORP,,,en,4.0
 night,night,TIME,,,en,4.0
 at least 50,at least 50,CARDINAL,,,en,4.0
-Jamaicans,Jamaicans,NORP,,,en,4.0
-four,four,CARDINAL,,,en,3.9000000000000004
-175 mph,175 mph,QUANTITY,,,en,3.9
 at least 114,at least 114,CARDINAL,,,en,3.9
-Christian,Christian,NORP,,,en,3.8
-overnight,overnight,TIME,,,en,3.8
-Two,Two,CARDINAL,,,en,3.8
-this weekend,this weekend,DATE,,,en,3.8
+175 mph,175 mph,QUANTITY,,,en,3.9
 Hurricane Melissa's,Hurricane Melissa's,EVENT,,,en,3.8
+this weekend,this weekend,DATE,,,en,3.8
 at least 26,at least 26,CARDINAL,,,en,3.8
-months,months,DATE,,,en,3.6999999999999997
+overnight,overnight,TIME,,,en,3.8
+Christian,Christian,NORP,,,en,3.8
 75,75,CARDINAL,,,en,3.6999999999999997
+months,months,DATE,,,en,3.6999999999999997
+British,British,NORP,,,en,3.6999999999999997
 at least eight,at least eight,CARDINAL,,,en,3.6999999999999997
 Floridians,Floridians,NORP,,,en,3.3000000000000003
 Today,Today,DATE,,,en,3.3000000000000003
-Britons,Britons,NORP,,,en,3.0
-early Friday,early Friday,DATE,,,en,3.0
-50,50,CARDINAL,,,en,3.0
-Vietnamese,Vietnamese,NORP,,,en,3.0
-at least 30,at least 30,CARDINAL,,,en,3.0
-Hundreds,Hundreds,CARDINAL,,,en,3.0
 October 28,October 28,DATE,,,en,3.0
 "more than 1,500","more than 1,500",CARDINAL,,,en,3.0
-a year,a year,DATE,,,en,3.0
+Vietnamese,Vietnamese,NORP,,,en,3.0
+Britons,Britons,NORP,,,en,3.0
 $150 million,$150 million,MONEY,,,en,3.0
+the previous day,the previous day,DATE,,,en,3.0
+Hundreds,Hundreds,CARDINAL,,,en,3.0
+October 29,October 29,DATE,,,en,3.0
+early Friday,early Friday,DATE,,,en,3.0
+at least 30,at least 30,CARDINAL,,,en,3.0
 evening,evening,TIME,,,en,3.0
-25,25,CARDINAL,,,en,2.9
+50,50,CARDINAL,,,en,3.0
+a year,a year,DATE,,,en,3.0
+next month,next month,DATE,,,en,2.9
+more than 200,more than 200,CARDINAL,,,en,2.9
 European,European,NORP,,,en,2.9
 140,140,CARDINAL,,,en,2.9
-next month,next month,DATE,,,en,2.9
 afternoon,afternoon,TIME,,,en,2.9
 the day,the day,DATE,,,en,2.9
-more than 200,more than 200,CARDINAL,,,en,2.9
-a decade,a decade,DATE,,,en,2.8
-last year,last year,DATE,,,en,2.8
-252 mph,252 mph,QUANTITY,,,en,2.8
-Indonesian,Indonesian,NORP,,,en,2.8
-1.4 million,1.4 million,CARDINAL,,,en,2.8
+25,25,CARDINAL,,,en,2.9
+at least 1,at least 1,CARDINAL,,,en,2.8
+the season,the season,DATE,,,en,2.8
 the next 24 hours,the next 24 hours,TIME,,,en,2.8
 the morning,the morning,TIME,,,en,2.8
-90,90,CARDINAL,,,en,2.8
-up to 30 inches,up to 30 inches,QUANTITY,,,en,2.8
-13,13,CARDINAL,,,en,2.8
-at least 1,at least 1,CARDINAL,,,en,2.8
-late October,late October,DATE,,,en,2.8
-British,British,NORP,,,en,2.8
-at least one,at least one,CARDINAL,,,en,2.8
-Thousands,Thousands,CARDINAL,,,en,2.8
 late-night,late-night,TIME,,,en,2.8
+Dec. 2,Dec. 2,DATE,,,en,2.8
+90,90,CARDINAL,,,en,2.8
+countrys,countrys,NORP,,,en,2.8
+252 mph,252 mph,QUANTITY,,,en,2.8
+late October,late October,DATE,,,en,2.8
+up to 30 inches,up to 30 inches,QUANTITY,,,en,2.8
+Thousands,Thousands,CARDINAL,,,en,2.8
+last year,last year,DATE,,,en,2.8
+1.4 million,1.4 million,CARDINAL,,,en,2.8
+at least one,at least one,CARDINAL,,,en,2.8
+13,13,CARDINAL,,,en,2.8
+this season,this season,DATE,,,en,2.8
 Americans,Americans,NORP,,,en,2.4000000000000004
 third,third,ORDINAL,,,en,2.3000000000000003
 Millions,Millions,CARDINAL,,,en,2.3000000000000003
 winter,winter,DATE,,,en,2.2
 six,six,CARDINAL,,,en,2.2
 weeks,weeks,DATE,,,en,2.1
+Hurricane Melissa Live Updates,Hurricane Melissa Live Updates,EVENT,,,en,2.1
+decades,decades,DATE,,,en,2.1
+Sunday night,Sunday night,TIME,,,en,2.1
 Filipinos,Filipinos,NORP,,,en,2.1
 Hurricane Melissas,Hurricane Melissas,EVENT,,,en,2.1
 Tropical Storm Melissa,Tropical Storm Melissa,WORK_OF_ART,0.09642857142857139,1.401190476190476,en,2.1
-Sunday night,Sunday night,TIME,,,en,2.1
-decades,decades,DATE,,,en,2.1
-Hurricane Melissa Live Updates,Hurricane Melissa Live Updates,EVENT,,,en,2.1
+This year,This year,DATE,,,en,2.1
 12,12,CARDINAL,,,en,2.000000000000001
-a couple of hours ago,a couple of hours ago,TIME,,,en,2.0
-Hurricane Melissa Live Updates:,Hurricane Melissa Live Updates:,EVENT,,,en,2.0
-At least 66,At least 66,CARDINAL,,,en,2.0
-Chinese,Chinese,NORP,,,en,2.0
-More than 40,More than 40,CARDINAL,,,en,2.0
-A week,A week,DATE,,,en,2.0
-Typhoon Family',Typhoon Family',WORK_OF_ART,,,en,2.0
-earlier this month,earlier this month,DATE,,,en,2.0
 Hurricane Gilbert,Hurricane Gilbert,EVENT,,,en,2.0
-Hurricane Watch,Hurricane Watch,EVENT,,,en,2.0
+Typhoon Family',Typhoon Family',WORK_OF_ART,,,en,2.0
 Oct. 28,Oct. 28,DATE,,,en,2.0
-"the ""Hurricane Hunters""","the ""Hurricane Hunters""",EVENT,,,en,2.0
-1988,1988,DATE,,,en,2.0
-1851,1851,DATE,,,en,2.0
-1980,1980,DATE,,,en,2.0
-508 millimeters,508 millimeters,QUANTITY,,,en,2.0
-nearly 20 inches,nearly 20 inches,QUANTITY,,,en,2.0
-2021,2021,CARDINAL,,,en,2.0
-early Monday,early Monday,DATE,,,en,2.0
-Category 4,Category 4,LAW,,,en,2.0
-24 hours,24 hours,TIME,,,en,2.0
-at least seven,at least seven,CARDINAL,,,en,2.0
-this morning,this morning,TIME,,,en,2.0
-St Elizabeth Parish,St Elizabeth Parish,FAC,,,en,2.0
-19,19,CARDINAL,,,en,2.0
+At least 26,At least 26,CARDINAL,,,en,2.0
 Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,2.0
-49,49,CARDINAL,,,en,2.0
-Nearly 50,Nearly 50,CARDINAL,,,en,2.0
-100%,100%,PERCENT,,,en,2.0
+roughly four weeks,roughly four weeks,DATE,,,en,2.0
+19,19,CARDINAL,,,en,2.0
+More than 40,More than 40,CARDINAL,,,en,2.0
 Dead LivestockThe New York Times,Dead LivestockThe New York Times,FAC,,,en,2.0
-Week,Week,DATE,,,en,2.0
 217,217,CARDINAL,,,en,2.0
-the previous day,the previous day,DATE,,,en,2.0
-between $2.2 billion and $4.2 billion,between $2.2 billion and $4.2 billion,MONEY,,,en,2.0
-October 29,October 29,DATE,,,en,2.0
 Sangster International Airport,Sangster International Airport,FAC,,,en,2.0
 yesterday,yesterday,DATE,,,en,2.0
-late-season,late-season,DATE,,,en,2.0
+1851,1851,DATE,,,en,2.0
+Hurricane Watch,Hurricane Watch,EVENT,,,en,2.0
 early October,early October,DATE,,,en,2.0
-8,8,CARDINAL,,,en,2.0
-roughly four weeks,roughly four weeks,DATE,,,en,2.0
-more than two dozen,more than two dozen,CARDINAL,,,en,2.0
 at least 66,at least 66,CARDINAL,,,en,2.0
-At least 26,At least 26,CARDINAL,,,en,2.0
+this morning,this morning,TIME,,,en,2.0
+1988,1988,DATE,,,en,2.0
+49,49,CARDINAL,,,en,2.0
+at least seven,at least seven,CARDINAL,,,en,2.0
+Chinese,Chinese,NORP,,,en,2.0
+508 millimeters,508 millimeters,QUANTITY,,,en,2.0
+nearly 20 inches,nearly 20 inches,QUANTITY,,,en,2.0
+Hurricane Melissa Live Updates:,Hurricane Melissa Live Updates:,EVENT,,,en,2.0
+more than two dozen,more than two dozen,CARDINAL,,,en,2.0
+Week,Week,DATE,,,en,2.0
+1980,1980,DATE,,,en,2.0
+earlier this month,earlier this month,DATE,,,en,2.0
+St Elizabeth Parish,St Elizabeth Parish,FAC,,,en,2.0
+Category 4,Category 4,LAW,,,en,2.0
+a couple of hours ago,a couple of hours ago,TIME,,,en,2.0
+100%,100%,PERCENT,,,en,2.0
+2024,2024,DATE,,,en,2.0
 Nineteen,Nineteen,CARDINAL,,,en,2.0
-one month,one month,DATE,,,en,1.9
-Super Typhoon,Super Typhoon,EVENT,,,en,1.9
-"250,000","250,000",MONEY,,,en,1.9
-4th,4th,ORDINAL,,,en,1.9
-Typhoon Tino,Typhoon Tino,EVENT,,,en,1.9
-4.8,4.8,CARDINAL,,,en,1.9
-"only $2,400","only $2,400",MONEY,,,en,1.9
-At least 85,At least 85,CARDINAL,,,en,1.9
-November 5th,November 5th,DATE,,,en,1.9
-2026,2026,DATE,,,en,1.9
-106.8,106.8,CARDINAL,,,en,1.9
-20th,20th,ORDINAL,,,en,1.9
-between August and October,between August and October,DATE,,,en,1.9
-November 4th,November 4th,DATE,,,en,1.9
-"June 1 to Nov. 30, 2025","June 1 to Nov. 30, 2025",DATE,,,en,1.9
-about 377 kilometres,about 377 kilometres,QUANTITY,,,en,1.9
-more than 30 years,more than 30 years,DATE,,,en,1.9
-800,800,CARDINAL,,,en,1.9
-nearly one-third,nearly one-third,CARDINAL,,,en,1.9
-more than 600,more than 600,CARDINAL,,,en,1.9
-November 2025,November 2025,DATE,,,en,1.9
-November 11,November 11,DATE,,,en,1.9
-at least 241,at least 241,CARDINAL,,,en,1.9
-countrys,countrys,NORP,,,en,1.9
-just days,just days,DATE,,,en,1.9
-Typhoon Fung-wong's,Typhoon Fung-wong's,EVENT,,,en,1.9
-at least six,at least six,CARDINAL,,,en,1.9
-at least 34,at least 34,CARDINAL,,,en,1.9
-30th,30th,ORDINAL,,,en,1.9
-Brazilian,Brazilian,NORP,,,en,1.9
-at least 32,at least 32,CARDINAL,,,en,1.9
-11,11,CARDINAL,,,en,1.9
-at least 204,at least 204,CARDINAL,,,en,1.9
-174 years ago,174 years ago,DATE,,,en,1.9
-the year,the year,DATE,,,en,1.9
-Hurricane Melissa | Space,Hurricane Melissa | Space,EVENT,,,en,1.9
-28 October 2025,28 October 2025,DATE,,,en,1.9
-Hurricane Melissa’s,Hurricane Melissa’s,EVENT,,,en,1.9
-zero,zero,CARDINAL,,,en,1.9
-3.0m,3.0m,QUANTITY,,,en,1.9
-3rd,3rd,ORDINAL,,,en,1.9
-nearly 185 miles an hour,nearly 185 miles an hour,QUANTITY,,,en,1.9
-76 centimetres,76 centimetres,QUANTITY,,,en,1.9
-at least five,at least five,CARDINAL,,,en,1.9
-105.0,105.0,CARDINAL,,,en,1.9
-14.0,14.0,CARDINAL,,,en,1.9
-this evening,this evening,TIME,,,en,1.9
-early Monday morning,early Monday morning,TIME,,,en,1.9
-nine,nine,CARDINAL,,,en,1.9
-"more than 3,000","more than 3,000",CARDINAL,,,en,1.9
-more than 1.4 million,more than 1.4 million,CARDINAL,,,en,1.9
-More than 700,More than 700,CARDINAL,,,en,1.9
-multimillion-dollar,multimillion-dollar,MONEY,,,en,1.9
-+12 chars,+12 chars,WORK_OF_ART,,,en,1.9
-hurricane season,hurricane season,DATE,,,en,1.9
-the season,the season,DATE,,,en,1.9
+24 hours,24 hours,TIME,,,en,2.0
+8,8,CARDINAL,,,en,2.0
+between $2.2 billion and $4.2 billion,between $2.2 billion and $4.2 billion,MONEY,,,en,2.0
+early Monday,early Monday,DATE,,,en,2.0
+"the ""Hurricane Hunters""","the ""Hurricane Hunters""",EVENT,,,en,2.0
+At least 66,At least 66,CARDINAL,,,en,2.0
+late-season,late-season,DATE,,,en,2.0
+A week,A week,DATE,,,en,2.0
+Nearly 50,Nearly 50,CARDINAL,,,en,2.0
 Hurricane Humberto,Hurricane Humberto,EVENT,,,en,1.9
+one month,one month,DATE,,,en,1.9
+11,11,CARDINAL,,,en,1.9
+hurricane season,hurricane season,DATE,,,en,1.9
+at least 204,at least 204,CARDINAL,,,en,1.9
+zero,zero,CARDINAL,,,en,1.9
+20th,20th,ORDINAL,,,en,1.9
+November 4th,November 4th,DATE,,,en,1.9
+100m,100m,QUANTITY,,,en,1.9
+Five,Five,CARDINAL,,,en,1.9
+"more than 3,000","more than 3,000",CARDINAL,,,en,1.9
+November 5th,November 5th,DATE,,,en,1.9
+3.0m,3.0m,QUANTITY,,,en,1.9
+early Monday morning,early Monday morning,TIME,,,en,1.9
+at least five,at least five,CARDINAL,,,en,1.9
+just days,just days,DATE,,,en,1.9
+Hurricane Melissa’s,Hurricane Melissa’s,EVENT,,,en,1.9
+nearly one-third,nearly one-third,CARDINAL,,,en,1.9
+Typhoon Fung-wong's,Typhoon Fung-wong's,EVENT,,,en,1.9
+At least 85,At least 85,CARDINAL,,,en,1.9
 years,years,DATE,,,en,1.9
+between August and October,between August and October,DATE,,,en,1.9
+November 11,November 11,DATE,,,en,1.9
+November 2025,November 2025,DATE,,,en,1.9
+the year,the year,DATE,,,en,1.9
+30th,30th,ORDINAL,,,en,1.9
+Super Typhoon,Super Typhoon,EVENT,,,en,1.9
+multimillion-dollar,multimillion-dollar,MONEY,,,en,1.9
+at least 32,at least 32,CARDINAL,,,en,1.9
+"250,000","250,000",MONEY,,,en,1.9
+"only $2,400","only $2,400",MONEY,,,en,1.9
 Tropicana Field,Tropicana Field,FAC,,,en,1.9
+"June 1 to Nov. 30, 2025","June 1 to Nov. 30, 2025",DATE,,,en,1.9
+more than 30 years,more than 30 years,DATE,,,en,1.9
 the Saffir-Simpson Hurricane Wind Scale,the Saffir-Simpson Hurricane Wind Scale,FAC,,,en,1.9
++12 chars,+12 chars,WORK_OF_ART,,,en,1.9
+76 centimetres,76 centimetres,QUANTITY,,,en,1.9
+more than 1.4 million,more than 1.4 million,CARDINAL,,,en,1.9
+at least six,at least six,CARDINAL,,,en,1.9
+2013,2013,DATE,,,en,1.9
+3rd,3rd,ORDINAL,,,en,1.9
+Hurricane Melissa | Space,Hurricane Melissa | Space,EVENT,,,en,1.9
+at least 241,at least 241,CARDINAL,,,en,1.9
+about 377 kilometres,about 377 kilometres,QUANTITY,,,en,1.9
+106.8,106.8,CARDINAL,,,en,1.9
+More than 700,More than 700,CARDINAL,,,en,1.9
+at least 34,at least 34,CARDINAL,,,en,1.9
+Hurricane Hunters,Hurricane Hunters,WORK_OF_ART,,,en,1.9
+more than 600,more than 600,CARDINAL,,,en,1.9
+105.0,105.0,CARDINAL,,,en,1.9
+nine,nine,CARDINAL,,,en,1.9
+28 October 2025,28 October 2025,DATE,,,en,1.9
+4.8,4.8,CARDINAL,,,en,1.9
+Typhoon Tino,Typhoon Tino,EVENT,,,en,1.9
+174 years ago,174 years ago,DATE,,,en,1.9
+4th,4th,ORDINAL,,,en,1.9
+nearly 185 miles an hour,nearly 185 miles an hour,QUANTITY,,,en,1.9
+Brazilian,Brazilian,NORP,,,en,1.9
+2026,2026,DATE,,,en,1.9
+season officially ended Nov. 30,season officially ended Nov. 30,DATE,,,en,1.9
+800,800,CARDINAL,,,en,1.9
+this evening,this evening,TIME,,,en,1.9
+14.0,14.0,CARDINAL,,,en,1.9
 Pakistani,Pakistani,NORP,,,en,1.8000000000000007
+Nov. 26,Nov. 26,DATE,,,en,1.8
 "around 1,200","around 1,200",CARDINAL,,,en,1.8
 20%,20%,PERCENT,,,en,1.8
 32%,32%,PERCENT,,,en,1.8
-Nov. 26,Nov. 26,DATE,,,en,1.8
 3 days,3 days,DATE,,,en,1.5000000000000004
 27,27,CARDINAL,,,en,1.5000000000000004
-"the ""Full Forecast""","the ""Full Forecast""",WORK_OF_ART,,,en,1.4000000000000004
 3 day,3 day,DATE,,,en,1.4000000000000004
+"the ""Full Forecast""","the ""Full Forecast""",WORK_OF_ART,,,en,1.4000000000000004
 daily,daily,DATE,,,en,1.4000000000000004
 "Storm Center
 ","Storm Center
 ",FAC,,,en,1.4000000000000004
-summer,summer,DATE,,,en,1.3000000000000003
-20,20,CARDINAL,,,en,1.3000000000000003
 the Week,the Week,DATE,,,en,1.3000000000000003
-Camp Mystic,Camp Mystic,FAC,,,en,1.2000000000000002
+20,20,CARDINAL,,,en,1.3000000000000003
+summer,summer,DATE,,,en,1.3000000000000003
 Oct. 29,Oct. 29,DATE,,,en,1.2000000000000002
-Hurricane Katrina,Hurricane Katrina,EVENT,,,en,1.2000000000000002
-American,American,NORP,,,en,1.2000000000000002
-past 90,past 90,DATE,,,en,1.2000000000000002
-last updated Fri,last updated Fri,DATE,,,en,1.2000000000000002
-Oct. 31,Oct. 31,DATE,,,en,1.2000000000000002
-20 years,20 years,DATE,,,en,1.2000000000000002
-later this week,later this week,DATE,,,en,1.2000000000000002
-Hurricane Melissa Graphics,Hurricane Melissa Graphics,WORK_OF_ART,,,en,1.2000000000000002
 40,40,CARDINAL,,,en,1.2000000000000002
+American,American,NORP,,,en,1.2000000000000002
+Hurricane Katrina,Hurricane Katrina,EVENT,,,en,1.2000000000000002
+later this week,later this week,DATE,,,en,1.2000000000000002
+Oct. 31,Oct. 31,DATE,,,en,1.2000000000000002
+past 90,past 90,DATE,,,en,1.2000000000000002
+Camp Mystic,Camp Mystic,FAC,,,en,1.2000000000000002
 tens of millions of dollars,tens of millions of dollars,MONEY,,,en,1.2000000000000002
-This year,This year,DATE,,,en,1.2000000000000002
-seven,seven,CARDINAL,,,en,1.1
-Oct 31,Oct 31,DATE,,,en,1.1
-October of 2025,October of 2025,DATE,,,en,1.1
-+4400 chars,+4400 chars,WORK_OF_ART,,,en,1.1
-July,July,DATE,,,en,1.1
-08:49:54,08:49:54,DATE,,,en,1.1
-November,November,DATE,,,en,1.1
+Hurricane Melissa Graphics,Hurricane Melissa Graphics,WORK_OF_ART,,,en,1.2000000000000002
+20 years,20 years,DATE,,,en,1.2000000000000002
+last updated Fri,last updated Fri,DATE,,,en,1.2000000000000002
+2022,2022,DATE,,,en,1.1
+November 6 to November 9,November 6 to November 9,DATE,,,en,1.1
+at least 72,at least 72,CARDINAL,,,en,1.1
+26 October 2025,26 October 2025,DATE,,,en,1.1
+Spanish,Spanish,NORP,,,en,1.1
+1722,1722,CARDINAL,,,en,1.1
+Japans,Japans,NORP,,,en,1.1
+half,half,CARDINAL,,,en,1.1
+an extra night,an extra night,TIME,,,en,1.1
 1991,1991,DATE,,,en,1.1
-28 Oct 2025,28 Oct 2025,DATE,,,en,1.1
+Guantanamo,Guantanamo,FAC,,,en,1.1
+its third year,its third year,DATE,,,en,1.1
+October of 2025,October of 2025,DATE,,,en,1.1
+the 1990s,the 1990s,DATE,,,en,1.1
+Cubans,Cubans,NORP,,,en,1.1
+Around 2.2 million,Around 2.2 million,CARDINAL,,,en,1.1
+Appalachian,Appalachian,NORP,0.1525,0.48500000000000004,en,1.1
+Buckingham Palace,Buckingham Palace,FAC,,,en,1.1
+Half a million,Half a million,CARDINAL,,,en,1.1
+day 24,day 24,DATE,,,en,1.1
 "Trump
 ","Trump
 ",PRODUCT,,,en,1.1
-2022,2022,DATE,,,en,1.1
-"October 25, 2025","October 25, 2025",DATE,,,en,1.1
-day 24,day 24,DATE,,,en,1.1
-Half a million,Half a million,CARDINAL,,,en,1.1
-1722,1722,CARDINAL,,,en,1.1
-11 Oct 2025,11 Oct 2025,DATE,,,en,1.1
+08:49:54,08:49:54,DATE,,,en,1.1
+Oct 31,Oct 31,DATE,,,en,1.1
+10 Oct 2025,10 Oct 2025,DATE,,,en,1.1
+November,November,DATE,,,en,1.1
+seven,seven,CARDINAL,,,en,1.1
+Veterans,Veterans,NORP,,,en,1.1
+"as over 7,000","as over 7,000",CARDINAL,,,en,1.1
+28 Oct 2025,28 Oct 2025,DATE,,,en,1.1
+July,July,DATE,,,en,1.1
+Pakistans,Pakistans,NORP,,,en,1.1
+Nov 4,Nov 4,DATE,,,en,1.1
+2030,2030,DATE,,,en,1.1
+Nov. 11,Nov. 11,DATE,,,en,1.1
 $473 Million,$473 Million,MONEY,,,en,1.1
 Democratic,Democratic,NORP,,,en,1.1
-2024,2024,DATE,,,en,1.1
 lunar tower,lunar tower,FAC,,,en,1.1
-Appalachian,Appalachian,NORP,0.1525,0.48500000000000004,en,1.1
-the 13th,the 13th,DATE,,,en,1.1
-its third year,its third year,DATE,,,en,1.1
-a wet weekend,a wet weekend,DATE,,,en,1.1
-Guantanamo,Guantanamo,FAC,,,en,1.1
-"as over 7,000","as over 7,000",CARDINAL,,,en,1.1
-Pakistans,Pakistans,NORP,,,en,1.1
-at least 72,at least 72,CARDINAL,,,en,1.1
-Buckingham Palace,Buckingham Palace,FAC,,,en,1.1
-Spanish,Spanish,NORP,,,en,1.1
-the 1990s,the 1990s,DATE,,,en,1.1
-2030,2030,DATE,,,en,1.1
-10 Oct 2025,10 Oct 2025,DATE,,,en,1.1
++4400 chars,+4400 chars,WORK_OF_ART,,,en,1.1
 20:34:10,20:34:10,CARDINAL,,,en,1.1
-an extra night,an extra night,TIME,,,en,1.1
-Japans,Japans,NORP,,,en,1.1
-Nov 4,Nov 4,DATE,,,en,1.1
-half,half,CARDINAL,,,en,1.1
-Cubans,Cubans,NORP,,,en,1.1
-Nov. 11,Nov. 11,DATE,,,en,1.1
-Around 2.2 million,Around 2.2 million,CARDINAL,,,en,1.1
-November 6 to November 9,November 6 to November 9,DATE,,,en,1.1
-26 October 2025,26 October 2025,DATE,,,en,1.1
+11 Oct 2025,11 Oct 2025,DATE,,,en,1.1
+the 13th,the 13th,DATE,,,en,1.1
+"October 25, 2025","October 25, 2025",DATE,,,en,1.1
 50 years ago,50 years ago,DATE,,,en,1.1
-Veterans,Veterans,NORP,,,en,1.1
-happenedAt least 85,happenedAt least 85,CARDINAL,,,en,1.0
-Last week,Last week,DATE,,,en,1.0
+a wet weekend,a wet weekend,DATE,,,en,1.1
 Trump 2.0,Trump 2.0,PRODUCT,,,en,1.0
-239mm,239mm,QUANTITY,,,en,1.0
-Referendum,Referendum,PRODUCT,,,en,1.0
-New Typhoon Heading Toward,New Typhoon Heading Toward,EVENT,,,en,1.0
+at least 85,at least 85,CARDINAL,,,en,1.0
+At least 140,At least 140,CARDINAL,,,en,1.0
 just an hour,just an hour,TIME,,,en,1.0
-At least 40,At least 40,CARDINAL,,,en,1.0
-tens of thousands,tens of thousands,CARDINAL,,,en,1.0
-Tuesday nights,Tuesday nights,DATE,,,en,1.0
-09/30/2025 6:05,09/30/2025 6:05,TIME,,,en,1.0
-76,76,DATE,,,en,1.0
-As of 3 p.m.,As of 3 p.m.,TIME,,,en,1.0
-next year’s,next year’s,DATE,,,en,1.0
-Nov 05,Nov 05,DATE,,,en,1.0
-90%,90%,PERCENT,,,en,1.0
 3 p.m.,3 p.m.,TIME,,,en,1.0
-Alaskan,Alaskan,NORP,,,en,1.0
-09/29/2025 5:11:54 PM PDT,09/29/2025 5:11:54 PM PDT,TIME,,,en,1.0
-+4426 chars,+4426 chars,WORK_OF_ART,,,en,1.0
+Thurs,Thurs,DATE,,,en,1.0
+90%,90%,PERCENT,,,en,1.0
+a week ago,a week ago,DATE,,,en,1.0
+Last week,Last week,DATE,,,en,1.0
+At least 30,At least 30,CARDINAL,,,en,1.0
+at least 35,at least 35,CARDINAL,,,en,1.0
+New Typhoon Heading Toward,New Typhoon Heading Toward,EVENT,,,en,1.0
+Over half a million,Over half a million,CARDINAL,,,en,1.0
+At least 40,At least 40,CARDINAL,,,en,1.0
+Nov 05,Nov 05,DATE,,,en,1.0
+241,241,CARDINAL,,,en,1.0
+As of 3 p.m.,As of 3 p.m.,TIME,,,en,1.0
+2014,2014,DATE,,,en,1.0
+next year’s,next year’s,DATE,,,en,1.0
+happenedAt least 85,happenedAt least 85,CARDINAL,,,en,1.0
+Last month,Last month,DATE,,,en,1.0
+Nearly two million,Nearly two million,CARDINAL,,,en,1.0
+Referendum,Referendum,PRODUCT,,,en,1.0
+At least 114,At least 114,CARDINAL,,,en,1.0
+Tuesday nights,Tuesday nights,DATE,,,en,1.0
+Super Typhoon Ragasa,Super Typhoon Ragasa,FAC,,,en,1.0
+76,76,DATE,,,en,1.0
+the last decade,the last decade,DATE,,,en,1.0
+Jamaican Americans,Jamaican Americans,NORP,,,en,1.0
+more than half a million,more than half a million,CARDINAL,,,en,1.0
+17%,17%,PERCENT,,,en,1.0
+third-quarter,third-quarter,DATE,,,en,1.0
+$13.5 billion,$13.5 billion,MONEY,,,en,1.0
+5%,5%,PERCENT,,,en,1.0
+16.3%,16.3%,PERCENT,,,en,1.0
+$30.8 billion,$30.8 billion,MONEY,,,en,1.0
++1014,+1014,NORP,,,en,1.0
+150-mph,150-mph,CARDINAL,,,en,1.0
+Irish,Irish,NORP,,,en,1.0
+45,45,DATE,,,en,1.0
+50 years,50 years,DATE,,,en,1.0
+Six Flags America,Six Flags America,QUANTITY,0.0,0.0,en,1.0
+Hurricane Harbor,Hurricane Harbor,FAC,,,en,1.0
+This weekend,This weekend,DATE,,,en,1.0
+Nov. 1-2,Nov. 1-2,DATE,,,en,1.0
+Facebook,Facebook,PRODUCT,,,en,1.0
+Six Flags Ame,Six Flags Ame,WORK_OF_ART,,,en,1.0
+"Tuesday, Oct. 28, 2025","Tuesday, Oct. 28, 2025",DATE,,,en,1.0
+6,6,CARDINAL,,,en,1.0
+South Koreas IMF Crisis,South Koreas IMF Crisis,EVENT,,,en,1.0
+North Street,North Street,FAC,,,en,1.0
+At least 19,At least 19,CARDINAL,,,en,1.0
+"Fri, 31 Oct 2025","Fri, 31 Oct 2025",DATE,,,en,1.0
+Hurricane Melissa Death Toll Rises as Extent of Damage Emerges,Hurricane Melissa Death Toll Rises as Extent of Damage Emerges,EVENT,,,en,1.0
+TODAY,TODAY,DATE,,,en,1.0
+"Friday, Oct. 31","Friday, Oct. 31",DATE,,,en,1.0
+5 a.m.,5 a.m.,TIME,,,en,1.0
+E360,E360,PRODUCT,,,en,1.0
+Hurricane Vids Confuse,Hurricane Vids Confuse,EVENT,,,en,1.0
+the week of Oct. 25,the week of Oct. 25,DATE,,,en,1.0
+Linux,Linux,PRODUCT,,,en,1.0
+Montego Bay Following Hurricane Melissa,Montego Bay Following Hurricane Melissa,FAC,,,en,1.0
+Montego Bay International Airport,Montego Bay International Airport,FAC,,,en,1.0
++4104,+4104,NORP,,,en,1.0
++4702,+4702,NORP,,,en,1.0
+Hurricane Melissa - The Guardian,Hurricane Melissa - The Guardian,EVENT,,,en,1.0
+Hurricane MelissaThe Guardian,Hurricane MelissaThe Guardian,EVENT,,,en,1.0
+Dead LivestockThe New York Times ',Dead LivestockThe New York Times ',FAC,,,en,1.0
+Windows,Windows,PRODUCT,,,en,1.0
+earlier in the day,earlier in the day,TIME,,,en,1.0
+Sunday Nov. 2,Sunday Nov. 2,DATE,,,en,1.0
+Visionaries,Visionaries,WORK_OF_ART,,,en,1.0
+More than four years later,More than four years later,DATE,,,en,1.0
+185 m,185 m,QUANTITY,,,en,1.0
+32,32,CARDINAL,,,en,1.0
+eight,eight,CARDINAL,,,en,1.0
+Tens of thousands,Tens of thousands,CARDINAL,,,en,1.0
+New Typhoon,New Typhoon,EVENT,,,en,1.0
+Next Week,Next Week,DATE,,,en,1.0
+Nov 04,Nov 04,DATE,,,en,1.0
+at least 2,at least 2,CARDINAL,,,en,1.0
+Grist,Grist,FAC,,,en,1.0
+18 km/h,18 km/h,QUANTITY,,,en,1.0
+late November,late November,DATE,,,en,1.0
+39,39,CARDINAL,,,en,1.0
++7200,+7200,NORP,,,en,1.0
+"Saturday, November 8","Saturday, November 8",DATE,,,en,1.0
+more than 40,more than 40,CARDINAL,,,en,1.0
++4896 chars,+4896 chars,WORK_OF_ART,,,en,1.0
+Hurricane Ida,Hurricane Ida,EVENT,,,en,1.0
+September 2021,September 2021,DATE,,,en,1.0
+12%,12%,PERCENT,,,en,1.0
+11 mph,11 mph,QUANTITY,,,en,1.0
+Five days,Five days,DATE,,,en,1.0
+"More than 70,000","More than 70,000",CARDINAL,,,en,1.0
+Hurrican,Hurrican,WORK_OF_ART,,,en,1.0
+Hithiker's Guide to the Galaxy,Hithiker's Guide to the Galaxy,WORK_OF_ART,,,en,1.0
+centuries-old,centuries-old,DATE,,,en,1.0
+Native,Native,NORP,,,en,1.0
+664,664,MONEY,,,en,1.0
+Between USD 2.2 Billion to USD 4.2 Billion,Between USD 2.2 Billion to USD 4.2 Billion,MONEY,,,en,1.0
+Nov. 03,Nov. 03,DATE,,,en,1.0
+$4.2 Billion,$4.2 Billion,MONEY,,,en,1.0
+25 kilometres,25 kilometres,QUANTITY,,,en,1.0
+7%,7%,PERCENT,,,en,1.0
+just 15 months,just 15 months,DATE,,,en,1.0
+February 2024,February 2024,DATE,,,en,1.0
+Jamaicas,Jamaicas,WORK_OF_ART,0.0,0.0,en,1.0
+$4 million,$4 million,MONEY,,,en,1.0
+Tomorrow,Tomorrow,DATE,,,en,1.0
+4:55 p.m. EDT,4:55 p.m. EDT,TIME,,,en,1.0
+145 mph,145 mph,QUANTITY,,,en,1.0
+230 km/h,230 km/h,QUANTITY,,,en,1.0
+"Sunday, Oct. 26","Sunday, Oct. 26",DATE,,,en,1.0
+185 km,185 km,QUANTITY,,,en,1.0
+#45 2025,#45 2025,MONEY,,,en,1.0
+annual,annual,DATE,,,en,1.0
+Atlantic Hurricane Season,Atlantic Hurricane Season,EVENT,,,en,1.0
+seasons,seasons,DATE,,,en,1.0
+OCTOBER 28,OCTOBER 28,DATE,,,en,1.0
++5909,+5909,NORP,,,en,1.0
+The 19th,The 19th,DATE,,,en,1.0
+Hurricane Irmas,Hurricane Irmas,EVENT,,,en,1.0
+September 2017,September 2017,DATE,,,en,1.0
+Oceans,Oceans,NORP,,,en,1.0
+Nov. 17,Nov. 17,DATE,,,en,1.0
++6647 chars,+6647 chars,WORK_OF_ART,,,en,1.0
+Last Forever,Last Forever,DATE,,,en,1.0
+hurricane seaso,hurricane seaso,EVENT,,,en,1.0
+"September 28, 2025","September 28, 2025",DATE,,,en,1.0
+the end of hurricane season,the end of hurricane season,DATE,,,en,1.0
+$1 million,$1 million,MONEY,,,en,1.0
+252 MPH,252 MPH,QUANTITY,,,en,1.0
++1688 chars,+1688 chars,WORK_OF_ART,,,en,1.0
+Chavas Camargo Tippett,Chavas Camargo Tippett,WORK_OF_ART,,,en,1.0
+252 mph - A Stunning Record,252 mph - A Stunning Record,QUANTITY,,,en,1.0
+NOAA Hurricane Hunter,NOAA Hurricane Hunter,EVENT,,,en,1.0
+Tropical Cyclone Fina,Tropical Cyclone Fina,NORP,,,en,1.0
+Do Sharks Avoid Hurricanes,Do Sharks Avoid Hurricanes,LAW,,,en,1.0
+Nov. 30,Nov. 30,DATE,,,en,1.0
+eighth,eighth,ORDINAL,,,en,1.0
+the eighth straight month,the eighth straight month,DATE,,,en,1.0
+Comorin,Comorin,FAC,,,en,1.0
+the 2026 season,the 2026 season,DATE,,,en,1.0
+more than 1 million,more than 1 million,CARDINAL,,,en,1.0
+Democrats,Democrats,NORP,,,en,1.0
+nearly half a billion dollars,nearly half a billion dollars,MONEY,,,en,1.0
+$473 million,$473 million,MONEY,,,en,1.0
+More than 200 million,More than 200 million,CARDINAL,,,en,1.0
+Honor Flight,Honor Flight,WORK_OF_ART,,,en,1.0
+81-90,81-90,CARDINAL,,,en,1.0
+around 10:20 a.m.,around 10:20 a.m.,TIME,,,en,1.0
+Uwan,Uwan,NORP,-0.01785714285714286,0.125,en,1.0
+the lunar tower,the lunar tower,FAC,,,en,1.0
+the Lunar Tower,the Lunar Tower,FAC,,,en,1.0
+nearly two dozen,nearly two dozen,CARDINAL,,,en,1.0
+Hurricane Melissa Shows How Quickly Climate Change Is Outstripping Defenses,Hurricane Melissa Shows How Quickly Climate Change Is Outstripping Defenses,EVENT,,,en,1.0
++1396 chars,+1396 chars,WORK_OF_ART,,,en,1.0
+95,95,CARDINAL,,,en,1.0
+"the wee hours of Saturday, June 29, 2024","the wee hours of Saturday, June 29, 2024",TIME,,,en,1.0
+just over two weeks,just over two weeks,DATE,,,en,1.0
+"Thursday, Nov. 13","Thursday, Nov. 13",DATE,,,en,1.0
+the 2025 season,the 2025 season,DATE,,,en,1.0
+the 2026 MLB,the 2026 MLB,FAC,,,en,1.0
+Hurricane Milton,Hurricane Milton,EVENT,,,en,1.0
+Steinbrenner Field,Steinbrenner Field,FAC,-0.10000000000000002,0.08888888888888889,en,1.0
+last season,last season,DATE,,,en,1.0
+Three,Three,CARDINAL,,,en,1.0
+$2 million,$2 million,MONEY,,,en,1.0
+6 November 2025,6 November 2025,DATE,,,en,1.0
+"1,200","1,200",CARDINAL,,,en,1.0
+600,600,CARDINAL,,,en,1.0
+"More than 1,160","More than 1,160",CARDINAL,,,en,1.0
+631,631,CARDINAL,,,en,1.0
+one million,one million,CARDINAL,,,en,1.0
++2712,+2712,NORP,,,en,1.0
+Trump,Trump,WORK_OF_ART,,,en,1.0
+a peaceful hurricane season,a peaceful hurricane season,DATE,,,en,1.0
+2025 season,2025 season,DATE,,,en,1.0
+2025By,2025By,CARDINAL,,,en,1.0
+went-June 1 through Nov.,went-June 1 through Nov.,DATE,,,en,1.0
+Awards 2,Awards 2,LAW,,,en,1.0
+"1,800","1,800",CARDINAL,,,en,1.0
+million,million,CARDINAL,,,en,1.0
+close to 11 million,close to 11 million,CARDINAL,,,en,1.0
+Second year in a row,Second year in a row,DATE,,,en,1.0
+seventh,seventh,ORDINAL,,,en,1.0
+Meiyu,Meiyu,NORP,,,en,1.0
+HJT,HJT,PRODUCT,,,en,1.0
+1964,1964,DATE,,,en,1.0
+816821,816821,CARDINAL,,,en,1.0
+Filipino,Filipino,LANGUAGE,,,en,1.0
+December 2021,December 2021,DATE,,,en,1.0
+Paris Games,Paris Games,EVENT,,,en,1.0
+One million,One million,CARDINAL,,,en,1.0
+Two months,Two months,DATE,,,en,1.0
+4.8 million metric tons,4.8 million metric tons,QUANTITY,,,en,1.0
+at least 26 Resorts,at least 26 Resorts,TIME,,,en,1.0
+Tonight,Tonight,TIME,,,en,1.0
+11/25/2025 11:53:45 AM PST,11/25/2025 11:53:45 AM PST,TIME,,,en,1.0
+November 30th,November 30th,DATE,,,en,1.0
+a tumultuous year,a tumultuous year,DATE,,,en,1.0
+Atlantic Hurricane Season Goes Out Like,Atlantic Hurricane Season Goes Out Like,EVENT,,,en,1.0
+November 30,November 30,DATE,,,en,1.0
+Hurricane Season,Hurricane Season,EVENT,,,en,1.0
++3969,+3969,NORP,,,en,1.0
+115,115,CARDINAL,,,en,1.0
+At least 115,At least 115,CARDINAL,,,en,1.0
+an active year,an active year,DATE,,,en,1.0
+1 June to 30 November,1 June to 30 November,DATE,,,en,1.0
+August-October,August-October,DATE,,,en,1.0
+2015,2015,DATE,,,en,1.0
+the start of the season,the start of the season,DATE,,,en,1.0
+11/30/2025 9:36:56 AM PST,11/30/2025 9:36:56 AM PST,TIME,,,en,1.0
+this hurricane season,this hurricane season,DATE,,,en,1.0
+April,April,DATE,,,en,1.0
+the summer and autumn,the summer and autumn,DATE,,,en,1.0
+6.7bn,6.7bn,MONEY,,,en,1.0
+Up to $3.6bn,Up to $3.6bn,MONEY,,,en,1.0
+up to $6.7bn,up to $6.7bn,MONEY,,,en,1.0
+the next three years,the next three years,DATE,,,en,1.0
+Arlington National Cemetery on Veterans Day,Arlington National Cemetery on Veterans Day,FAC,,,en,1.0
+Arlington National Cemetery,Arlington National Cemetery,FAC,,,en,1.0
+Seven,Seven,CARDINAL,,,en,1.0
+approximately 121km,approximately 121km,QUANTITY,,,en,1.0
+at least 188,at least 188,CARDINAL,,,en,1.0
+Win Over Wild,Win Over Wild,WORK_OF_ART,,,en,1.0
+132 mph,132 mph,QUANTITY,,,en,1.0
+the end of this weekend,the end of this weekend,DATE,,,en,1.0
+188,188,CARDINAL,,,en,1.0
+"Nov. 7, 2025","Nov. 7, 2025",DATE,,,en,1.0
+At least 5,At least 5,CARDINAL,,,en,1.0
+1.2 million,1.2 million,CARDINAL,,,en,1.0
+3.0 meters,3.0 meters,QUANTITY,,,en,1.0
+5:00 AM,5:00 AM,TIME,,,en,1.0
+8 November 2025,8 November 2025,DATE,,,en,1.0
+20 Years,20 Years,DATE,,,en,1.0
+two decades,two decades,DATE,,,en,1.0
+Phillippines,Phillippines,NORP,0.0,0.0,en,1.0
+Remedios T Romualde,Remedios T Romualde,PRODUCT,,,en,1.0
+a few weeks,a few weeks,DATE,,,en,1.0
+"Saturday, Nov. 8, 2025","Saturday, Nov. 8, 2025",DATE,,,en,1.0
+185 kph,185 kph,QUANTITY,,,en,1.0
+115 mph,115 mph,QUANTITY,,,en,1.0
+157,157,CARDINAL,,,en,1.0
+Substack,Substack,PRODUCT,,,en,1.0
+up to eight inches,up to eight inches,QUANTITY,,,en,1.0
+NEARLY A MILLION,NEARLY A MILLION,CARDINAL,,,en,1.0
+121,121,CARDINAL,,,en,1.0
+Kalmaegi,Kalmaegi,PRODUCT,,,en,1.0
+nearly $18.6 trillion,nearly $18.6 trillion,MONEY,,,en,1.0
+the work week,the work week,DATE,,,en,1.0
+later today,later today,TIME,,,en,1.0
+$74 million,$74 million,MONEY,,,en,1.0
+2.2 million,2.2 million,CARDINAL,,,en,1.0
+Hurricane Mellisa,Hurricane Mellisa,EVENT,,,en,1.0
+Hurricane Melli,Hurricane Melli,EVENT,,,en,1.0
 over 140,over 140,CARDINAL,,,en,1.0
 at least 142,at least 142,CARDINAL,,,en,1.0
 +5000 chars,+5000 chars,WORK_OF_ART,,,en,1.0
@@ -340,281 +584,10 @@ weekly,weekly,DATE,,,en,1.0
 week,week,DATE,,,en,1.0
 the last month,the last month,DATE,,,en,1.0
 month,month,DATE,,,en,1.0
-the work week,the work week,DATE,,,en,1.0
-Hurricane Melli,Hurricane Melli,EVENT,,,en,1.0
-Hurricane Mellisa,Hurricane Mellisa,EVENT,,,en,1.0
-2014,2014,DATE,,,en,1.0
-2.2 million,2.2 million,CARDINAL,,,en,1.0
-28 August,28 August,DATE,,,en,1.0
-this season,this season,DATE,,,en,1.0
-A year,A year,DATE,,,en,1.0
-at least 35,at least 35,CARDINAL,,,en,1.0
-These Are the Emergency Alerts You Need to Enable on Your Phone,These Are the Emergency Alerts You Need to Enable on Your Phone,LAW,,,en,1.0
-Android,Android,PRODUCT,,,en,1.0
-241,241,CARDINAL,,,en,1.0
-Nearly two million,Nearly two million,CARDINAL,,,en,1.0
-Over half a million,Over half a million,CARDINAL,,,en,1.0
-At least 114,At least 114,CARDINAL,,,en,1.0
-Last month,Last month,DATE,,,en,1.0
-at least 85,at least 85,CARDINAL,,,en,1.0
-At least 30,At least 30,CARDINAL,,,en,1.0
-Thurs,Thurs,DATE,,,en,1.0
-At least 140,At least 140,CARDINAL,,,en,1.0
-#45 2025,#45 2025,MONEY,,,en,1.0
-6 November 2025,6 November 2025,DATE,,,en,1.0
-later today,later today,TIME,,,en,1.0
-$74 million,$74 million,MONEY,,,en,1.0
-a week ago,a week ago,DATE,,,en,1.0
-69,69,CARDINAL,,,en,1.0
-the last 24 hours,the last 24 hours,TIME,,,en,1.0
-the last decade,the last decade,DATE,,,en,1.0
-Irish,Irish,NORP,,,en,1.0
-45,45,DATE,,,en,1.0
-50 years,50 years,DATE,,,en,1.0
-Six Flags America,Six Flags America,QUANTITY,0.0,0.0,en,1.0
-Hurricane Harbor,Hurricane Harbor,FAC,,,en,1.0
-This weekend,This weekend,DATE,,,en,1.0
-Nov. 1-2,Nov. 1-2,DATE,,,en,1.0
-Facebook,Facebook,PRODUCT,,,en,1.0
-Six Flags Ame,Six Flags Ame,WORK_OF_ART,,,en,1.0
-FIRST,FIRST,ORDINAL,,,en,1.0
-earlier in the day,earlier in the day,TIME,,,en,1.0
-Sunday Nov. 2,Sunday Nov. 2,DATE,,,en,1.0
-Visionaries,Visionaries,WORK_OF_ART,,,en,1.0
-the National Hurricane...,the National Hurricane...,EVENT,,,en,1.0
-Five days,Five days,DATE,,,en,1.0
-Hurrican,Hurrican,WORK_OF_ART,,,en,1.0
-Hithiker's Guide to the Galaxy,Hithiker's Guide to the Galaxy,WORK_OF_ART,,,en,1.0
-centuries-old,centuries-old,DATE,,,en,1.0
-Native,Native,NORP,,,en,1.0
-664,664,MONEY,,,en,1.0
-Between USD 2.2 Billion to USD 4.2 Billion,Between USD 2.2 Billion to USD 4.2 Billion,MONEY,,,en,1.0
-150-mph,150-mph,CARDINAL,,,en,1.0
-the past two weeks,the past two weeks,DATE,,,en,1.0
-"KFF Health News
-","KFF Health News
-",FAC,,,en,1.0
-6,6,CARDINAL,,,en,1.0
-AL95,AL95,PRODUCT,,,en,1.0
-+4702,+4702,NORP,,,en,1.0
-Hurricane Melissa - The Guardian,Hurricane Melissa - The Guardian,EVENT,,,en,1.0
-Hurricane MelissaThe Guardian,Hurricane MelissaThe Guardian,EVENT,,,en,1.0
-Dead LivestockThe New York Times ',Dead LivestockThe New York Times ',FAC,,,en,1.0
-a new week,a new week,DATE,,,en,1.0
-Windows,Windows,PRODUCT,,,en,1.0
-Linux,Linux,PRODUCT,,,en,1.0
-South Koreas IMF Crisis,South Koreas IMF Crisis,EVENT,,,en,1.0
-"Tuesday, Oct. 28, 2025","Tuesday, Oct. 28, 2025",DATE,,,en,1.0
-+13267 chars,+13267 chars,WORK_OF_ART,,,en,1.0
-Jamaican Americans,Jamaican Americans,NORP,,,en,1.0
-more than half a million,more than half a million,CARDINAL,,,en,1.0
-17%,17%,PERCENT,,,en,1.0
-third-quarter,third-quarter,DATE,,,en,1.0
-$13.5 billion,$13.5 billion,MONEY,,,en,1.0
-5%,5%,PERCENT,,,en,1.0
-16.3%,16.3%,PERCENT,,,en,1.0
-$30.8 billion,$30.8 billion,MONEY,,,en,1.0
-+1014,+1014,NORP,,,en,1.0
-Nov. 03,Nov. 03,DATE,,,en,1.0
-$4.2 Billion,$4.2 Billion,MONEY,,,en,1.0
-wet weekend,wet weekend,DATE,,,en,1.0
-Fujiwhara Effect',Fujiwhara Effect',FAC,,,en,1.0
-New Typhoon,New Typhoon,EVENT,,,en,1.0
-Next Week,Next Week,DATE,,,en,1.0
-barely more than a week,barely more than a week,DATE,,,en,1.0
-Nov 04,Nov 04,DATE,,,en,1.0
-at least 2,at least 2,CARDINAL,,,en,1.0
-More than four years later,More than four years later,DATE,,,en,1.0
-Grist,Grist,FAC,,,en,1.0
-late November,late November,DATE,,,en,1.0
-Fujiwhara,Fujiwhara,NORP,,,en,1.0
-105.4mm,105.4mm,QUANTITY,,,en,1.0
-Tens of thousands,Tens of thousands,CARDINAL,,,en,1.0
-39,39,CARDINAL,,,en,1.0
-168.3mm,168.3mm,QUANTITY,,,en,1.0
-+7200,+7200,NORP,,,en,1.0
-"Saturday, November 8","Saturday, November 8",DATE,,,en,1.0
-more than 40,more than 40,CARDINAL,,,en,1.0
-Ibiza airport,Ibiza airport,FAC,,,en,1.0
-+4896 chars,+4896 chars,WORK_OF_ART,,,en,1.0
-Hurricane Ida,Hurricane Ida,EVENT,,,en,1.0
-September 2021,September 2021,DATE,,,en,1.0
-At least 69,At least 69,CARDINAL,,,en,1.0
-6.9,6.9,CARDINAL,,,en,1.0
-"More than 70,000","More than 70,000",CARDINAL,,,en,1.0
-"Sunday, Oct. 26","Sunday, Oct. 26",DATE,,,en,1.0
-Wednesday night,Wednesday night,TIME,,,en,1.0
-25 kilometres,25 kilometres,QUANTITY,,,en,1.0
-just 15 months,just 15 months,DATE,,,en,1.0
-February 2024,February 2024,DATE,,,en,1.0
-"Saturday, Oct. 4","Saturday, Oct. 4",DATE,,,en,1.0
-Jamaicas,Jamaicas,WORK_OF_ART,0.0,0.0,en,1.0
-$4 million,$4 million,MONEY,,,en,1.0
-Tomorrow,Tomorrow,DATE,,,en,1.0
-4:55 p.m. EDT,4:55 p.m. EDT,TIME,,,en,1.0
-145 mph,145 mph,QUANTITY,,,en,1.0
-14,14,CARDINAL,,,en,1.0
-230 km/h,230 km/h,QUANTITY,,,en,1.0
-7%,7%,PERCENT,,,en,1.0
-11 mph,11 mph,QUANTITY,,,en,1.0
-18 km/h,18 km/h,QUANTITY,,,en,1.0
-12%,12%,PERCENT,,,en,1.0
-185 m,185 m,QUANTITY,,,en,1.0
-32,32,CARDINAL,,,en,1.0
-eight,eight,CARDINAL,,,en,1.0
-Hurricane Imelda,Hurricane Imelda,EVENT,,,en,1.0
-Kalmaegi,Kalmaegi,PRODUCT,,,en,1.0
-two decades,two decades,DATE,,,en,1.0
-more than 50 years,more than 50 years,DATE,,,en,1.0
-Last Forever,Last Forever,DATE,,,en,1.0
-the 2025 season,the 2025 season,DATE,,,en,1.0
-the 2026 MLB,the 2026 MLB,FAC,,,en,1.0
-Hurricane Milton,Hurricane Milton,EVENT,,,en,1.0
-Steinbrenner Field,Steinbrenner Field,FAC,-0.10000000000000002,0.08888888888888889,en,1.0
-last season,last season,DATE,,,en,1.0
-the 2026 season,the 2026 season,DATE,,,en,1.0
-late August 2020,late August 2020,DATE,,,en,1.0
-20 Years After,20 Years After,DATE,,,en,1.0
-A year ago,A year ago,DATE,,,en,1.0
-the eighth straight month,the eighth straight month,DATE,,,en,1.0
-annual,annual,DATE,,,en,1.0
-eighth,eighth,ORDINAL,,,en,1.0
-Atlantic Hurricane Season,Atlantic Hurricane Season,EVENT,,,en,1.0
-seasons,seasons,DATE,,,en,1.0
-OCTOBER 28,OCTOBER 28,DATE,,,en,1.0
-+5909,+5909,NORP,,,en,1.0
-The 19th,The 19th,DATE,,,en,1.0
-Hurricane Irmas,Hurricane Irmas,EVENT,,,en,1.0
-September 2017,September 2017,DATE,,,en,1.0
-Oceans,Oceans,NORP,,,en,1.0
-Nov. 17,Nov. 17,DATE,,,en,1.0
-Tropical Storm Imelda,Tropical Storm Imelda,WORK_OF_ART,-0.46458333333333335,2.5854166666666663,en,1.0
-"Thursday, Nov. 13","Thursday, Nov. 13",DATE,,,en,1.0
-just over two weeks,just over two weeks,DATE,,,en,1.0
-Honor Flight,Honor Flight,WORK_OF_ART,,,en,1.0
-nearly $18.6 trillion,nearly $18.6 trillion,MONEY,,,en,1.0
-Seven,Seven,CARDINAL,,,en,1.0
-Arlington National Cemetery,Arlington National Cemetery,FAC,,,en,1.0
-Arlington National Cemetery on Veterans Day,Arlington National Cemetery on Veterans Day,FAC,,,en,1.0
-more than 1 million,more than 1 million,CARDINAL,,,en,1.0
-Democrats,Democrats,NORP,,,en,1.0
-nearly half a billion dollars,nearly half a billion dollars,MONEY,,,en,1.0
-$473 million,$473 million,MONEY,,,en,1.0
-More than 200 million,More than 200 million,CARDINAL,,,en,1.0
-81-90,81-90,CARDINAL,,,en,1.0
-"the wee hours of Saturday, June 29, 2024","the wee hours of Saturday, June 29, 2024",TIME,,,en,1.0
-around 10:20 a.m.,around 10:20 a.m.,TIME,,,en,1.0
-Uwan,Uwan,NORP,-0.01785714285714286,0.125,en,1.0
-the lunar tower,the lunar tower,FAC,,,en,1.0
-the Lunar Tower,the Lunar Tower,FAC,,,en,1.0
-nearly two dozen,nearly two dozen,CARDINAL,,,en,1.0
-Hurricane Melissa Shows How Quickly Climate Change Is Outstripping Defenses,Hurricane Melissa Shows How Quickly Climate Change Is Outstripping Defenses,EVENT,,,en,1.0
-the hurricane season,the hurricane season,DATE,,,en,1.0
-+1396 chars,+1396 chars,WORK_OF_ART,,,en,1.0
-95,95,CARDINAL,,,en,1.0
-+6647 chars,+6647 chars,WORK_OF_ART,,,en,1.0
-hurricane seaso,hurricane seaso,EVENT,,,en,1.0
-approximately 121km,approximately 121km,QUANTITY,,,en,1.0
-a year later,a year later,DATE,,,en,1.0
-At least 115,At least 115,CARDINAL,,,en,1.0
-an active year,an active year,DATE,,,en,1.0
-"Wednesday, Sept. 24","Wednesday, Sept. 24",DATE,,,en,1.0
-17,17,DATE,,,en,1.0
-1 June to 30 November,1 June to 30 November,DATE,,,en,1.0
-August-October,August-October,DATE,,,en,1.0
-2015,2015,DATE,,,en,1.0
-the start of the season,the start of the season,DATE,,,en,1.0
-11/30/2025 9:36:56 AM PST,11/30/2025 9:36:56 AM PST,TIME,,,en,1.0
-this hurricane season,this hurricane season,DATE,,,en,1.0
-April,April,DATE,,,en,1.0
-the summer and autumn,the summer and autumn,DATE,,,en,1.0
-6.7bn,6.7bn,MONEY,,,en,1.0
-Up to $3.6bn,Up to $3.6bn,MONEY,,,en,1.0
-up to $6.7bn,up to $6.7bn,MONEY,,,en,1.0
-the next three years,the next three years,DATE,,,en,1.0
-at least 26 Resorts,at least 26 Resorts,TIME,,,en,1.0
-+1874 chars,+1874 chars,WORK_OF_ART,,,en,1.0
-Two months,Two months,DATE,,,en,1.0
-"1,200","1,200",CARDINAL,,,en,1.0
-Tylenol,Tylenol,PRODUCT,,,en,1.0
-115,115,CARDINAL,,,en,1.0
-+3969,+3969,NORP,,,en,1.0
-Hurricane Season,Hurricane Season,EVENT,,,en,1.0
-NOAA Hurricane Hunter,NOAA Hurricane Hunter,EVENT,,,en,1.0
-"September 28, 2025","September 28, 2025",DATE,,,en,1.0
-the end of hurricane season,the end of hurricane season,DATE,,,en,1.0
-Hurricane Helene,Hurricane Helene,EVENT,,,en,1.0
-Hurricane Gabrielle,Hurricane Gabrielle,EVENT,,,en,1.0
-$1 million,$1 million,MONEY,,,en,1.0
-252 MPH,252 MPH,QUANTITY,,,en,1.0
-+1688 chars,+1688 chars,WORK_OF_ART,,,en,1.0
-Chavas Camargo Tippett,Chavas Camargo Tippett,WORK_OF_ART,,,en,1.0
-252 mph - A Stunning Record,252 mph - A Stunning Record,QUANTITY,,,en,1.0
-Tropical Cyclone Fina,Tropical Cyclone Fina,NORP,,,en,1.0
-a tumultuous year,a tumultuous year,DATE,,,en,1.0
-Do Sharks Avoid Hurricanes,Do Sharks Avoid Hurricanes,LAW,,,en,1.0
-Nov. 30,Nov. 30,DATE,,,en,1.0
-Three,Three,CARDINAL,,,en,1.0
-Comorin,Comorin,FAC,,,en,1.0
-$2 million,$2 million,MONEY,,,en,1.0
-4.8 million metric tons,4.8 million metric tons,QUANTITY,,,en,1.0
-Tonight,Tonight,TIME,,,en,1.0
-11/25/2025 11:53:45 AM PST,11/25/2025 11:53:45 AM PST,TIME,,,en,1.0
-November 30th,November 30th,DATE,,,en,1.0
-$18.6 trillion,$18.6 trillion,MONEY,,,en,1.0
-year,year,DATE,,,en,1.0
-Airbnb,Airbnb,NORP,,,en,1.0
-+8895,+8895,NORP,,,en,1.0
-"Saturday, Nov. 8, 2025","Saturday, Nov. 8, 2025",DATE,,,en,1.0
-185 kph,185 kph,QUANTITY,,,en,1.0
-115 mph,115 mph,QUANTITY,,,en,1.0
-157,157,CARDINAL,,,en,1.0
-Substack,Substack,PRODUCT,,,en,1.0
-84%,84%,PERCENT,,,en,1.0
-"July 12, 2019","July 12, 2019",DATE,,,en,1.0
-later in the day,later in the day,TIME,,,en,1.0
-up to eight inches,up to eight inches,QUANTITY,,,en,1.0
-NEARLY A MILLION,NEARLY A MILLION,CARDINAL,,,en,1.0
 Typhoon Fung-wongs,Typhoon Fung-wongs,EVENT,,,en,1.0
 Nearly 1 million,Nearly 1 million,CARDINAL,,,en,1.0
-coming days,coming days,DATE,,,en,1.0
-185 km,185 km,QUANTITY,,,en,1.0
-230 km,230 km,QUANTITY,,,en,1.0
-1 million,1 million,CARDINAL,,,en,1.0
-two-thirds,two-thirds,CARDINAL,,,en,1.0
-early next week,early next week,DATE,,,en,1.0
-Over a million,Over a million,CARDINAL,,,en,1.0
-At least two,At least two,CARDINAL,,,en,1.0
-a million,a million,CARDINAL,,,en,1.0
-a few weeks,a few weeks,DATE,,,en,1.0
-Remedios T Romualde,Remedios T Romualde,PRODUCT,,,en,1.0
-ninth,ninth,ORDINAL,,,en,1.0
-a dangerous week ahead,a dangerous week ahead,DATE,,,en,1.0
-121,121,CARDINAL,,,en,1.0
-at least 188,at least 188,CARDINAL,,,en,1.0
-Win Over Wild,Win Over Wild,WORK_OF_ART,,,en,1.0
-132 mph,132 mph,QUANTITY,,,en,1.0
-the end of this weekend,the end of this weekend,DATE,,,en,1.0
-188,188,CARDINAL,,,en,1.0
-"Nov. 7, 2025","Nov. 7, 2025",DATE,,,en,1.0
-At least 5,At least 5,CARDINAL,,,en,1.0
-1.2 million,1.2 million,CARDINAL,,,en,1.0
-Amish,Amish,NORP,,,en,1.0
-the next few days,the next few days,DATE,,,en,1.0
-Sept. 28,Sept. 28,DATE,,,en,1.0
-these last few days,these last few days,DATE,,,en,1.0
-3.0 meters,3.0 meters,QUANTITY,,,en,1.0
-5:00 AM,5:00 AM,TIME,,,en,1.0
-8 November 2025,8 November 2025,DATE,,,en,1.0
-20 Years,20 Years,DATE,,,en,1.0
-Montego Bay International Airport,Montego Bay International Airport,FAC,,,en,1.0
-Phillippines,Phillippines,NORP,0.0,0.0,en,1.0
-earlier this weekend,earlier this weekend,DATE,,,en,1.0
-665,665,MONEY,,,en,1.0
-last month,last month,DATE,,,en,1.0
-4 a.m.,4 a.m.,TIME,,,en,1.0
-18,18,CARDINAL,,,en,1.0
-"3,000","3,000",CARDINAL,,,en,1.0
+185 km/h,185 km/h,QUANTITY,,,en,1.0
+155mph,155mph,QUANTITY,,,en,1.0
 Six,Six,CARDINAL,,,en,1.0
 21st,21st,ORDINAL,,,en,1.0
 At least six,At least six,CARDINAL,,,en,1.0
@@ -623,8 +596,8 @@ mere days,mere days,DATE,,,en,1.0
 Old Man Winter,Old Man Winter,DATE,,,en,1.0
 the day…,the day…,DATE,,,en,1.0
 about 5,about 5,CARDINAL,,,en,1.0
+18,18,CARDINAL,,,en,1.0
 Typhoon Fung-wong,Typhoon Fung-wong,EVENT,0.0,0.0,en,1.0
-Potential Tropical Storm Imelda Complicate,Potential Tropical Storm Imelda Complicate,PRODUCT,,,en,1.0
 232,232,CARDINAL,,,en,1.0
 at least 10,at least 10,CARDINAL,,,en,1.0
 at least 27,at least 27,CARDINAL,,,en,1.0
@@ -634,92 +607,461 @@ $2.3 Billion,$2.3 Billion,MONEY,,,en,1.0
 USD 1.77 billion,USD 1.77 billion,MONEY,,,en,1.0
 USD 2.30 billion,USD 2.30 billion,MONEY,,,en,1.0
 5.4%,5.4%,PERCENT,,,en,1.0
-U.S. Hurricane Humberto,U.S. Hurricane Humberto,EVENT,,,en,1.0
-the coming days,the coming days,DATE,,,en,1.0
++8895,+8895,NORP,,,en,1.0
+Airbnb,Airbnb,NORP,,,en,1.0
+year,year,DATE,,,en,1.0
+$18.6 trillion,$18.6 trillion,MONEY,,,en,1.0
+"3,000","3,000",CARDINAL,,,en,1.0
+Fifty years ago today,Fifty years ago today,DATE,,,en,1.0
+2025-11-10,2025-11-10,DATE,,,en,1.0
 Mid-Century,Mid-Century,DATE,,,en,1.0
-As of 5 p.m.,As of 5 p.m.,TIME,,,en,1.0
+230 km,230 km,QUANTITY,,,en,1.0
+1 million,1 million,CARDINAL,,,en,1.0
+two-thirds,two-thirds,CARDINAL,,,en,1.0
+Over a million,Over a million,CARDINAL,,,en,1.0
+At least two,At least two,CARDINAL,,,en,1.0
+a million,a million,CARDINAL,,,en,1.0
+More than a million,More than a million,CARDINAL,,,en,1.0
+last month,last month,DATE,,,en,1.0
+4 a.m.,4 a.m.,TIME,,,en,1.0
+665,665,MONEY,,,en,1.0
 Earlier this year,Earlier this year,DATE,,,en,1.0
+minutes,minutes,TIME,,,en,1.0
 the San Gabriel Mountains,the San Gabriel Mountains,FAC,,,en,1.0
 Typhoon Fung-Wong,Typhoon Fung-Wong,EVENT,,,en,1.0
-2013,2013,DATE,,,en,1.0
 Typhoon Haiyan,Typhoon Haiyan,NORP,,,en,1.0
 at least 6,at least 6,CARDINAL,,,en,1.0
-early Sunday,early Sunday,DATE,,,en,1.0
-late Saturday,late Saturday,DATE,,,en,1.0
 Canadas,Canadas,WORK_OF_ART,,,en,1.0
-9,9,CARDINAL,,,en,1.0
-Fifty years ago today,Fifty years ago today,DATE,,,en,1.0
 more than 1.4,more than 1.4,CARDINAL,,,en,1.0
-Tropical Depression,Tropical Depression,WORK_OF_ART,,,en,1.0
-Category 5,Category 5,LAW,,,en,1.0
 |,|,DATE,,,en,1.0
 "26,000 tons","26,000 tons",QUANTITY,,,en,1.0
 minute,minute,TIME,,,en,1.0
 +1142,+1142,NORP,,,en,1.0
-minutes,minutes,TIME,,,en,1.0
-2025-11-10,2025-11-10,DATE,,,en,1.0
-+4104,+4104,NORP,,,en,1.0
-season's,season's,DATE,,,en,1.0
-Montego Bay Following Hurricane Melissa,Montego Bay Following Hurricane Melissa,FAC,,,en,1.0
-Hurricane W,Hurricane W,EVENT,,,en,1.0
-13th,13th,ORDINAL,,,en,1.0
-up to 120 mph,up to 120 mph,QUANTITY,,,en,1.0
-+3065 chars,+3065 chars,WORK_OF_ART,,,en,1.0
-"Friday, Oct. 24, 2025","Friday, Oct. 24, 2025",DATE,,,en,1.0
-less than a week,less than a week,DATE,,,en,1.0
-at least 44,at least 44,CARDINAL,,,en,1.0
-HURRICANE MELISSA,HURRICANE MELISSA,EVENT,,,en,1.0
-Third,Third,ORDINAL,,,en,1.0
-1st,1st,ORDINAL,,,en,1.0
-26 Oct 2025,26 Oct 2025,DATE,,,en,1.0
-17:36:45,17:36:45,TIME,,,en,1.0
-15:21:53,15:21:53,TIME,,,en,1.0
-"more than 16,000","more than 16,000",CARDINAL,,,en,1.0
-Hurricane,Hurricane,WORK_OF_ART,,,en,1.0
-the upcoming days,the upcoming days,DATE,,,en,1.0
-Caribbean.&nbsp,Caribbean.&nbsp,FAC,,,en,1.0
-late Sunday night,late Sunday night,TIME,,,en,1.0
-the early hours,the early hours,TIME,,,en,1.0
-+4428 chars,+4428 chars,WORK_OF_ART,,,en,1.0
-140mph,140mph,QUANTITY,,,en,1.0
-44,44,CARDINAL,,,en,1.0
-"Saturday, days","Saturday, days",DATE,,,en,1.0
-100 mph,100 mph,QUANTITY,,,en,1.0
-23:54:02,23:54:02,TIME,,,en,1.0
-90 mph,90 mph,QUANTITY,,,en,1.0
+nearly 50,nearly 50,CARDINAL,,,en,1.0
+210 km/h,210 km/h,QUANTITY,,,en,1.0
++6111 chars,+6111 chars,WORK_OF_ART,,,en,1.0
+More than a thousand,More than a thousand,CARDINAL,,,en,1.0
+The summer of 2025,The summer of 2025,DATE,,,en,1.0
+Alexie,Alexie,FAC,,,en,1.0
+Late October,Late October,DATE,,,en,1.0
+51,51,CARDINAL,,,en,1.0
+One Day,One Day,DATE,,,en,1.0
+300,300,CARDINAL,,,en,1.0
+Typhoon Halongs,Typhoon Halongs,EVENT,,,en,1.0
+2025-10-17,2025-10-17,DATE,,,en,1.0
+up to 100 mph,up to 100 mph,QUANTITY,,,en,1.0
+the Yukon-Kuskokwim Delta,the Yukon-Kuskokwim Delta,FAC,0.0,0.0,en,1.0
+hundreds of miles,hundreds of miles,QUANTITY,,,en,1.0
+the late night hours,the late night hours,TIME,,,en,1.0
+Alaskans,Alaskans,NORP,,,en,1.0
+Oct. 11,Oct. 11,DATE,,,en,1.0
+some 20,some 20,CARDINAL,,,en,1.0
+millions,millions,CARDINAL,,,en,1.0
+Tropical Storm Fengshen,Tropical Storm Fengshen,WORK_OF_ART,,,en,1.0
+"Saturday, Oct. 18","Saturday, Oct. 18",DATE,,,en,1.0
++12783,+12783,NORP,,,en,1.0
+The Conversation,The Conversation,WORK_OF_ART,,,en,1.0
+At least five,At least five,CARDINAL,,,en,1.0
++7724 chars,+7724 chars,WORK_OF_ART,,,en,1.0
+Kenyans,Kenyans,NORP,,,en,1.0
+237,237,CARDINAL,,,en,1.0
+last weekend,last weekend,DATE,,,en,1.0
+last weeks,last weeks,DATE,,,en,1.0
+98,98,CARDINAL,,,en,1.0
+several days last week,several days last week,DATE,,,en,1.0
+at least 18,at least 18,CARDINAL,,,en,1.0
+More than 30,More than 30,CARDINAL,,,en,1.0
+64,64,CARDINAL,,,en,1.0
+At least 64,At least 64,CARDINAL,,,en,1.0
+Monday afternoon,Monday afternoon,TIME,,,en,1.0
+a weekend,a weekend,DATE,,,en,1.0
+Oct.,Oct.,DATE,,,en,1.0
+Almost 130,Almost 130,CARDINAL,,,en,1.0
+65,65,CARDINAL,,,en,1.0
+Mexican,Mexican,NORP,,,en,1.0
+last week’s,last week’s,DATE,,,en,1.0
+At least one,At least one,CARDINAL,,,en,1.0
++4136 chars,+4136 chars,WORK_OF_ART,,,en,1.0
+At least 49,At least 49,CARDINAL,,,en,1.0
+"Oct. 12, 2025","Oct. 12, 2025",DATE,,,en,1.0
++5759 chars,+5759 chars,WORK_OF_ART,,,en,1.0
+60,60,CARDINAL,,,en,1.0
+"some 100,000","some 100,000",CARDINAL,,,en,1.0
+Fifteen minutes,Fifteen minutes,TIME,,,en,1.0
++2852,+2852,NORP,,,en,1.0
+"Thursday, Oct. 16","Thursday, Oct. 16",DATE,,,en,1.0
+Alaskan,Alaskan,NORP,,,en,1.0
+the end of November,the end of November,DATE,,,en,1.0
+"1,500","1,500",CARDINAL,,,en,1.0
+Consent Framework,Consent Framework,WORK_OF_ART,,,en,1.0
+30%,30%,PERCENT,,,en,1.0
+fourth,fourth,ORDINAL,,,en,1.0
+145-mph,145-mph,QUANTITY,,,en,1.0
+Typhoon Rai,Typhoon Rai,EVENT,,,en,1.0
+early June 2023,early June 2023,DATE,,,en,1.0
+Two Feet,Two Feet,QUANTITY,,,en,1.0
+the end of the weekend,the end of the weekend,DATE,,,en,1.0
+the next several years',the next several years',DATE,,,en,1.0
+Southern Appalachians,Southern Appalachians,NORP,,,en,1.0
++3323 chars,+3323 chars,WORK_OF_ART,,,en,1.0
+day,day,DATE,,,en,1.0
+the Blue Ridge Mountains,the Blue Ridge Mountains,FAC,,,en,1.0
+Southern,Southern,NORP,,,en,1.0
+Blue Ridge,Blue Ridge,FAC,,,en,1.0
+"Friday October 24, 2025","Friday October 24, 2025",DATE,,,en,1.0
+Oct. 23,Oct. 23,DATE,,,en,1.0
+Tropical Tidbits,Tropical Tidbits,PRODUCT,,,en,1.0
++5552 chars,+5552 chars,WORK_OF_ART,,,en,1.0
+Pulitzer Prize,Pulitzer Prize,WORK_OF_ART,,,en,1.0
 $300 million,$300 million,MONEY,,,en,1.0
 72 hours,72 hours,TIME,,,en,1.0
-at least 18,at least 18,CARDINAL,,,en,1.0
 over weekend,over weekend,DATE,,,en,1.0
 fifth,fifth,ORDINAL,,,en,1.0
 70 mph,70 mph,QUANTITY,,,en,1.0
 this Atlantic season,this Atlantic season,EVENT,,,en,1.0
 about 165 miles,about 165 miles,QUANTITY,,,en,1.0
 Caribbean,Caribbean,NORP,0.0,0.0,en,1.0
-at least three,at least three,CARDINAL,,,en,1.0
-fourth,fourth,ORDINAL,,,en,1.0
-11:40 a.m. EST,11:40 a.m. EST,TIME,,,en,1.0
-"Tuesday, Oct. 21, 2025","Tuesday, Oct. 21, 2025",DATE,,,en,1.0
+a Tropical Storm Watch,a Tropical Storm Watch,PRODUCT,,,en,1.0
+10 years ago,10 years ago,DATE,,,en,1.0
+the next 2 days,the next 2 days,DATE,,,en,1.0
+Tuesday morning,Tuesday morning,TIME,,,en,1.0
+nearly half,nearly half,CARDINAL,,,en,1.0
+662,662,MONEY,,,en,1.0
+0.45%,0.45%,PERCENT,,,en,1.0
+0.82%,0.82%,PERCENT,,,en,1.0
+The Hurricane Season,The Hurricane Season,EVENT,,,en,1.0
+more than US$1.5 trillion,more than US$1.5 trillion,MONEY,,,en,1.0
+"more than 7,000","more than 7,000",CARDINAL,,,en,1.0
+more than US$1,more than US$1,MONEY,,,en,1.0
+Barebones Hurricane Lantern,Barebones Hurricane Lantern,EVENT,,,en,1.0
+a century,a century,DATE,,,en,1.0
+Barebones,Barebones,WORK_OF_ART,,,en,1.0
+2 billion,2 billion,CARDINAL,,,en,1.0
+Flood Danger,Flood Danger,PRODUCT,,,en,1.0
+Himalayan,Himalayan,NORP,,,en,1.0
+about 600%,about 600%,PERCENT,,,en,1.0
+the end of the week,the end of the week,DATE,,,en,1.0
+October 22,October 22,DATE,,,en,1.0
+thirteenth,thirteenth,ORDINAL,,,en,1.0
+the next 24 to 48 hours,the next 24 to 48 hours,DATE,,,en,1.0
+Salt Typhoon,Salt Typhoon,FAC,0.13333333333333336,0.9866666666666667,en,1.0
+As Tropical Storm Melissa,As Tropical Storm Melissa,WORK_OF_ART,,,en,1.0
+this years,this years,DATE,,,en,1.0
+the late weekend,the late weekend,DATE,,,en,1.0
++3672,+3672,NORP,,,en,1.0
 Every Hurricane Season,Every Hurricane Season,EVENT,,,en,1.0
-Oct. 25,Oct. 25,DATE,,,en,1.0
 Oct. 12,Oct. 12,DATE,,,en,1.0
+less than a week,less than a week,DATE,,,en,1.0
+28 August,28 August,DATE,,,en,1.0
+earlier this weekend,earlier this weekend,DATE,,,en,1.0
+these last few days,these last few days,DATE,,,en,1.0
+Sept. 28,Sept. 28,DATE,,,en,1.0
+Amish,Amish,NORP,,,en,1.0
+a dangerous week ahead,a dangerous week ahead,DATE,,,en,1.0
+more than 50 years,more than 50 years,DATE,,,en,1.0
+Fujiwhara,Fujiwhara,NORP,,,en,1.0
++4426 chars,+4426 chars,WORK_OF_ART,,,en,1.0
+Android,Android,PRODUCT,,,en,1.0
+These Are the Emergency Alerts You Need to Enable on Your Phone,These Are the Emergency Alerts You Need to Enable on Your Phone,LAW,,,en,1.0
+A year,A year,DATE,,,en,1.0
+09/29/2025 5:11:54 PM PDT,09/29/2025 5:11:54 PM PDT,TIME,,,en,1.0
+ninth,ninth,ORDINAL,,,en,1.0
+tens of thousands,tens of thousands,CARDINAL,,,en,1.0
+09/30/2025 6:05,09/30/2025 6:05,TIME,,,en,1.0
+239mm,239mm,QUANTITY,,,en,1.0
+the last 24 hours,the last 24 hours,TIME,,,en,1.0
+Ibiza airport,Ibiza airport,FAC,,,en,1.0
+168.3mm,168.3mm,QUANTITY,,,en,1.0
+105.4mm,105.4mm,QUANTITY,,,en,1.0
+Fujiwhara Effect',Fujiwhara Effect',FAC,,,en,1.0
+69,69,CARDINAL,,,en,1.0
+barely more than a week,barely more than a week,DATE,,,en,1.0
+At least 69,At least 69,CARDINAL,,,en,1.0
+the next few days,the next few days,DATE,,,en,1.0
+84%,84%,PERCENT,,,en,1.0
+at least 44,at least 44,CARDINAL,,,en,1.0
+the hurricane season,the hurricane season,DATE,,,en,1.0
+Tylenol,Tylenol,PRODUCT,,,en,1.0
++1874 chars,+1874 chars,WORK_OF_ART,,,en,1.0
+17,17,DATE,,,en,1.0
+"Wednesday, Sept. 24","Wednesday, Sept. 24",DATE,,,en,1.0
+Hurricane Gabrielle,Hurricane Gabrielle,EVENT,,,en,1.0
+Hurricane Helene,Hurricane Helene,EVENT,,,en,1.0
+a year later,a year later,DATE,,,en,1.0
+A year ago,A year ago,DATE,,,en,1.0
+20 Years After,20 Years After,DATE,,,en,1.0
+late August 2020,late August 2020,DATE,,,en,1.0
+Tropical Storm Imelda,Tropical Storm Imelda,WORK_OF_ART,-0.46458333333333335,2.5854166666666663,en,1.0
+U.S. Hurricane Humberto,U.S. Hurricane Humberto,EVENT,,,en,1.0
+"July 12, 2019","July 12, 2019",DATE,,,en,1.0
+Potential Tropical Storm Imelda Complicate,Potential Tropical Storm Imelda Complicate,PRODUCT,,,en,1.0
+the coming days,the coming days,DATE,,,en,1.0
+Category 5,Category 5,LAW,,,en,1.0
+Tropical Depression,Tropical Depression,WORK_OF_ART,,,en,1.0
+9,9,CARDINAL,,,en,1.0
+As of 5 p.m.,As of 5 p.m.,TIME,,,en,1.0
+late Saturday,late Saturday,DATE,,,en,1.0
+early Sunday,early Sunday,DATE,,,en,1.0
+early next week,early next week,DATE,,,en,1.0
+coming days,coming days,DATE,,,en,1.0
+later in the day,later in the day,TIME,,,en,1.0
+6.9,6.9,CARDINAL,,,en,1.0
+14,14,CARDINAL,,,en,1.0
+Hurricane Imelda,Hurricane Imelda,EVENT,,,en,1.0
+this years hurricane season,this years hurricane season,DATE,,,en,1.0
+Thursday Oct. 9,Thursday Oct. 9,DATE,,,en,1.0
+September 2025,September 2025,DATE,,,en,1.0
+At least 170,At least 170,CARDINAL,,,en,1.0
+"Nearly 30,000","Nearly 30,000",CARDINAL,,,en,1.0
+the hurricane center,the hurricane center,FAC,,,en,1.0
+'Typhoon Family,'Typhoon Family,WORK_OF_ART,,,en,1.0
+East Asian,East Asian,NORP,,,en,1.0
+1997,1997,DATE,,,en,1.0
+1PM EDT,1PM EDT,TIME,,,en,1.0
+177,177,MONEY,,,en,1.0
+this year’s hurricane season,this year’s hurricane season,DATE,,,en,1.0
+"October 10, 2025","October 10, 2025",DATE,,,en,1.0
+"Saturday, Oct. 4","Saturday, Oct. 4",DATE,,,en,1.0
+45 degrees,45 degrees,QUANTITY,,,en,1.0
+Tropical Tidbits Website,Tropical Tidbits Website,PRODUCT,,,en,1.0
+At least 28,At least 28,CARDINAL,,,en,1.0
+at least 28,at least 28,CARDINAL,,,en,1.0
+Hurricane Priscilla,Hurricane Priscilla,EVENT,,,en,1.0
+Earlier this week,Earlier this week,DATE,,,en,1.0
+20:35:16,20:35:16,TIME,,,en,1.0
+21:21:32,21:21:32,TIME,,,en,1.0
++4852,+4852,NORP,,,en,1.0
+44,44,CARDINAL,,,en,1.0
+"more than 16,000","more than 16,000",CARDINAL,,,en,1.0
+the U.S.,the U.S.,FAC,,,en,1.0
+Japanese,Japanese,NORP,,,en,1.0
+next week,next week,DATE,,,en,1.0
+last winter,last winter,DATE,,,en,1.0
+Wednesday night,Wednesday night,TIME,,,en,1.0
+wet weekend,wet weekend,DATE,,,en,1.0
+the National Hurricane...,the National Hurricane...,EVENT,,,en,1.0
+FIRST,FIRST,ORDINAL,,,en,1.0
+the past two weeks,the past two weeks,DATE,,,en,1.0
+"KFF Health News
+","KFF Health News
+",FAC,,,en,1.0
++13267 chars,+13267 chars,WORK_OF_ART,,,en,1.0
+a new week,a new week,DATE,,,en,1.0
+AL95,AL95,PRODUCT,,,en,1.0
+the National Hurricane Ce,the National Hurricane Ce,EVENT,,,en,1.0
+Typhoon Matmo,Typhoon Matmo,EVENT,0.25,0.6833333333333332,en,1.0
+the past month,the past month,DATE,,,en,1.0
+Oct. 7,Oct. 7,DATE,,,en,1.0
+"Tuesday, Oct. 7","Tuesday, Oct. 7",DATE,,,en,1.0
+season's,season's,DATE,,,en,1.0
+10th,10th,ORDINAL,,,en,1.0
+"about 1,315 m","about 1,315 m",QUANTITY,,,en,1.0
+next season,next season,DATE,,,en,1.0
+2029,2029,DATE,,,en,1.0
++3001 chars],+3001 chars],WORK_OF_ART,,,en,1.0
+Days,Days,DATE,,,en,1.0
+$125M,$125M,MONEY,,,en,1.0
+Summer 2025,Summer 2025,DATE,,,en,1.0
+at least three,at least three,CARDINAL,,,en,1.0
+11:40 a.m. EST,11:40 a.m. EST,TIME,,,en,1.0
+295km/h,295km/h,QUANTITY,,,en,1.0
+Hurricane Melissa Plows,Hurricane Melissa Plows,EVENT,,,en,1.0
+"More than 530,000","More than 530,000",CARDINAL,,,en,1.0
+"about 15,000","about 15,000",CARDINAL,,,en,1.0
+Tuesday 5 p.m,Tuesday 5 p.m,DATE,,,en,1.0
+175 MPH,175 MPH,QUANTITY,,,en,1.0
+as much as 75 centimetres,as much as 75 centimetres,QUANTITY,,,en,1.0
++3134,+3134,NORP,,,en,1.0
+one year,one year,DATE,,,en,1.0
+a year ago,a year ago,DATE,,,en,1.0
+How To Avoid a Climate Disaster,How To Avoid a Climate Disaster,WORK_OF_ART,,,en,1.0
+titled How To Avoid a Climate Disaster,titled How To Avoid a Climate Disaster,WORK_OF_ART,,,en,1.0
+less than a day,less than a day,DATE,,,en,1.0
+late tomorrow,late tomorrow,TIME,,,en,1.0
+240km/h,240km/h,QUANTITY,,,en,1.0
+Cuban,Cuban,NORP,,,en,1.0
+"about 735,000","about 735,000",CARDINAL,,,en,1.0
+the end of,the end of,DATE,,,en,1.0
+the past year,the past year,DATE,,,en,1.0
+New Years,New Years,EVENT,,,en,1.0
+early Tuesday,early Tuesday,DATE,,,en,1.0
+the early afternoon,the early afternoon,TIME,,,en,1.0
+"early Wednesday, Oct. 29","early Wednesday, Oct. 29",DATE,,,en,1.0
+29 Oct 2025,29 Oct 2025,DATE,,,en,1.0
+15:01:51,15:01:51,TIME,,,en,1.0
+early this morning,early this morning,TIME,,,en,1.0
+6 p.m,6 p.m,TIME,,,en,1.0
+150mph,150mph,QUANTITY,,,en,1.0
+170mph,170mph,QUANTITY,,,en,1.0
+Hurricane Melissa Makes Catastrophic Landfall,Hurricane Melissa Makes Catastrophic Landfall,EVENT,,,en,1.0
+295 kph,295 kph,QUANTITY,,,en,1.0
+The Science of How Hurricane Melissa Became So Extreme,The Science of How Hurricane Melissa Became So Extreme,WORK_OF_ART,,,en,1.0
+892,892,CARDINAL,,,en,1.0
+185 miles,185 miles,QUANTITY,,,en,1.0
+298 kilometers,298 kilometers,QUANTITY,,,en,1.0
+Hurricane Melissa Is Set To Make Landfall,Hurricane Melissa Is Set To Make Landfall,EVENT,,,en,1.0
+up to 175 miles,up to 175 miles,QUANTITY,,,en,1.0
+17:53:59,17:53:59,TIME,,,en,1.0
+Tue,Tue,PRODUCT,,,en,1.0
+15:22:18,15:22:18,TIME,,,en,1.0
+hurricane Melissa,hurricane Melissa,EVENT,,,en,1.0
+250 mph,250 mph,QUANTITY,,,en,1.0
+Carribbean,Carribbean,NORP,,,en,1.0
+more than a third,more than a third,CARDINAL,,,en,1.0
+three-quarters,three-quarters,CARDINAL,,,en,1.0
+Hurricane Melissa Images and Videos Show the Horrifying Power of Third,Hurricane Melissa Images and Videos Show the Horrifying Power of Third,EVENT,,,en,1.0
++2337 chars,+2337 chars,WORK_OF_ART,,,en,1.0
+this afternoon,this afternoon,TIME,,,en,1.0
+1:00 p.m.,1:00 p.m.,TIME,,,en,1.0
+3:30 p.m,3:30 p.m,TIME,,,en,1.0
+the minute,the minute,TIME,,,en,1.0
+3.9m,3.9m,QUANTITY,,,en,1.0
+as a third,as a third,CARDINAL,,,en,1.0
+Hurricane Melissa Rips Roof Off Hospital,Hurricane Melissa Rips Roof Off Hospital,EVENT,,,en,1.0
+a single day,a single day,DATE,,,en,1.0
+up to 185 miles per hour,up to 185 miles per hour,QUANTITY,,,en,1.0
+"Tuesday, Oct. 21, 2025","Tuesday, Oct. 21, 2025",DATE,,,en,1.0
+Typhoon Halong Scatters Trove,Typhoon Halong Scatters Trove,EVENT,,,en,1.0
+the Year Competition,the Year Competition,EVENT,,,en,1.0
+the Year 2025,the Year 2025,DATE,,,en,1.0
+Lugu Lake,Lugu Lake,FAC,,,en,1.0
+500 meters,500 meters,QUANTITY,,,en,1.0
+the past two days,the past two days,DATE,,,en,1.0
+Netflix,Netflix,PRODUCT,,,en,1.0
+30 Oct 2025,30 Oct 2025,DATE,,,en,1.0
+17:49:40,17:49:40,TIME,,,en,1.0
+15:22:47,15:22:47,TIME,,,en,1.0
+English,English,LANGUAGE,,,en,1.0
+Over 70%,Over 70%,PERCENT,,,en,1.0
+Indigenous,Indigenous,NORP,,,en,1.0
+"October 29, 2025","October 29, 2025",DATE,,,en,1.0
+the 19th century,the 19th century,DATE,,,en,1.0
+Between May and early October,Between May and early October,DATE,,,en,1.0
+the weeks ahead,the weeks ahead,DATE,,,en,1.0
+nearly a month,nearly a month,DATE,,,en,1.0
+"up to 100,000","up to 100,000",CARDINAL,,,en,1.0
+hundreds of years,hundreds of years,DATE,,,en,1.0
+1893,1893,DATE,,,en,1.0
+day 30,day 30,DATE,,,en,1.0
+2025-10-30,2025-10-30,DATE,,,en,1.0
+Argentine,Argentine,NORP,,,en,1.0
+Mexicans,Mexicans,NORP,,,en,1.0
+Halloween,Halloween,DATE,,,en,1.0
+just seven,just seven,CARDINAL,,,en,1.0
+late morning,late morning,TIME,,,en,1.0
+the past few days,the past few days,DATE,,,en,1.0
+the last two days,the last two days,DATE,,,en,1.0
++8350 chars,+8350 chars,WORK_OF_ART,,,en,1.0
+24,24,CARDINAL,,,en,1.0
+about 16 hours,about 16 hours,TIME,,,en,1.0
+View Entire Post,View Entire Post,WORK_OF_ART,,,en,1.0
+Hurricane Melissa Show,Hurricane Melissa Show,EVENT,,,en,1.0
+at least 23,at least 23,CARDINAL,,,en,1.0
+a day earlier,a day earlier,DATE,,,en,1.0
+Kingston Airport,Kingston Airport,FAC,,,en,1.0
+Hurricane Meli,Hurricane Meli,EVENT,,,en,1.0
+33%,33%,PERCENT,,,en,1.0
+#43 2025,#43 2025,MONEY,,,en,1.0
+the 33rd consecutive year,the 33rd consecutive year,DATE,,,en,1.0
+Hourly Precipitation Intensities,Hourly Precipitation Intensities,WORK_OF_ART,,,en,1.0
+hourly,hourly,TIME,,,en,1.0
+30 October 2025,30 October 2025,DATE,,,en,1.0
+at least 25,at least 25,CARDINAL,,,en,1.0
+Hait,Hait,PRODUCT,,,en,1.0
+Hurricane Melissa​,Hurricane Melissa​,EVENT,,,en,1.0
++4753 chars,+4753 chars,WORK_OF_ART,,,en,1.0
+more than 30,more than 30,CARDINAL,,,en,1.0
+Oct. 30,Oct. 30,DATE,,,en,1.0
+Copernicus Sentinel-2,Copernicus Sentinel-2,PRODUCT,,,en,1.0
+Hurricane Melissa Batters Island,Hurricane Melissa Batters Island,EVENT,,,en,1.0
+Kingston,Kingston,FAC,0.0,0.0,en,1.0
+Four,Four,CARDINAL,,,en,1.0
+"over 360,000","over 360,000",CARDINAL,,,en,1.0
++4934,+4934,NORP,,,en,1.0
+up to one metre,up to one metre,QUANTITY,,,en,1.0
+663,663,MONEY,,,en,1.0
+1922,1922,DATE,,,en,1.0
+76 centimeters,76 centimeters,QUANTITY,,,en,1.0
+Oct. 26,Oct. 26,DATE,,,en,1.0
+Burmese,Burmese,NORP,,,en,1.0
+just a few decades,just a few decades,DATE,,,en,1.0
+at least four,at least four,CARDINAL,,,en,1.0
+HURRICANE MELISSA HISTORIC HIT FOR JAMACIA,HURRICANE MELISSA HISTORIC HIT FOR JAMACIA,LAW,,,en,1.0
+Early Monday,Early Monday,DATE,,,en,1.0
+Oct. 27,Oct. 27,DATE,,,en,1.0
+Boca Raton Airport,Boca Raton Airport,FAC,,,en,1.0
+140mph,140mph,QUANTITY,,,en,1.0
+as of 7 a.m.,as of 7 a.m.,TIME,,,en,1.0
+"Monday, Oct. 27","Monday, Oct. 27",DATE,,,en,1.0
+hours,hours,TIME,,,en,1.0
+the Boca Raton Airport,the Boca Raton Airport,FAC,,,en,1.0
+2.37 inches,2.37 inches,QUANTITY,,,en,1.0
+Hurricane Melissa Could Make,Hurricane Melissa Could Make,EVENT,,,en,1.0
+3 Days,3 Days,DATE,,,en,1.0
+up to 40 inches,up to 40 inches,QUANTITY,,,en,1.0
+"1,000 millimeter","1,000 millimeter",QUANTITY,,,en,1.0
+October 2025,October 2025,DATE,,,en,1.0
+Only Second Season,Only Second Season,DATE,,,en,1.0
+Hurricane Melissa Could Be the Worst Storm to Ever Hit Jamaica,Hurricane Melissa Could Be the Worst Storm to Ever Hit Jamaica,WORK_OF_ART,,,en,1.0
++4428 chars,+4428 chars,WORK_OF_ART,,,en,1.0
+At least seven,At least seven,CARDINAL,,,en,1.0
+up to 120 mph,up to 120 mph,QUANTITY,,,en,1.0
+Oct. 25,Oct. 25,DATE,,,en,1.0
 Monstrous Hurricane: Ravaging,Monstrous Hurricane: Ravaging,EVENT,,,en,1.0
 Oct 2025,Oct 2025,DATE,,,en,1.0
 17:32:22,17:32:22,TIME,,,en,1.0
 25 Oct 2025,25 Oct 2025,DATE,,,en,1.0
 15:22:00,15:22:00,TIME,,,en,1.0
-Hurricane Melissa Could Be the Worst Storm to Ever Hit Jamaica,Hurricane Melissa Could Be the Worst Storm to Ever Hit Jamaica,WORK_OF_ART,,,en,1.0
-+4852,+4852,NORP,,,en,1.0
-21:21:32,21:21:32,TIME,,,en,1.0
-up to one metre,up to one metre,QUANTITY,,,en,1.0
-up to 40 inches,up to 40 inches,QUANTITY,,,en,1.0
-"1,000 millimeter","1,000 millimeter",QUANTITY,,,en,1.0
-October 2025,October 2025,DATE,,,en,1.0
-Only Second Season,Only Second Season,DATE,,,en,1.0
+90 mph,90 mph,QUANTITY,,,en,1.0
+100 mph,100 mph,QUANTITY,,,en,1.0
+Hurricane W,Hurricane W,EVENT,,,en,1.0
+"Saturday, days","Saturday, days",DATE,,,en,1.0
+13th,13th,ORDINAL,,,en,1.0
++3065 chars,+3065 chars,WORK_OF_ART,,,en,1.0
+the early hours,the early hours,TIME,,,en,1.0
+"Friday, Oct. 24, 2025","Friday, Oct. 24, 2025",DATE,,,en,1.0
+HURRICANE MELISSA,HURRICANE MELISSA,EVENT,,,en,1.0
+Third,Third,ORDINAL,,,en,1.0
+1st,1st,ORDINAL,,,en,1.0
+26 Oct 2025,26 Oct 2025,DATE,,,en,1.0
+17:36:45,17:36:45,TIME,,,en,1.0
+15:21:53,15:21:53,TIME,,,en,1.0
+Hurricane,Hurricane,WORK_OF_ART,,,en,1.0
+the upcoming days,the upcoming days,DATE,,,en,1.0
+Caribbean.&nbsp,Caribbean.&nbsp,FAC,,,en,1.0
+late Sunday night,late Sunday night,TIME,,,en,1.0
 More Than Two,More Than Two,CARDINAL,,,en,1.0
 more than two,more than two,CARDINAL,,,en,1.0
 180,180,CARDINAL,,,en,1.0
+Oct. 21,Oct. 21,DATE,,,en,1.0
+Belgian,Belgian,NORP,,,en,1.0
+Hurricane Melissa Is The Strongest Storm On Earth,Hurricane Melissa Is The Strongest Storm On Earth,EVENT,,,en,1.0
+"October 28, 2025","October 28, 2025",DATE,,,en,1.0
+Katrina,Katrina,EVENT,0.25,0.3333333333333333,en,1.0
+2019,2019,DATE,,,en,1.0
+404,404,CARDINAL,,,en,1.0
+just hours,just hours,TIME,,,en,1.0
+175 miles per hour,175 miles per hour,QUANTITY,,,en,1.0
+13 feet,13 feet,QUANTITY,,,en,1.0
+Over 100 Years,Over 100 Years,DATE,,,en,1.0
++5103,+5103,CARDINAL,,,en,1.0
+Netflix Documentary Has A,Netflix Documentary Has A,WORK_OF_ART,,,en,1.0
 at least 180,at least 180,CARDINAL,,,en,1.0
+The Scariest True Story You’ll Ever Watch,The Scariest True Story You’ll Ever Watch,WORK_OF_ART,,,en,1.0
+"Tuesday, Oct. 28","Tuesday, Oct. 28",DATE,,,en,1.0
+over 180 mph,over 180 mph,QUANTITY,,,en,1.0
+more than two feet,more than two feet,QUANTITY,,,en,1.0
+at least 500,at least 500,CARDINAL,,,en,1.0
+28 October,28 October,DATE,,,en,1.0
+Strongest Storm Approaches Jamaica,Strongest Storm Approaches Jamaica,WORK_OF_ART,,,en,1.0
+185 MPH Winds,185 MPH Winds,QUANTITY,,,en,1.0
+185 miles per hour,185 miles per hour,QUANTITY,,,en,1.0
+1990s,1990s,CARDINAL,,,en,1.0
++9688 chars,+9688 chars,WORK_OF_ART,,,en,1.0
+10/28/2025,10/28/2025,DATE,,,en,1.0
+the “Hurricane Hunters,the “Hurricane Hunters,LAW,,,en,1.0
+"the ""Hurricane Hunters","the ""Hurricane Hunters",LAW,,,en,1.0
+Weather Reconnaissance Squadron,Weather Reconnaissance Squadron,EVENT,,,en,1.0
 +3125 chars,+3125 chars,WORK_OF_ART,,,en,1.0
 "20,000","20,000",CARDINAL,,,en,1.0
 up to £8 billion,up to £8 billion,MONEY,,,en,1.0
@@ -733,323 +1075,14 @@ Dramedy,Dramedy,DATE,,,en,1.0
 Hurricane Seasons,Hurricane Seasons,EVENT,,,en,1.0
 "Tuesday, October 28","Tuesday, October 28",DATE,,,en,1.0
 just a few days,just a few days,DATE,,,en,1.0
-3 Days,3 Days,DATE,,,en,1.0
-Hurricane Melissa Could Make,Hurricane Melissa Could Make,EVENT,,,en,1.0
-2.37 inches,2.37 inches,QUANTITY,,,en,1.0
-just a few decades,just a few decades,DATE,,,en,1.0
-20:35:16,20:35:16,TIME,,,en,1.0
-663,663,MONEY,,,en,1.0
-1922,1922,DATE,,,en,1.0
-76 centimeters,76 centimeters,QUANTITY,,,en,1.0
-Earlier this week,Earlier this week,DATE,,,en,1.0
-Oct. 26,Oct. 26,DATE,,,en,1.0
-Hurricane Priscilla,Hurricane Priscilla,EVENT,,,en,1.0
-at least 28,at least 28,CARDINAL,,,en,1.0
-Burmese,Burmese,NORP,,,en,1.0
-at least four,at least four,CARDINAL,,,en,1.0
-the Boca Raton Airport,the Boca Raton Airport,FAC,,,en,1.0
-At least 28,At least 28,CARDINAL,,,en,1.0
-HURRICANE MELISSA HISTORIC HIT FOR JAMACIA,HURRICANE MELISSA HISTORIC HIT FOR JAMACIA,LAW,,,en,1.0
-Early Monday,Early Monday,DATE,,,en,1.0
-Oct. 27,Oct. 27,DATE,,,en,1.0
-+4934,+4934,NORP,,,en,1.0
-Boca Raton Airport,Boca Raton Airport,FAC,,,en,1.0
-as of 7 a.m.,as of 7 a.m.,TIME,,,en,1.0
-"Monday, Oct. 27","Monday, Oct. 27",DATE,,,en,1.0
-hours,hours,TIME,,,en,1.0
-Pulitzer Prize,Pulitzer Prize,WORK_OF_ART,,,en,1.0
-+5552 chars,+5552 chars,WORK_OF_ART,,,en,1.0
-Tropical Tidbits,Tropical Tidbits,PRODUCT,,,en,1.0
-0.82%,0.82%,PERCENT,,,en,1.0
-+5759 chars,+5759 chars,WORK_OF_ART,,,en,1.0
-some 20,some 20,CARDINAL,,,en,1.0
-millions,millions,CARDINAL,,,en,1.0
-Tropical Storm Fengshen,Tropical Storm Fengshen,WORK_OF_ART,,,en,1.0
-"Oct. 12, 2025","Oct. 12, 2025",DATE,,,en,1.0
-At least 49,At least 49,CARDINAL,,,en,1.0
-"Saturday, Oct. 18","Saturday, Oct. 18",DATE,,,en,1.0
-+12783,+12783,NORP,,,en,1.0
-The Conversation,The Conversation,WORK_OF_ART,,,en,1.0
-Five,Five,CARDINAL,,,en,1.0
-At least five,At least five,CARDINAL,,,en,1.0
-+7724 chars,+7724 chars,WORK_OF_ART,,,en,1.0
-Kenyans,Kenyans,NORP,,,en,1.0
-237,237,CARDINAL,,,en,1.0
-Consent Framework,Consent Framework,WORK_OF_ART,,,en,1.0
-98,98,CARDINAL,,,en,1.0
-30%,30%,PERCENT,,,en,1.0
-the next 2 days,the next 2 days,DATE,,,en,1.0
-nearly half,nearly half,CARDINAL,,,en,1.0
-662,662,MONEY,,,en,1.0
-At least one,At least one,CARDINAL,,,en,1.0
-Oct. 11,Oct. 11,DATE,,,en,1.0
-the late night hours,the late night hours,TIME,,,en,1.0
-More than a thousand,More than a thousand,CARDINAL,,,en,1.0
-Alexie,Alexie,FAC,,,en,1.0
-"1,500","1,500",CARDINAL,,,en,1.0
-+4136 chars,+4136 chars,WORK_OF_ART,,,en,1.0
-"Thursday, Oct. 16","Thursday, Oct. 16",DATE,,,en,1.0
-+2852,+2852,NORP,,,en,1.0
-last weeks,last weeks,DATE,,,en,1.0
-Fifteen minutes,Fifteen minutes,TIME,,,en,1.0
-Alaskans,Alaskans,NORP,,,en,1.0
-last weekend,last weekend,DATE,,,en,1.0
-The summer of 2025,The summer of 2025,DATE,,,en,1.0
-"some 100,000","some 100,000",CARDINAL,,,en,1.0
-hundreds of miles,hundreds of miles,QUANTITY,,,en,1.0
-Late October,Late October,DATE,,,en,1.0
-60,60,CARDINAL,,,en,1.0
-51,51,CARDINAL,,,en,1.0
-One Day,One Day,DATE,,,en,1.0
-300,300,CARDINAL,,,en,1.0
-Typhoon Halongs,Typhoon Halongs,EVENT,,,en,1.0
-2025-10-17,2025-10-17,DATE,,,en,1.0
-up to 100 mph,up to 100 mph,QUANTITY,,,en,1.0
-the Yukon-Kuskokwim Delta,the Yukon-Kuskokwim Delta,FAC,0.0,0.0,en,1.0
-0.45%,0.45%,PERCENT,,,en,1.0
-several days last week,several days last week,DATE,,,en,1.0
-"Friday October 24, 2025","Friday October 24, 2025",DATE,,,en,1.0
-The Hurricane Season,The Hurricane Season,EVENT,,,en,1.0
-10 years ago,10 years ago,DATE,,,en,1.0
-Oct. 23,Oct. 23,DATE,,,en,1.0
-Oct.,Oct.,DATE,,,en,1.0
-a Tropical Storm Watch,a Tropical Storm Watch,PRODUCT,,,en,1.0
-a weekend,a weekend,DATE,,,en,1.0
-Monday afternoon,Monday afternoon,TIME,,,en,1.0
-At least 64,At least 64,CARDINAL,,,en,1.0
-Typhoon Rai,Typhoon Rai,EVENT,,,en,1.0
-early June 2023,early June 2023,DATE,,,en,1.0
-Two Feet,Two Feet,QUANTITY,,,en,1.0
-64,64,CARDINAL,,,en,1.0
-the end of the weekend,the end of the weekend,DATE,,,en,1.0
-the next several years',the next several years',DATE,,,en,1.0
-Southern Appalachians,Southern Appalachians,NORP,,,en,1.0
-+3323 chars,+3323 chars,WORK_OF_ART,,,en,1.0
-day,day,DATE,,,en,1.0
-the Blue Ridge Mountains,the Blue Ridge Mountains,FAC,,,en,1.0
-Southern,Southern,NORP,,,en,1.0
-Blue Ridge,Blue Ridge,FAC,,,en,1.0
-145-mph,145-mph,QUANTITY,,,en,1.0
-More than 30,More than 30,CARDINAL,,,en,1.0
-Almost 130,Almost 130,CARDINAL,,,en,1.0
-Flood Danger,Flood Danger,PRODUCT,,,en,1.0
-+3672,+3672,NORP,,,en,1.0
-2 billion,2 billion,CARDINAL,,,en,1.0
-last week’s,last week’s,DATE,,,en,1.0
-more than US$1.5 trillion,more than US$1.5 trillion,MONEY,,,en,1.0
-"more than 7,000","more than 7,000",CARDINAL,,,en,1.0
-more than US$1,more than US$1,MONEY,,,en,1.0
-Barebones Hurricane Lantern,Barebones Hurricane Lantern,EVENT,,,en,1.0
-a century,a century,DATE,,,en,1.0
-Barebones,Barebones,WORK_OF_ART,,,en,1.0
-Tuesday morning,Tuesday morning,TIME,,,en,1.0
-Mexican,Mexican,NORP,,,en,1.0
-Himalayan,Himalayan,NORP,,,en,1.0
-the late weekend,the late weekend,DATE,,,en,1.0
-about 600%,about 600%,PERCENT,,,en,1.0
-65,65,CARDINAL,,,en,1.0
-the end of the week,the end of the week,DATE,,,en,1.0
-October 22,October 22,DATE,,,en,1.0
-thirteenth,thirteenth,ORDINAL,,,en,1.0
-the next 24 to 48 hours,the next 24 to 48 hours,DATE,,,en,1.0
-Salt Typhoon,Salt Typhoon,FAC,0.13333333333333336,0.9866666666666667,en,1.0
-As Tropical Storm Melissa,As Tropical Storm Melissa,WORK_OF_ART,,,en,1.0
-this years,this years,DATE,,,en,1.0
 27 Oct 2025,27 Oct 2025,DATE,,,en,1.0
+23:54:02,23:54:02,TIME,,,en,1.0
 Mon,Mon,EVENT,,,en,1.0
-the week of Oct. 25,the week of Oct. 25,DATE,,,en,1.0
-Hurricane Melissa Show,Hurricane Melissa Show,EVENT,,,en,1.0
-$125M,$125M,MONEY,,,en,1.0
-Days,Days,DATE,,,en,1.0
-a day earlier,a day earlier,DATE,,,en,1.0
-Kingston Airport,Kingston Airport,FAC,,,en,1.0
-Hurricane Meli,Hurricane Meli,EVENT,,,en,1.0
-33%,33%,PERCENT,,,en,1.0
-the past few days,the past few days,DATE,,,en,1.0
-+3001 chars],+3001 chars],WORK_OF_ART,,,en,1.0
-#43 2025,#43 2025,MONEY,,,en,1.0
-Hourly Precipitation Intensities,Hourly Precipitation Intensities,WORK_OF_ART,,,en,1.0
-hourly,hourly,TIME,,,en,1.0
-30 October 2025,30 October 2025,DATE,,,en,1.0
-at least 25,at least 25,CARDINAL,,,en,1.0
-Hait,Hait,PRODUCT,,,en,1.0
-Hurricane Melissa​,Hurricane Melissa​,EVENT,,,en,1.0
-+4753 chars,+4753 chars,WORK_OF_ART,,,en,1.0
-2029,2029,DATE,,,en,1.0
-next season,next season,DATE,,,en,1.0
-more than 30,more than 30,CARDINAL,,,en,1.0
-Oct. 30,Oct. 30,DATE,,,en,1.0
-Copernicus Sentinel-2,Copernicus Sentinel-2,PRODUCT,,,en,1.0
-at least 23,at least 23,CARDINAL,,,en,1.0
-View Entire Post,View Entire Post,WORK_OF_ART,,,en,1.0
 21:22:33,21:22:33,TIME,,,en,1.0
-about 16 hours,about 16 hours,TIME,,,en,1.0
-Hurricane Melissa Plows,Hurricane Melissa Plows,EVENT,,,en,1.0
-late tomorrow,late tomorrow,TIME,,,en,1.0
-Cuban,Cuban,NORP,,,en,1.0
-"about 735,000","about 735,000",CARDINAL,,,en,1.0
-the end of,the end of,DATE,,,en,1.0
-the past year,the past year,DATE,,,en,1.0
-New Years,New Years,EVENT,,,en,1.0
-early Tuesday,early Tuesday,DATE,,,en,1.0
-the early afternoon,the early afternoon,TIME,,,en,1.0
-"early Wednesday, Oct. 29","early Wednesday, Oct. 29",DATE,,,en,1.0
-29 Oct 2025,29 Oct 2025,DATE,,,en,1.0
-15:01:51,15:01:51,TIME,,,en,1.0
-early this morning,early this morning,TIME,,,en,1.0
-a single day,a single day,DATE,,,en,1.0
-170mph,170mph,QUANTITY,,,en,1.0
-up to 185 miles per hour,up to 185 miles per hour,QUANTITY,,,en,1.0
-late morning,late morning,TIME,,,en,1.0
-the last two days,the last two days,DATE,,,en,1.0
-Summer 2025,Summer 2025,DATE,,,en,1.0
-+8350 chars,+8350 chars,WORK_OF_ART,,,en,1.0
-24,24,CARDINAL,,,en,1.0
-Hurricane Melissa Batters Island,Hurricane Melissa Batters Island,EVENT,,,en,1.0
-the 33rd consecutive year,the 33rd consecutive year,DATE,,,en,1.0
-just seven,just seven,CARDINAL,,,en,1.0
-"October 29, 2025","October 29, 2025",DATE,,,en,1.0
-2025-10-30,2025-10-30,DATE,,,en,1.0
-Argentine,Argentine,NORP,,,en,1.0
-Mexicans,Mexicans,NORP,,,en,1.0
-295km/h,295km/h,QUANTITY,,,en,1.0
-the end of November,the end of November,DATE,,,en,1.0
-+6111 chars,+6111 chars,WORK_OF_ART,,,en,1.0
-"Tuesday, Oct. 7","Tuesday, Oct. 7",DATE,,,en,1.0
-nearly 50,nearly 50,CARDINAL,,,en,1.0
-Oct. 7,Oct. 7,DATE,,,en,1.0
-the past month,the past month,DATE,,,en,1.0
-Typhoon Matmo,Typhoon Matmo,EVENT,0.25,0.6833333333333332,en,1.0
-At least 19,At least 19,CARDINAL,,,en,1.0
-"Fri, 31 Oct 2025","Fri, 31 Oct 2025",DATE,,,en,1.0
-Hurricane Melissa Death Toll Rises as Extent of Damage Emerges,Hurricane Melissa Death Toll Rises as Extent of Damage Emerges,EVENT,,,en,1.0
-TODAY,TODAY,DATE,,,en,1.0
-"Friday, Oct. 31","Friday, Oct. 31",DATE,,,en,1.0
-5 a.m.,5 a.m.,TIME,,,en,1.0
-E360,E360,PRODUCT,,,en,1.0
-Hurricane Vids Confuse,Hurricane Vids Confuse,EVENT,,,en,1.0
-the National Hurricane Ce,the National Hurricane Ce,EVENT,,,en,1.0
-North Street,North Street,FAC,,,en,1.0
-10th,10th,ORDINAL,,,en,1.0
-day 30,day 30,DATE,,,en,1.0
-1893,1893,DATE,,,en,1.0
-17:49:40,17:49:40,TIME,,,en,1.0
-Halloween,Halloween,DATE,,,en,1.0
-the Year Competition,the Year Competition,EVENT,,,en,1.0
-the Year 2025,the Year 2025,DATE,,,en,1.0
-Lugu Lake,Lugu Lake,FAC,,,en,1.0
-500 meters,500 meters,QUANTITY,,,en,1.0
-"about 1,315 m","about 1,315 m",QUANTITY,,,en,1.0
-Netflix,Netflix,PRODUCT,,,en,1.0
-the past two days,the past two days,DATE,,,en,1.0
-30 Oct 2025,30 Oct 2025,DATE,,,en,1.0
-15:22:47,15:22:47,TIME,,,en,1.0
-hundreds of years,hundreds of years,DATE,,,en,1.0
-English,English,LANGUAGE,,,en,1.0
-Over 70%,Over 70%,PERCENT,,,en,1.0
-Typhoon Halong Scatters Trove,Typhoon Halong Scatters Trove,EVENT,,,en,1.0
-Indigenous,Indigenous,NORP,,,en,1.0
-the 19th century,the 19th century,DATE,,,en,1.0
-Between May and early October,Between May and early October,DATE,,,en,1.0
-the weeks ahead,the weeks ahead,DATE,,,en,1.0
-nearly a month,nearly a month,DATE,,,en,1.0
-"up to 100,000","up to 100,000",CARDINAL,,,en,1.0
-last winter,last winter,DATE,,,en,1.0
-less than a day,less than a day,DATE,,,en,1.0
-210 km/h,210 km/h,QUANTITY,,,en,1.0
-East Asian,East Asian,NORP,,,en,1.0
-175 miles per hour,175 miles per hour,QUANTITY,,,en,1.0
-13 feet,13 feet,QUANTITY,,,en,1.0
-Over 100 Years,Over 100 Years,DATE,,,en,1.0
-+5103,+5103,CARDINAL,,,en,1.0
-Oct. 21,Oct. 21,DATE,,,en,1.0
-Netflix Documentary Has A,Netflix Documentary Has A,WORK_OF_ART,,,en,1.0
-The Scariest True Story You’ll Ever Watch,The Scariest True Story You’ll Ever Watch,WORK_OF_ART,,,en,1.0
-"Tuesday, Oct. 28","Tuesday, Oct. 28",DATE,,,en,1.0
-over 180 mph,over 180 mph,QUANTITY,,,en,1.0
-more than two feet,more than two feet,QUANTITY,,,en,1.0
-at least 500,at least 500,CARDINAL,,,en,1.0
-28 October,28 October,DATE,,,en,1.0
-Strongest Storm Approaches Jamaica,Strongest Storm Approaches Jamaica,WORK_OF_ART,,,en,1.0
-185 MPH Winds,185 MPH Winds,QUANTITY,,,en,1.0
-185 miles per hour,185 miles per hour,QUANTITY,,,en,1.0
-1990s,1990s,CARDINAL,,,en,1.0
-Hurricane Hunters,Hurricane Hunters,WORK_OF_ART,,,en,1.0
-+9688 chars,+9688 chars,WORK_OF_ART,,,en,1.0
-At least seven,At least seven,CARDINAL,,,en,1.0
-"over 360,000","over 360,000",CARDINAL,,,en,1.0
-Four,Four,CARDINAL,,,en,1.0
-1PM EDT,1PM EDT,TIME,,,en,1.0
-just hours,just hours,TIME,,,en,1.0
-404,404,CARDINAL,,,en,1.0
-Inside Hurricane Melissa’s Eye,Inside Hurricane Melissa’s Eye,WORK_OF_ART,,,en,1.0
-Tropical Tidbits Website,Tropical Tidbits Website,PRODUCT,,,en,1.0
-45 degrees,45 degrees,QUANTITY,,,en,1.0
 up to 175mph,up to 175mph,QUANTITY,,,en,1.0
 +214 chars,+214 chars,WORK_OF_ART,,,en,1.0
-"October 10, 2025","October 10, 2025",DATE,,,en,1.0
 At least three,At least three,CARDINAL,,,en,1.0
-this years hurricane season,this years hurricane season,DATE,,,en,1.0
 Strongest Storm in Recorded History Roars,Strongest Storm in Recorded History Roars,PRODUCT,,,en,1.0
-this year’s hurricane season,this year’s hurricane season,DATE,,,en,1.0
+Inside Hurricane Melissa’s Eye,Inside Hurricane Melissa’s Eye,WORK_OF_ART,,,en,1.0
 53rd,53rd,ORDINAL,,,en,1.0
-2019,2019,DATE,,,en,1.0
-Weather Reconnaissance Squadron,Weather Reconnaissance Squadron,EVENT,,,en,1.0
-"the ""Hurricane Hunters","the ""Hurricane Hunters",LAW,,,en,1.0
-the “Hurricane Hunters,the “Hurricane Hunters,LAW,,,en,1.0
-10/28/2025,10/28/2025,DATE,,,en,1.0
-Belgian,Belgian,NORP,,,en,1.0
-Hurricane Melissa Is The Strongest Storm On Earth,Hurricane Melissa Is The Strongest Storm On Earth,EVENT,,,en,1.0
-"October 28, 2025","October 28, 2025",DATE,,,en,1.0
-177,177,MONEY,,,en,1.0
-Katrina,Katrina,EVENT,0.25,0.3333333333333333,en,1.0
-1997,1997,DATE,,,en,1.0
-'Typhoon Family,'Typhoon Family,WORK_OF_ART,,,en,1.0
-titled How To Avoid a Climate Disaster,titled How To Avoid a Climate Disaster,WORK_OF_ART,,,en,1.0
-Kingston,Kingston,FAC,0.0,0.0,en,1.0
-the minute,the minute,TIME,,,en,1.0
-3.9m,3.9m,QUANTITY,,,en,1.0
-Thursday Oct. 9,Thursday Oct. 9,DATE,,,en,1.0
-as a third,as a third,CARDINAL,,,en,1.0
-Hurricane Melissa Rips Roof Off Hospital,Hurricane Melissa Rips Roof Off Hospital,EVENT,,,en,1.0
-the U.S.,the U.S.,FAC,,,en,1.0
-Japanese,Japanese,NORP,,,en,1.0
-Carribbean,Carribbean,NORP,,,en,1.0
-150mph,150mph,QUANTITY,,,en,1.0
-240km/h,240km/h,QUANTITY,,,en,1.0
-6 p.m,6 p.m,TIME,,,en,1.0
-"More than 530,000","More than 530,000",CARDINAL,,,en,1.0
-"about 15,000","about 15,000",CARDINAL,,,en,1.0
-Tuesday 5 p.m,Tuesday 5 p.m,DATE,,,en,1.0
-175 MPH,175 MPH,QUANTITY,,,en,1.0
-next week,next week,DATE,,,en,1.0
-as much as 75 centimetres,as much as 75 centimetres,QUANTITY,,,en,1.0
-+3134,+3134,NORP,,,en,1.0
-one year,one year,DATE,,,en,1.0
-a year ago,a year ago,DATE,,,en,1.0
-How To Avoid a Climate Disaster,How To Avoid a Climate Disaster,WORK_OF_ART,,,en,1.0
-3:30 p.m,3:30 p.m,TIME,,,en,1.0
-1:00 p.m.,1:00 p.m.,TIME,,,en,1.0
-this afternoon,this afternoon,TIME,,,en,1.0
-up to 175 miles,up to 175 miles,QUANTITY,,,en,1.0
-the hurricane center,the hurricane center,FAC,,,en,1.0
-295 kph,295 kph,QUANTITY,,,en,1.0
-"Nearly 30,000","Nearly 30,000",CARDINAL,,,en,1.0
-The Science of How Hurricane Melissa Became So Extreme,The Science of How Hurricane Melissa Became So Extreme,WORK_OF_ART,,,en,1.0
-At least 170,At least 170,CARDINAL,,,en,1.0
-892,892,CARDINAL,,,en,1.0
-185 miles,185 miles,QUANTITY,,,en,1.0
-298 kilometers,298 kilometers,QUANTITY,,,en,1.0
-Hurricane Melissa Is Set To Make Landfall,Hurricane Melissa Is Set To Make Landfall,EVENT,,,en,1.0
-17:53:59,17:53:59,TIME,,,en,1.0
-+2337 chars,+2337 chars,WORK_OF_ART,,,en,1.0
-Tue,Tue,PRODUCT,,,en,1.0
-15:22:18,15:22:18,TIME,,,en,1.0
-hurricane Melissa,hurricane Melissa,EVENT,,,en,1.0
-Hurricane Melissa Makes Catastrophic Landfall,Hurricane Melissa Makes Catastrophic Landfall,EVENT,,,en,1.0
-250 mph,250 mph,QUANTITY,,,en,1.0
-September 2025,September 2025,DATE,,,en,1.0
-more than a third,more than a third,CARDINAL,,,en,1.0
-three-quarters,three-quarters,CARDINAL,,,en,1.0
-Hurricane Melissa Images and Videos Show the Horrifying Power of Third,Hurricane Melissa Images and Videos Show the Horrifying Power of Third,EVENT,,,en,1.0
-Super Typhoon Ragasa,Super Typhoon Ragasa,FAC,,,en,1.0
+200m,200m,QUANTITY,,,en,1.0
