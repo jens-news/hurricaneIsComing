@@ -492,7 +492,7 @@ def getLatestFileAge():
 
 ts = int(time.time())
 currentMonths = []
-for m in range(100,200,20):
+for m in range(200,300,20):
   ##month = datetime.utcfromtimestamp(ts-60*60*24*m).strftime('%Y_%m')  
   month = datetime.datetime.fromtimestamp(ts-60*60*24*m).strftime('%Y_%m')
   if month not in currentMonths:
