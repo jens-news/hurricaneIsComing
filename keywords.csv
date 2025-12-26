@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.134978690357178
 'tropical cyclone',en,Hazard,#4287f5,#77731f,3,0.1307156904378899
-'hurricane season',en,Hazard,#4287f5,#d64118,3,0.1186712270618662
+'hurricane season',en,Hazard,#4287f5,#d64118,3,0.10462555300258627
 'hurricane climate change',en,Causes,#679e2c,#61d01c,3,0.0973227202311687
 'hurricane climate change',en,Causes,#3288e5,#638ed4,3,0.0973227202311687
 'hurricane',en,Hazard,#4287f5,#022f78,3,0.0966453410869488
 'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.0948110550374131
-'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.09187125045658133
+'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.0918712504565813
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.0876281701818868
 'hurricane evacuation',en,Mitigation,#a89216,#9e3215,2,0.0866231290484118
 'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.0855808418963387
