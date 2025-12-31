@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'tropical cyclone',en,Hazard,#4287f5,#77731f,3,0.1226004689684299
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.1094488095345534
+'tropical cyclone',en,Hazard,#4287f5,#77731f,3,0.1085627836231654
 'hurricane season',en,Hazard,#4287f5,#d64118,3,0.1069607784332776
 'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.0928286060675154
 'hurricane',en,Hazard,#4287f5,#022f78,3,0.0922041850963202
