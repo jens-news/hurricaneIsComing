@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.0682315843466343
 'hurricane warning',en,Mitigation,#a89216,#87830f,3,0.0663414292659741
 'hurricane alert',en,Mitigation,#a89216,#638ed4,2,0.0653841034204106
-'hurricane evacuation',en,Mitigation,#a89216,#9e3215,1,0.05877800167080817
-'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0320320089056185
+'hurricane evacuation',en,Mitigation,#a89216,#9e3215,1,0.0587780016708081
+'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.029777462569775724
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0250019657769463
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.008510645197063
