@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.0682315843466343
 'hurricane climate change',en,Causes,#679e2c,#61d01c,3,0.0678144567960573
 'hurricane climate change',en,Causes,#3288e5,#638ed4,3,0.0678144567960573
-'hurricane warning',en,Mitigation,#a89216,#87830f,3,0.0663414292659741
-'hurricane alert',en,Mitigation,#a89216,#638ed4,2,0.0653841034204106
-'hurricane evacuation',en,Mitigation,#a89216,#9e3215,2,0.0537117664201868
+'hurricane warning',en,Mitigation,#45a816,#87830f,3,0.0663414292659741
+'hurricane alert',en,Mitigation,#45a816,#638ed4,2,0.0653841034204106
+'hurricane evacuation',en,Mitigation,#45a816,#9e3215,2,0.0537117664201868
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0280111131843093
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0223017759104043
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.006148941154877975
