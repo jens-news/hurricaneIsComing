@@ -14,5 +14,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane warning',en,Mitigation,#45a816,#87830f,3,0.0602916848760779
 'hurricane evacuation',en,Mitigation,#45a816,#9e3215,1,0.0419950687385849
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0229160820256634
-'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.014946328094455364
+'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.013604468880287003
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.0032097857137284
