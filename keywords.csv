@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'tropical depression',en,Hazard,#4287f5,#315fa8,2,0.0704499475898872
 'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.0692746692005985
 'hurricane climate change',en,Causes,#679e2c,#61d01c,3,0.0678144567960573
-'hurricane alert',en,Mitigation,#45a816,#638ed4,2,0.06316366001261216
+'hurricane alert',en,Mitigation,#45a816,#638ed4,2,0.0631636600126121
 'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.0628365500614109
 'hurricane warning',en,Mitigation,#45a816,#87830f,3,0.0602916848760779
 'typhoon climate change',en,Causes,#9e3215,#f64118,2,0.0600117334721398
 'hurricane evacuation',en,Mitigation,#45a816,#9e3215,2,0.0294190822207208
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0284332247865104
-'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.013604468880287
+'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.012163858548243948
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.0028783328566691
