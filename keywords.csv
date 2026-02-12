@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane alert',en,Mitigation,#45a816,#638ed4,2,0.0557976902202232
 'hurricane warning',en,Mitigation,#45a816,#87830f,3,0.0546999271446662
 'tropical depression',en,Hazard,#4287f5,#315fa8,1,0.0530583149011393
-'typhoon climate change',en,Causes,#9e3215,#f64118,1,0.05232171168362098
-'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.0469723869166911
+'typhoon climate change',en,Causes,#9e3215,#f64118,1,0.0523217116836209
+'hurricane victims',en,Impacts,#c4b03b,#a89216,3,0.040827113879187436
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0307300059991596
 'hurricane evacuation',en,Mitigation,#45a816,#9e3215,2,0.0228452524563
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0086278703934402
