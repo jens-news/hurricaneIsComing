@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.0525640959112225
 'typhoon climate change',en,Causes,#9e3215,#f64118,1,0.0523217116836209
 'hurricane victims',en,Impacts,#c4b03b,#a89216,2,0.0374375991666017
-'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0307300059991596
+'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.026720565099285658
 'hurricane evacuation',en,Mitigation,#45a816,#9e3215,2,0.0199635683996767
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0050739717808156
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.001452203420305
