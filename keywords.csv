@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.0553320402311203
 'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.0525640959112225
 'tropical depression',en,Hazard,#4287f5,#315fa8,2,0.0494500476659683
-'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0366733808915986
 'typhoon climate change',en,Causes,#9e3215,#f64118,1,0.0360165731127036
 'hurricane victims',en,Impacts,#c4b03b,#a89216,2,0.0357225742916114
+'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.03162241875785881
 'hurricane evacuation',en,Mitigation,#45a816,#9e3215,1,0.0246242204187663
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0032244387573933
-'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.000758059261670495
+'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.0007580592616704
