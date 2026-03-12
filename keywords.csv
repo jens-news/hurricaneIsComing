@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.0537026800959676
 'hurricane climate change',en,Causes,#679e2c,#61d01c,3,0.0532708300313994
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.0516823323169843
-'tropical depression',en,Hazard,#4287f5,#315fa8,2,0.0494500476659683
+'tropical depression',en,Hazard,#4287f5,#315fa8,1,0.04203290051607305
 'typhoon climate change',en,Causes,#9e3215,#f64118,1,0.0360165731127036
 'hurricane victims',en,Impacts,#c4b03b,#a89216,2,0.0357225742916114
 'hurricane evacuation',en,Mitigation,#45a816,#9e3215,1,0.0246242204187663
