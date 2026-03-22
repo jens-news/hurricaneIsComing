@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'hurricane',en,Hazard,#4287f5,#022f78,3,0.0737192074657191
+'hurricane',en,Hazard,#4287f5,#022f78,3,0.07845096360392576
 'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.0687037435690013
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.0649915987768063
-'hurricane warning',en,Mitigation,#45a816,#87830f,3,0.06321489011202126
+'hurricane warning',en,Mitigation,#45a816,#87830f,3,0.0632148901120212
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.0595385666216679
 'tropical cyclone',en,Hazard,#4287f5,#77731f,2,0.0582268339521399
 'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.0551195611806848
