@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.1115436038922967
-'hurricane',en,Hazard,#4287f5,#022f78,3,0.1102901356959623
+'hurricane',en,Hazard,#4287f5,#022f78,3,0.10461767625065885
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.0965244660496064
-'hurricane evacuation',en,Mitigation,#45a816,#9e3215,1,0.06023403700255863
+'hurricane evacuation',en,Mitigation,#45a816,#9e3215,1,0.0602340370025586
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.0595385666216679
 'hurricane season',en,Hazard,#4287f5,#d64118,3,0.0594471952939275
 'tropical cyclone',en,Hazard,#4287f5,#77731f,2,0.0582268339521399
