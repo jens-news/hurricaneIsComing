@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'typhoon',en,Hazard,#4287f5,#4287f5,3,0.11524877323893962
-'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.0994640433084522
+'typhoon',en,Hazard,#4287f5,#4287f5,3,0.1152487732389396
+'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.08904625181218437
 'hurricane',en,Hazard,#4287f5,#022f78,3,0.0873577690911009
 'tropical cyclone',en,Hazard,#4287f5,#77731f,3,0.0721727365865916
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.0595385666216679
