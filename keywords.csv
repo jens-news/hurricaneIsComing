@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane',en,Hazard,#4287f5,#022f78,3,0.1036319010153732
-'typhoon',en,Hazard,#4287f5,#4287f5,3,0.0881672896922039
 'hurricane season',en,Hazard,#4287f5,#d64118,3,0.0865809986868205
 'tropical cyclone',en,Hazard,#4287f5,#77731f,3,0.0847153324082508
+'typhoon',en,Hazard,#4287f5,#4287f5,3,0.0795962462383733
 'hurricane warning',en,Mitigation,#45a816,#87830f,2,0.0665917046819927
 'hurricane death',en,Impacts,#c4b03b,#c4b03b,3,0.0642405991786869
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.060924206799259
@@ -15,4 +15,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0309100835897637
 'tropical depression',en,Hazard,#4287f5,#315fa8,1,0.0306226021337327
 'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0269439731800449
-'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,9.165352918413499e-05
+'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,9.1653529184135e-05
