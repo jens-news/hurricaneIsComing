@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'tropical depression',en,Hazard,#4287f5,#315fa8,3,0.36482777708105263
-'tropical cyclone',en,Hazard,#4287f5,#77731f,3,0.1648538596492157
+'tropical depression',en,Hazard,#4287f5,#315fa8,3,0.3648277770810526
+'tropical cyclone',en,Hazard,#4287f5,#77731f,3,0.19871592433819696
 'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.1249198732041629
 'hurricane season',en,Hazard,#4287f5,#d64118,3,0.1208576328880685
 'typhoon',en,Hazard,#4287f5,#4287f5,3,0.101531037582159
