@@ -14,5 +14,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane climate change',en,Causes,#679e2c,#61d01c,3,0.043692046002205
 'hurricane victims',en,Impacts,#c4b03b,#a89216,2,0.0310044263166241
 'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,2,0.0191579345817448
-'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0063524312625564345
-'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,3.45670841371183e-05
+'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0063524312625564
+'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.00017939702151655056
