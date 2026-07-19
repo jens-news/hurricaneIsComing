@@ -13,6 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'hurricane alert',en,Mitigation,#45a816,#638ed4,2,0.0439730527056358
 'hurricane evacuation',en,Mitigation,#45a816,#9e3215,2,0.0430776414659525
 'hurricane victims',en,Impacts,#c4b03b,#a89216,1,0.0237934907741385
-'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.014363553015636814
-'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.0050172020871969
+'hurricane sea surface temperature',en,Causes,#679e2c,#61b00c,1,0.0143635530156368
+'typhoon sea surface temperature',en,Causes,#679e2c,#7db344,1,0.004564666774117364
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.0004960857833387
