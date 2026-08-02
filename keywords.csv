@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.0601536881280055
 'hurricane evacuation',en,Mitigation,#45a816,#9e3215,2,0.0597847710367368
 'typhoon climate change',en,Causes,#9e3215,#f64118,1,0.054500146458106
-'hurricane climate change',en,Causes,#679e2c,#61d01c,3,0.0503905004424084
+'hurricane climate change',en,Causes,#679e2c,#61d01c,3,0.05185539394747571
 'hurricane alert',en,Mitigation,#45a816,#638ed4,2,0.0439730527056358
 'hurricane victims',en,Impacts,#c4b03b,#a89216,2,0.0277408568375768
 'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.0222619864288137
