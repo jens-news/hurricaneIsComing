@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'flooding tropical',en,Impacts,#c4b03b,#b55035,3,0.176196341663723
 'hurricane warning',en,Mitigation,#45a816,#87830f,3,0.16096373638336
 'hurricane',en,Hazard,#4287f5,#022f78,3,0.1321217002138139
-'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.1254562833148397
 'hurricane season',en,Hazard,#4287f5,#d64118,3,0.1238170454309847
+'hurricane intertropical convergence zone',en,Causes,#679e2c,#679e2c,1,0.10693787081761376
 'storm surge',en,Hazard,#4287f5,#802d16,3,0.0901538999088046
 'hurricane evacuation',en,Mitigation,#45a816,#9e3215,2,0.0898215814981188
 'hurricane alert',en,Mitigation,#45a816,#638ed4,3,0.0811207247682517
