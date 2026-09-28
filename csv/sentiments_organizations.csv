@@ -1011,7 +1011,7 @@ Cotality,Cotality,ORG,0.5,0.0,en,1.0
 the Buffalo Bills',the Buffalo Bills',ORG,0.06818181818181818,0.0,en,1.0
 FOX News Media's,FOX News Media's,ORG,0.17752525252525253,0.0,en,1.0
 Atlantas NPR,Atlantas NPR,ORG,0.0,0.0,en,1.0
-Corduroy Plants,Corduroy Plants,ORG,0.14727272727272728,0.0,en,1.0
+Tanagra,Tanagra,ORG,-0.025,0.0,en,1.0
 Florida Land Development at IDEAS Conference,Florida Land Development at IDEAS Conference,ORG,0.0,0.0,en,1.0
 Mother Jones Daily,Mother Jones Daily,ORG,0.2,0.0,en,1.0
 HUD,HUD,ORG,-0.1,0.0,en,1.0
@@ -1030,7 +1030,7 @@ the US National Hurricane Cent,the US National Hurricane Cent,ORG,0.4,0.0,en,1.0
 the Department of Housing and Urban Development,the Department of Housing and Urban Development,ORG,0.08333333333333333,0.0,en,1.0
 "State Key Laboratory of Earth System Numerical Modeling and Application, Institute of Atmospheric Physics","State Key Laboratory of Earth System Numerical Modeling and Application, Institute of Atmospheric Physics",ORG,0.0,0.0,en,1.0
 ProtoThema,ProtoThema,ORG,0.22321428571428573,0.0,en,1.0
-Tanagra,Tanagra,ORG,-0.025,0.0,en,1.0
+Corduroy Plants,Corduroy Plants,ORG,0.14727272727272728,0.0,en,1.0
 Bleeding Cool,Bleeding Cool,ORG,0.3,0.0,en,1.0
 Alico Maps Shift From Citrus,Alico Maps Shift From Citrus,ORG,0.0,0.0,en,1.0
 LOLtron,LOLtron,ORG,0.3,0.0,en,1.0
@@ -1241,10 +1241,10 @@ NEWS",ORG,0.3333333333333333,0.0,en,1.0
 Inalåhan,Inalåhan,ORG,0.3333333333333333,0.0,en,1.0
 Performance Monitoring Team Detachment Guam,Performance Monitoring Team Detachment Guam,ORG,0.3333333333333333,0.0,en,1.0
 Other Pacific U.S. TerritoriesThe,Other Pacific U.S. TerritoriesThe,ORG,0.17672558922558923,0.0,en,1.0
-the Angeles National Forest,the Angeles National Forest,ORG,0.0,0.0,en,1.0
 "Advanced
 Precision Ki","Advanced
 Precision Ki",ORG,0.30000000000000004,0.0,en,1.0
+the Angeles National Forest,the Angeles National Forest,ORG,0.0,0.0,en,1.0
 Videos Hawaii,Videos Hawaii,ORG,0.12333333333333334,0.0,en,1.0
 Virginia Tech,Virginia Tech,ORG,-0.3,0.0,en,1.0
 ECU,ECU,ORG,0.325,0.0,en,1.0
@@ -2368,7 +2368,7 @@ Avoid Coastal Strike,Avoid Coastal Strike,ORG,0.0,0.0,en,1.0
 Param,Param,ORG,0.5,0.0,en,1.0
 Paramount Pictures,Paramount Pictures,ORG,1.0,0.7,en,1.0
 ne,ne,ORG,0.0,0.0,en,1.0
-FREIDA,FREIDA,ORG,0.025,0.2333333333333333,en,1.0
+FREIDA,FREIDA,ORG,0.025,0.075,en,1.0
 the nations preeminent research center,the nations preeminent research center,ORG,0.05,0.0,en,1.0
 the Hoover Institution,the Hoover Institution,ORG,0.05,0.0,en,1.0
 Stanford University,Stanford University,ORG,0.05,0.0,en,1.0
@@ -2502,8 +2502,8 @@ the Royal Meteorological Society,the Royal Meteorological Society,ORG,0.32,0.0,e
 Strength And Climate Truth Shine After Hurricane Melissa,Strength And Climate Truth Shine After Hurricane Melissa,ORG,0.0,0.0,en,1.0
 The United Nations General Assembly,The United Nations General Assembly,ORG,0.55,0.75,en,1.0
 "the Portuguese Cluster for Aeronautics, Space and Defence Industries","the Portuguese Cluster for Aeronautics, Space and Defence Industries",ORG,0.0,0.0,en,1.0
-the European Union's,the European Union's,ORG,0.04,0.0,en,1.0
 UNOCHA,UNOCHA,ORG,0.0,0.0,en,1.0
+the European Union's,the European Union's,ORG,0.04,0.0,en,1.0
 timehave,timehave,ORG,0.09166666666666667,0.0,en,1.0
 oftensignificantly,oftensignificantly,ORG,0.09166666666666667,0.0,en,1.0
 anyo,anyo,ORG,0.09166666666666667,0.0,en,1.0
