@@ -220,22 +220,22 @@ Hurricane Fausto,Hurricane Fausto,EVENT,,,en,8.200000000000001
 seasons,seasons,DATE,,,en,8.200000000000001
 just weeks,just weeks,DATE,,,en,8.100000000000001
 Atlantic Hurricane Season,Atlantic Hurricane Season,EVENT,,,en,8.100000000000001
-two weeks,two weeks,DATE,,,en,8.0
+this summer,this summer,DATE,,,en,8.0
 Russian,Russian,NORP,,,en,8.0
 74,74,DATE,,,en,8.0
-the next week,the next week,DATE,,,en,8.0
-this summer,this summer,DATE,,,en,8.0
 "as many as 630,000","as many as 630,000",CARDINAL,,,en,8.0
+the next week,the next week,DATE,,,en,8.0
+two weeks,two weeks,DATE,,,en,8.0
 Tropical Storm,Tropical Storm,WORK_OF_ART,0.09113117784992789,0.9882381854256854,en,7.900000000000001
-Hurricane Kirk,Hurricane Kirk,EVENT,,,en,7.800000000000002
 at least six,at least six,CARDINAL,,,en,7.800000000000002
+Hurricane Kirk,Hurricane Kirk,EVENT,,,en,7.800000000000002
 120 mph,120 mph,QUANTITY,,,en,7.800000000000001
 the previous day,the previous day,DATE,,,en,7.800000000000001
+Lithuanian,Lithuanian,NORP,,,en,7.700000000000001
 last month,last month,DATE,,,en,7.700000000000001
 October 2023,October 2023,DATE,,,en,7.700000000000001
-Lithuanian,Lithuanian,NORP,,,en,7.700000000000001
-2nd,2nd,ORDINAL,,,en,7.7
 70 mph,70 mph,QUANTITY,,,en,7.7
+2nd,2nd,ORDINAL,,,en,7.7
 Tropical Storm Edouard,Tropical Storm Edouard,WORK_OF_ART,-0.20393518518518525,0.983101851851852,en,7.500000000000001
 Hurricane Humberto,Hurricane Humberto,EVENT,,,en,7.500000000000001
 Super Typhoon,Super Typhoon,QUANTITY,,,en,7.500000000000001
@@ -257,16 +257,16 @@ Hurricane Ian,Hurricane Ian,EVENT,,,en,7.000000000000001
 249,249,CARDINAL,,,en,7.000000000000001
 Republicans,Republicans,NORP,,,en,7.000000000000001
 180 mph,180 mph,QUANTITY,,,en,7.000000000000001
-the season,the season,DATE,,,en,7.0
 more than 100,more than 100,CARDINAL,,,en,7.0
+the season,the season,DATE,,,en,7.0
 Week,Week,DATE,,,en,6.900000000000001
 the next 24 hours,the next 24 hours,TIME,,,en,6.900000000000001
-27,27,CARDINAL,,,en,6.9
 Tropical Storm Ophelia,Tropical Storm Ophelia,PRODUCT,,,en,6.9
-Hurricane Sandy,Hurricane Sandy,FAC,-0.16169762137504076,0.807184750733138,en,6.800000000000001
+27,27,CARDINAL,,,en,6.9
+Tropical Storm Lala,Tropical Storm Lala,WORK_OF_ART,,,en,6.800000000000001
 Hurricane Marie,Hurricane Marie,EVENT,,,en,6.800000000000001
 hundreds of miles,hundreds of miles,QUANTITY,,,en,6.800000000000001
-Tropical Storm Lala,Tropical Storm Lala,WORK_OF_ART,,,en,6.800000000000001
+Hurricane Sandy,Hurricane Sandy,FAC,-0.16169762137504076,0.807184750733138,en,6.800000000000001
 Last month,Last month,DATE,,,en,6.8
 the next day,the next day,DATE,,,en,6.7
 more than 200,more than 200,CARDINAL,,,en,6.7
@@ -274,21 +274,21 @@ more than 200,more than 200,CARDINAL,,,en,6.7
 eighth,eighth,ORDINAL,,,en,6.6000000000000005
 the coming months,the coming months,DATE,,,en,6.6
 Wednesday morning,Wednesday morning,TIME,,,en,6.500000000000001
-2015,2015,DATE,,,en,6.500000000000001
-250,250,CARDINAL,,,en,6.500000000000001
-240,240,CARDINAL,,,en,6.500000000000001
 Hurricane Genevieve,Hurricane Genevieve,EVENT,,,en,6.500000000000001
+250,250,CARDINAL,,,en,6.500000000000001
 month,month,DATE,,,en,6.500000000000001
 36 hours,36 hours,TIME,,,en,6.500000000000001
+240,240,CARDINAL,,,en,6.500000000000001
+2015,2015,DATE,,,en,6.500000000000001
 Tens of thousands,Tens of thousands,CARDINAL,,,en,6.5
+2012,2012,DATE,,,en,6.4
+Saharan,Saharan,NORP,,,en,6.4
 the end of the week,the end of the week,DATE,,,en,6.4
 25,25,CARDINAL,,,en,6.4
-Saharan,Saharan,NORP,,,en,6.4
-2012,2012,DATE,,,en,6.4
 Season 1,Season 1,DATE,,,en,6.300000000000001
 at least 18,at least 18,CARDINAL,,,en,6.3
-September,September,DATE,,,en,6.2
 only one,only one,CARDINAL,,,en,6.2
+September,September,DATE,,,en,6.2
 the days,the days,DATE,,,en,6.2
 30 years,30 years,DATE,,,en,6.199999999999999
 a day,a day,DATE,,,en,6.1000000000000005
@@ -1167,7 +1167,7 @@ at least 241,at least 241,CARDINAL,,,en,1.9
 "3,349","3,349",CARDINAL,,,en,1.9
 3000 yr,3000 yr,DATE,,,en,1.9
 CBS Mornings,CBS Mornings,WORK_OF_ART,,,en,1.9
-the last 74 years,the last 74 years,DATE,,,en,1.9
+251,251,CARDINAL,,,en,1.9
 Hurricane Florence,Hurricane Florence,EVENT,0.32380952380952377,0.6071428571428572,en,1.9
 multimillion-dollar,multimillion-dollar,MONEY,,,en,1.9
 Just weeks,Just weeks,DATE,,,en,1.9
@@ -1176,9 +1176,9 @@ Just weeks,Just weeks,DATE,,,en,1.9
 "Aug 15, 2026","Aug 15, 2026",DATE,,,en,1.9
 Typhoon Fung-wong's,Typhoon Fung-wong's,EVENT,,,en,1.9
 at least 15,at least 15,CARDINAL,,,en,1.9
-205 kmph,205 kmph,QUANTITY,,,en,1.9
 the summer months,the summer months,DATE,,,en,1.9
-251,251,CARDINAL,,,en,1.9
+205 kmph,205 kmph,QUANTITY,,,en,1.9
+the last 74 years,the last 74 years,DATE,,,en,1.9
 Typhoon Inday,Typhoon Inday,EVENT,0.0050000000000000044,0.47,en,1.9
 season 2026,season 2026,DATE,,,en,1.9
 "22,236 miles","22,236 miles",QUANTITY,,,en,1.9
@@ -1240,13 +1240,13 @@ The first month of the,The first month of the,DATE,,,en,1.9
 "This Wednesday, Sept. 6, 2023","This Wednesday, Sept. 6, 2023",DATE,,,en,1.9
 minutes,minutes,TIME,,,en,1.9
 76 centimetres,76 centimetres,QUANTITY,,,en,1.9
-less than one month,less than one month,DATE,,,en,1.9
+1944,1944,DATE,,,en,1.9
 Norma,Norma,FAC,,,en,1.9
 240 kilometers,240 kilometers,QUANTITY,,,en,1.9
-two decades,two decades,DATE,,,en,1.9
 140 mph,140 mph,QUANTITY,,,en,1.9
 Typhoon Maysak,Typhoon Maysak,NORP,1.0,1.0,en,1.9
-1944,1944,DATE,,,en,1.9
+less than one month,less than one month,DATE,,,en,1.9
+two decades,two decades,DATE,,,en,1.9
 173mph,173mph,QUANTITY,,,en,1.9
 3.0m,3.0m,QUANTITY,,,en,1.9
 160mph,160mph,QUANTITY,,,en,1.9
@@ -1261,8 +1261,8 @@ June 26,June 26,DATE,,,en,1.8
 nearly a month,nearly a month,DATE,,,en,1.8
 Torrential,Torrential,WORK_OF_ART,0.22962962962962963,0.525925925925926,en,1.8
 303,303,CARDINAL,,,en,1.8
-12%,12%,PERCENT,,,en,1.8
 Sri Lankan,Sri Lankan,NORP,,,en,1.8
+12%,12%,PERCENT,,,en,1.8
 up to 10%,up to 10%,PERCENT,,,en,1.8
 the Labor Day weekend,the Labor Day weekend,DATE,,,en,1.8
 618,618,CARDINAL,,,en,1.8
@@ -1272,13 +1272,13 @@ eight straight months through October,eight straight months through October,DATE
 90 degree,90 degree,QUANTITY,,,en,1.8
 up to 10 inches,up to 10 inches,QUANTITY,,,en,1.8
 Halloween,Halloween,DATE,,,en,1.8
-about $36 billion,about $36 billion,MONEY,,,en,1.8
-at least 39,at least 39,CARDINAL,,,en,1.8
 Nov. 26,Nov. 26,DATE,,,en,1.8
-20%,20%,PERCENT,,,en,1.8
+at least 39,at least 39,CARDINAL,,,en,1.8
 this upcoming weekend,this upcoming weekend,DATE,,,en,1.8
+20%,20%,PERCENT,,,en,1.8
 September 2021,September 2021,DATE,,,en,1.8
 nearly a century,nearly a century,DATE,,,en,1.8
+about $36 billion,about $36 billion,MONEY,,,en,1.8
 the 13th,the 13th,DATE,,,en,1.8
 Cubans,Cubans,NORP,,,en,1.7000000000000002
 early March 2026,early March 2026,DATE,,,en,1.7
@@ -1287,8 +1287,8 @@ Hurricane Oscar's,Hurricane Oscar's,EVENT,,,en,1.7
 "Jan. 09, 2026 (GLOBE NEWSWIRE","Jan. 09, 2026 (GLOBE NEWSWIRE",DATE,,,en,1.7
 the Hard Rock Stadium,the Hard Rock Stadium,FAC,,,en,1.7
 This weekend,This weekend,DATE,,,en,1.7
-series,series,EVENT,,,en,1.7
 At least 52,At least 52,CARDINAL,,,en,1.7
+10 February,10 February,DATE,,,en,1.7
 Golden Hurricane -11.5,Golden Hurricane -11.5,EVENT,,,en,1.7
 Hurricane Miltion,Hurricane Miltion,EVENT,,,en,1.7
 Tuxedo Park,Tuxedo Park,FAC,,,en,1.7
@@ -1296,11 +1296,11 @@ superfans,superfans,NORP,,,en,1.7
 Grand Wagoneer L Series III,Grand Wagoneer L Series III,PRODUCT,,,en,1.7
 "1,800","1,800",CARDINAL,,,en,1.7
 Oct. 11,Oct. 11,DATE,,,en,1.7
-"Jan. 16, 2026","Jan. 16, 2026",DATE,,,en,1.7
-10 February,10 February,DATE,,,en,1.7
+the Washington Capitals,the Washington Capitals,FAC,,,en,1.7
+series,series,EVENT,,,en,1.7
 the new year,the new year,DATE,,,en,1.7
 167mph,167mph,QUANTITY,,,en,1.7
-a forgettable weekend,a forgettable weekend,DATE,,,en,1.7
+1998,1998,DATE,,,en,1.7
 Hurricane Point,Hurricane Point,FAC,,,en,1.7
 one week,one week,DATE,,,en,1.7
 59,59,CARDINAL,,,en,1.7
@@ -1309,8 +1309,8 @@ Late last year,Late last year,DATE,,,en,1.7
 2025 season,2025 season,DATE,,,en,1.7
 Highway 1,Highway 1,FAC,,,en,1.7
 more than 120 miles per hour,more than 120 miles per hour,QUANTITY,,,en,1.7
-1998,1998,DATE,,,en,1.7
 "Roughly 460,000","Roughly 460,000",CARDINAL,,,en,1.7
+"January 20, 2026","January 20, 2026",DATE,,,en,1.7
 a dark night,a dark night,TIME,,,en,1.7
 Season 22,Season 22,DATE,,,en,1.7
 £205 million,£205 million,MONEY,,,en,1.7
@@ -1319,21 +1319,21 @@ Feb 16,Feb 16,DATE,,,en,1.7
 21 years,21 years,DATE,,,en,1.7
 the first quarter,the first quarter,DATE,,,en,1.7
 Painful Wedgie”,Painful Wedgie”,WORK_OF_ART,,,en,1.7
-"January 20, 2026","January 20, 2026",DATE,,,en,1.7
-the Washington Capitals,the Washington Capitals,FAC,,,en,1.7
+a forgettable weekend,a forgettable weekend,DATE,,,en,1.7
 October 9,October 9,DATE,,,en,1.7
 "Oct. 17, 2024 (GLOBE NEWSWIRE)","Oct. 17, 2024 (GLOBE NEWSWIRE)",DATE,,,en,1.7
-Walt Disney World Resort,Walt Disney World Resort,FAC,,,en,1.7
+"more than 16,000","more than 16,000",CARDINAL,,,en,1.7
+Miami Hurricanes,Miami Hurricanes,EVENT,0.23148148148148145,0.24691358024691354,en,1.7
 185 km/h,185 km/h,QUANTITY,,,en,1.7
 1.8-liter,1.8-liter,CARDINAL,,,en,1.7
 41k miles,41k miles,QUANTITY,,,en,1.7
 $2 billion,$2 billion,MONEY,,,en,1.7
-a Burgundy Blaze,a Burgundy Blaze,WORK_OF_ART,,,en,1.7
+Hurricanes Are Coming After Milton,Hurricanes Are Coming After Milton,WORK_OF_ART,,,en,1.7
 64,64,CARDINAL,,,en,1.7
 the fourth quarter,the fourth quarter,DATE,,,en,1.7
 3.0,3.0,CARDINAL,,,en,1.7
-"more than 16,000","more than 16,000",CARDINAL,,,en,1.7
 at least 14,at least 14,CARDINAL,,,en,1.7
+Thursday night,Thursday night,TIME,,,en,1.7
 mid-1997,mid-1997,DATE,,,en,1.7
 +4852,+4852,NORP,,,en,1.7
 more than 2 million,more than 2 million,CARDINAL,,,en,1.7
@@ -1343,29 +1343,29 @@ more than 2 million,more than 2 million,CARDINAL,,,en,1.7
 Typhoon Maroon,Typhoon Maroon,FAC,,,en,1.7
 Hurricanes,Hurricanes,WORK_OF_ART,0.031081081081081104,0.06351351351351356,en,1.7
 New Year’s Eve,New Year’s Eve,EVENT,,,en,1.7
-Miami Hurricanes,Miami Hurricanes,EVENT,0.23148148148148145,0.24691358024691354,en,1.7
+Walt Disney World Resort,Walt Disney World Resort,FAC,,,en,1.7
 October 18 and 19,October 18 and 19,DATE,,,en,1.7
-Thursday night,Thursday night,TIME,,,en,1.7
-Hurricanes Are Coming After Milton,Hurricanes Are Coming After Milton,WORK_OF_ART,,,en,1.7
+a Burgundy Blaze,a Burgundy Blaze,WORK_OF_ART,,,en,1.7
+"Oct. 16, 2024 (GLOBE NEWSWIRE) --","Oct. 16, 2024 (GLOBE NEWSWIRE) --",DATE,,,en,1.7
 the last few weeks,the last few weeks,DATE,,,en,1.7
+"Jan. 16, 2026","Jan. 16, 2026",DATE,,,en,1.7
 Carolina Comeback:,Carolina Comeback:,WORK_OF_ART,,,en,1.7
 more than $600 million,more than $600 million,MONEY,,,en,1.7
 December 1944,December 1944,DATE,,,en,1.7
 as much as 15 feet,as much as 15 feet,QUANTITY,,,en,1.7
 the Sunshine State,the Sunshine State,FAC,-0.005291005291005291,0.14074074074074072,en,1.7
 Olympics,Olympics,EVENT,,,en,1.7
-+87 chars],+87 chars],WORK_OF_ART,,,en,1.7
+October 2024,October 2024,DATE,,,en,1.7
 three weeks,three weeks,DATE,,,en,1.7
 +4049,+4049,NORP,,,en,1.7
-October 2024,October 2024,DATE,,,en,1.7
+October of 2024,October of 2024,DATE,,,en,1.7
 Snow Hurricane’ Energy Reality Check:,Snow Hurricane’ Energy Reality Check:,WORK_OF_ART,,,en,1.7
 "nearly 400,000","nearly 400,000",CARDINAL,,,en,1.7
-October of 2024,October of 2024,DATE,,,en,1.7
 7k miles,7k miles,QUANTITY,,,en,1.7
-75th,75th,ORDINAL,,,en,1.7
++87 chars],+87 chars],WORK_OF_ART,,,en,1.7
 Voyager,Voyager,PRODUCT,,,en,1.7
+75th,75th,ORDINAL,,,en,1.7
 recent months,recent months,DATE,,,en,1.7
-"Oct. 16, 2024 (GLOBE NEWSWIRE) --","Oct. 16, 2024 (GLOBE NEWSWIRE) --",DATE,,,en,1.7
 Qt 6,Qt 6,PRODUCT,,,en,1.7
 20 miles,20 miles,QUANTITY,,,en,1.7
 "Tuesday, Oct. 22, 2024","Tuesday, Oct. 22, 2024",DATE,,,en,1.7
@@ -1374,13 +1374,13 @@ April 23,April 23,DATE,,,en,1.7
 Typhoon Chinese,Typhoon Chinese,NORP,,,en,1.7
 Biden-era,Biden-era,DATE,,,en,1.7
 Tornado Season,Tornado Season,EVENT,,,en,1.7
-10pm,10pm,TIME,,,en,1.7
 Proud Boys and Oath Keepers,Proud Boys and Oath Keepers,WORK_OF_ART,,,en,1.7
 the hottest March,the hottest March,DATE,,,en,1.7
 Talks04,Talks04,LANGUAGE,,,en,1.7
 "50,000","50,000",CARDINAL,,,en,1.7
 around two years ago,around two years ago,DATE,,,en,1.7
 between 1957 and 1962,between 1957 and 1962,DATE,,,en,1.7
+10pm,10pm,TIME,,,en,1.7
 Hurricane Erin Threatens,Hurricane Erin Threatens,EVENT,,,en,1.7
 an estimated 400,an estimated 400,CARDINAL,,,en,1.7
 75 kilometres per hour,75 kilometres per hour,QUANTITY,,,en,1.7
@@ -3133,7 +3133,7 @@ tenth,tenth,ORDINAL,,,en,1.0
 May 2006,May 2006,DATE,,,en,1.0
 5k-Mile,5k-Mile,QUANTITY,,,en,1.0
 age 71,age 71,DATE,,,en,1.0
-+2823 chars,+2823 chars,WORK_OF_ART,,,en,1.0
+Hurricane Season Starts Before the Storm: How Florida Homeowners Can Prepare Now,Hurricane Season Starts Before the Storm: How Florida Homeowners Can Prepare Now,EVENT,,,en,1.0
 up to 260km/h,up to 260km/h,QUANTITY,,,en,1.0
 "5,700km","5,700km",QUANTITY,,,en,1.0
 Hurricane Katrina: Are Insurers Ready,Hurricane Katrina: Are Insurers Ready,EVENT,,,en,1.0
@@ -3157,7 +3157,7 @@ Last year,Last year,DATE,,,en,1.0
 "July 14, 2026 (GLOBE NEWSWIRE) --","July 14, 2026 (GLOBE NEWSWIRE) --",DATE,,,en,1.0
 "more than 260,000","more than 260,000",CARDINAL,,,en,1.0
 June 8,June 8,DATE,,,en,1.0
-Hurricane Season Starts Before the Storm: How Florida Homeowners Can Prepare Now,Hurricane Season Starts Before the Storm: How Florida Homeowners Can Prepare Now,EVENT,,,en,1.0
++2823 chars,+2823 chars,WORK_OF_ART,,,en,1.0
 March 16,March 16,DATE,,,en,1.0
 May 21,May 21,DATE,,,en,1.0
 "1,000km","1,000km",QUANTITY,,,en,1.0
@@ -4031,9 +4031,9 @@ October Rain,October Rain,WORK_OF_ART,,,en,1.0
 as much as 3.5%,as much as 3.5%,PERCENT,,,en,1.0
 +23910,+23910,NORP,,,en,1.0
 3.01,3.01,MONEY,,,en,1.0
++5685 chars,+5685 chars,WORK_OF_ART,,,en,1.0
 year',year',DATE,,,en,1.0
 +3691,+3691,NORP,,,en,1.0
-+5685 chars,+5685 chars,WORK_OF_ART,,,en,1.0
 Autumn,Autumn,DATE,,,en,1.0
 Ex-Tropical Cyclone Megan,Ex-Tropical Cyclone Megan,PRODUCT,,,en,1.0
 fourth month,fourth month,DATE,,,en,1.0
@@ -4756,8 +4756,8 @@ Hurricane Erin Strengthens Near,Hurricane Erin Strengthens Near,EVENT,,,en,1.0
 Grab,Grab,PRODUCT,,,en,1.0
 Hurricane Erin Growing In Size,Hurricane Erin Growing In Size,EVENT,,,en,1.0
 the week ahead,the week ahead,DATE,,,en,1.0
-up to 8 inches,up to 8 inches,QUANTITY,,,en,1.0
 Categor,Categor,WORK_OF_ART,,,en,1.0
+up to 8 inches,up to 8 inches,QUANTITY,,,en,1.0
 Looming Hurricane,Looming Hurricane,EVENT,,,en,1.0
 the next several days,the next several days,DATE,,,en,1.0
 early October 2024,early October 2024,DATE,,,en,1.0

@@ -314,7 +314,7 @@ ANSA,ANSA,ORG,0.0,0.0,en,2.5999999999999996
 the Gold Coast,the Gold Coast,ORG,0.03685897435897436,0.24038461538461542,en,2.5999999999999996
 Super Typhoon Doksuri,Super Typhoon Doksuri,ORG,0.2916666666666667,0.4123263888888889,en,2.4
 Allegiant Air,Allegiant Air,ORG,0.026041666666666668,0.20833333333333334,en,2.4
-UCF,UCF,ORG,-0.22222222222222224,0.2361111111111111,en,2.4
+ADF,ADF,ORG,0.0,0.0,en,2.4
 Lumen,Lumen,ORG,0.009523809523809523,0.455952380952381,en,2.4
 UAB,UAB,ORG,0.25,0.20833333333333334,en,2.4
 Forbes Daily,Forbes Daily,ORG,0.052083333333333336,0.125,en,2.4
@@ -330,7 +330,7 @@ Enhanced Air Policing,Enhanced Air Policing,ORG,-0.5000000000000001,0.4166666666
 Europa Clipper,Europa Clipper,ORG,0.0740740740740741,0.4282407407407407,en,2.4
 Margot,Margot,ORG,0.0,0.16666666666666669,en,2.4
 Hurricane Margot Graphics,Hurricane Margot Graphics,ORG,0.0,0.0,en,2.4
-ADF,ADF,ORG,0.0,0.0,en,2.4
+UCF,UCF,ORG,-0.22222222222222224,0.2361111111111111,en,2.4
 the Miami Hurricanes,the Miami Hurricanes,ORG,0.0,0.0,en,2.4
 Kanye West,Kanye West,ORG,0.041666666666666685,0.04166666666666667,en,2.4
 Florida Realtors,Florida Realtors,ORG,0.08333333333333334,0.12500000000000003,en,2.4
@@ -609,7 +609,7 @@ National Meteorological Centre,National Meteorological Centre,ORG,-0.05882352941
 The UK Government,The UK Government,ORG,0.29411764705882354,0.05882352941176471,en,1.7
 Red King,Red King,ORG,0.0,0.0,en,1.7
 Notre Dame,Notre Dame,ORG,0.11764705882352944,0.3823529411764706,en,1.7
-Borroloola,Borroloola,ORG,0.11764705882352942,0.0,en,1.7
+Borroloola,Borroloola,ORG,0.11764705882352942,0.23529411764705885,en,1.7
 +3962,+3962,ORG,-0.07058823529411765,0.4117647058823529,en,1.7
 SUAO,SUAO,ORG,-0.039215686274509796,0.411764705882353,en,1.7
 Cadillac,Cadillac,ORG,-0.3088235294117647,0.4264705882352941,en,1.7
@@ -1011,7 +1011,7 @@ Cotality,Cotality,ORG,0.5,0.0,en,1.0
 the Buffalo Bills',the Buffalo Bills',ORG,0.06818181818181818,0.0,en,1.0
 FOX News Media's,FOX News Media's,ORG,0.17752525252525253,0.0,en,1.0
 Atlantas NPR,Atlantas NPR,ORG,0.0,0.0,en,1.0
-Tanagra,Tanagra,ORG,-0.025,0.0,en,1.0
+Corduroy Plants,Corduroy Plants,ORG,0.14727272727272728,0.0,en,1.0
 Florida Land Development at IDEAS Conference,Florida Land Development at IDEAS Conference,ORG,0.0,0.0,en,1.0
 Mother Jones Daily,Mother Jones Daily,ORG,0.2,0.0,en,1.0
 HUD,HUD,ORG,-0.1,0.0,en,1.0
@@ -1030,7 +1030,7 @@ the US National Hurricane Cent,the US National Hurricane Cent,ORG,0.4,0.0,en,1.0
 the Department of Housing and Urban Development,the Department of Housing and Urban Development,ORG,0.08333333333333333,0.0,en,1.0
 "State Key Laboratory of Earth System Numerical Modeling and Application, Institute of Atmospheric Physics","State Key Laboratory of Earth System Numerical Modeling and Application, Institute of Atmospheric Physics",ORG,0.0,0.0,en,1.0
 ProtoThema,ProtoThema,ORG,0.22321428571428573,0.0,en,1.0
-Corduroy Plants,Corduroy Plants,ORG,0.14727272727272728,0.0,en,1.0
+Tanagra,Tanagra,ORG,-0.025,0.0,en,1.0
 Bleeding Cool,Bleeding Cool,ORG,0.3,0.0,en,1.0
 Alico Maps Shift From Citrus,Alico Maps Shift From Citrus,ORG,0.0,0.0,en,1.0
 LOLtron,LOLtron,ORG,0.3,0.0,en,1.0
@@ -2502,8 +2502,8 @@ the Royal Meteorological Society,the Royal Meteorological Society,ORG,0.32,0.0,e
 Strength And Climate Truth Shine After Hurricane Melissa,Strength And Climate Truth Shine After Hurricane Melissa,ORG,0.0,0.0,en,1.0
 The United Nations General Assembly,The United Nations General Assembly,ORG,0.55,0.75,en,1.0
 "the Portuguese Cluster for Aeronautics, Space and Defence Industries","the Portuguese Cluster for Aeronautics, Space and Defence Industries",ORG,0.0,0.0,en,1.0
-UNOCHA,UNOCHA,ORG,0.0,0.0,en,1.0
 the European Union's,the European Union's,ORG,0.04,0.0,en,1.0
+UNOCHA,UNOCHA,ORG,0.0,0.0,en,1.0
 timehave,timehave,ORG,0.09166666666666667,0.0,en,1.0
 oftensignificantly,oftensignificantly,ORG,0.09166666666666667,0.0,en,1.0
 anyo,anyo,ORG,0.09166666666666667,0.0,en,1.0
