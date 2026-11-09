@@ -314,7 +314,7 @@ ANSA,ANSA,ORG,0.0,0.0,en,2.5999999999999996
 the Gold Coast,the Gold Coast,ORG,0.03685897435897436,0.24038461538461542,en,2.5999999999999996
 Super Typhoon Doksuri,Super Typhoon Doksuri,ORG,0.2916666666666667,0.4123263888888889,en,2.4
 Allegiant Air,Allegiant Air,ORG,0.026041666666666668,0.20833333333333334,en,2.4
-ADF,ADF,ORG,0.0,0.0,en,2.4
+UCF,UCF,ORG,-0.22222222222222224,0.2361111111111111,en,2.4
 Lumen,Lumen,ORG,0.009523809523809523,0.455952380952381,en,2.4
 UAB,UAB,ORG,0.25,0.20833333333333334,en,2.4
 Forbes Daily,Forbes Daily,ORG,0.052083333333333336,0.125,en,2.4
@@ -330,7 +330,7 @@ Enhanced Air Policing,Enhanced Air Policing,ORG,-0.5000000000000001,0.4166666666
 Europa Clipper,Europa Clipper,ORG,0.0740740740740741,0.4282407407407407,en,2.4
 Margot,Margot,ORG,0.0,0.16666666666666669,en,2.4
 Hurricane Margot Graphics,Hurricane Margot Graphics,ORG,0.0,0.0,en,2.4
-UCF,UCF,ORG,-0.22222222222222224,0.2361111111111111,en,2.4
+ADF,ADF,ORG,0.0,0.0,en,2.4
 the Miami Hurricanes,the Miami Hurricanes,ORG,0.0,0.0,en,2.4
 Kanye West,Kanye West,ORG,0.041666666666666685,0.04166666666666667,en,2.4
 Florida Realtors,Florida Realtors,ORG,0.08333333333333334,0.12500000000000003,en,2.4
@@ -609,7 +609,7 @@ National Meteorological Centre,National Meteorological Centre,ORG,-0.05882352941
 The UK Government,The UK Government,ORG,0.29411764705882354,0.05882352941176471,en,1.7
 Red King,Red King,ORG,0.0,0.0,en,1.7
 Notre Dame,Notre Dame,ORG,0.11764705882352944,0.3823529411764706,en,1.7
-Borroloola,Borroloola,ORG,0.11764705882352942,0.23529411764705885,en,1.7
+Borroloola,Borroloola,ORG,0.11764705882352942,0.0,en,1.7
 +3962,+3962,ORG,-0.07058823529411765,0.4117647058823529,en,1.7
 SUAO,SUAO,ORG,-0.039215686274509796,0.411764705882353,en,1.7
 Cadillac,Cadillac,ORG,-0.3088235294117647,0.4264705882352941,en,1.7
@@ -1438,7 +1438,7 @@ CCA,CCA,ORG,0.0,0.0,en,1.0
 Ghost Bat Collaborative Combat Aircraft,Ghost Bat Collaborative Combat Aircraft,ORG,0.0,0.0,en,1.0
 Boeing Defence,Boeing Defence,ORG,0.0,0.0,en,1.0
 The Weather Network,The Weather Network,ORG,0.0,0.0,en,1.0
-ROC Central News Agency,ROC Central News Agency,ORG,0.0,0.0,en,1.0
+European Union,European Union,ORG,-0.05,0.0,en,1.0
 Championship Game,Championship Game,ORG,-0.4,0.0,en,1.0
 SportsLine,SportsLine,ORG,-0.03333333333333335,0.0,en,1.0
 KatRisk,KatRisk,ORG,0.08333333333333333,0.0,en,1.0
@@ -1458,7 +1458,7 @@ Office of Inspector General,Office of Inspector General,ORG,0.02500000000000001,
 the Auburn Tigers,the Auburn Tigers,ORG,-0.03333333333333335,0.0,en,1.0
 WASHINGTON FEMA,WASHINGTON FEMA,ORG,0.25,0.0,en,1.0
 Harley-Davidson CVO Limited at,Harley-Davidson CVO Limited at,ORG,-0.07142857142857142,0.0,en,1.0
-European Union,European Union,ORG,-0.05,0.0,en,1.0
+the Copernicus Climate Change Service,the Copernicus Climate Change Service,ORG,-0.05,0.0,en,1.0
 Catholic Charities Hawaii,Catholic Charities Hawaii,ORG,0.18333333333333335,0.0,en,1.0
 Homeland,Homeland,ORG,0.12878787878787878,0.0,en,1.0
 Change.org,Change.org,ORG,1.0,0.0,en,1.0
@@ -1470,7 +1470,7 @@ Press Information,Press Information,ORG,0.0,0.0,en,1.0
 NT communities,NT communities,ORG,0.0,0.0,en,1.0
 Simpson Buffalo Bills Wall of Fame Omission Sparks Protest,Simpson Buffalo Bills Wall of Fame Omission Sparks Protest,ORG,0.0,0.0,en,1.0
 A Federal Emergency Management Agency,A Federal Emergency Management Agency,ORG,0.0,0.0,en,1.0
-the Copernicus Climate Change Service,the Copernicus Climate Change Service,ORG,-0.05,0.0,en,1.0
+ROC Central News Agency,ROC Central News Agency,ORG,0.0,0.0,en,1.0
 the Knights of Columbus,the Knights of Columbus,ORG,0.18333333333333335,0.0,en,1.0
 Bills,Bills,ORG,1.0,0.0,en,1.0
 Cyclone Hits Northern Australia,Cyclone Hits Northern Australia,ORG,0.0,0.0,en,1.0
